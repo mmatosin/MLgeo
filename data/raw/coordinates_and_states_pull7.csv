@@ -1,0 +1,6604 @@
+Lat,Long,State
+-42.65,138.44,None
+-37.24,125.4,None
+-32.67,127.16,None
+-41.03,113.45,None
+-10.11,125.35,None
+-19.7,137.99,Queensland
+-30.18,134.67,South Australia
+-19.25,129.32,South Australia
+-16.66,135.65,South Australia
+-42.52,136.83,South Australia
+-26.19,115.14,South Australia
+-29.63,148.56,New South Wales
+-24.08,122.0,Western Australia
+-33.6,133.62,None
+-39.81,126.33,None
+-18.61,133.89,Northern Territory
+-36.82,149.85,New South Wales
+-22.09,142.0,Queensland
+-23.96,124.98,Western Australia
+-11.0,123.18,None
+-20.22,131.63,Northern Territory
+-42.95,115.86,None
+-14.5,133.22,Northern Territory
+-26.76,122.11,Western Australia
+-32.9,133.31,None
+-31.75,126.93,Western Australia
+-21.38,148.07,Queensland
+-33.76,122.98,Western Australia
+-18.87,128.55,Western Australia
+-28.6,144.1,Queensland
+-23.22,151.61,None
+-35.01,129.7,None
+-21.4,130.94,Northern Territory
+-31.64,115.26,None
+-20.52,121.18,Western Australia
+-18.81,152.04,None
+-36.12,116.9,None
+-28.62,147.78,Queensland
+-40.32,150.0,None
+-40.97,133.54,None
+-18.99,136.23,Northern Territory
+-22.85,136.22,Northern Territory
+-33.79,135.54,South Australia
+-32.38,121.23,Western Australia
+-30.02,117.54,Western Australia
+-24.39,124.82,Western Australia
+-24.67,134.86,Northern Territory
+-30.79,135.58,South Australia
+-23.2,140.45,Queensland
+-22.77,126.02,Western Australia
+-25.48,129.12,Northern Territory
+-27.56,120.31,Western Australia
+-16.63,144.41,Queensland
+-11.71,153.65,None
+-33.07,115.38,None
+-17.76,130.73,Northern Territory
+-41.5,120.87,None
+-31.89,143.36,New South Wales
+-36.47,138.41,None
+-15.01,117.71,None
+-34.38,140.17,South Australia
+-19.27,133.63,Northern Territory
+-23.88,113.8,Western Australia
+-22.99,128.39,Western Australia
+-23.33,140.05,Queensland
+-23.72,131.06,Northern Territory
+-22.67,120.41,Western Australia
+-13.52,123.22,None
+-23.71,128.26,Western Australia
+-26.69,135.4,South Australia
+-36.14,151.93,None
+-22.77,130.06,Northern Territory
+-36.39,145.73,Victoria
+-11.1,113.75,None
+-38.01,131.06,None
+-22.7,113.38,None
+-30.85,116.0,Western Australia
+-18.66,145.5,Queensland
+-37.18,138.65,None
+-41.54,120.07,None
+-17.03,152.18,None
+-15.61,137.2,None
+-37.3,114.89,None
+-17.07,121.04,None
+-25.51,153.63,None
+-40.65,141.25,None
+-17.8,151.7,None
+-36.54,134.14,None
+-38.7,152.57,None
+-28.86,122.15,Western Australia
+-42.92,130.54,None
+-32.56,142.68,New South Wales
+-14.14,121.94,None
+-37.46,151.16,None
+-33.34,130.24,None
+-29.74,137.24,South Australia
+-10.05,144.0,None
+-30.49,121.09,Western Australia
+-40.29,144.11,None
+-42.77,142.86,None
+-37.52,131.0,None
+-13.03,120.08,None
+-23.59,120.19,Western Australia
+-31.87,130.0,None
+-9.16,118.6,None
+-33.48,151.33,New South Wales
+-42.82,139.99,None
+-42.13,127.0,None
+-20.02,152.5,None
+-26.54,149.33,Queensland
+-22.89,114.02,Western Australia
+-28.38,119.99,Western Australia
+-33.62,149.03,New South Wales
+-26.68,143.89,Queensland
+-20.5,147.0,Queensland
+-31.59,138.83,South Australia
+-26.45,138.76,South Australia
+-26.07,149.78,Queensland
+-37.86,120.14,None
+-16.17,147.09,None
+-11.55,147.37,None
+-15.05,126.64,Western Australia
+-19.14,129.36,Northern Territory
+-14.71,116.55,None
+-14.68,130.96,Northern Territory
+-11.09,135.59,None
+-30.82,117.09,Western Australia
+-22.24,121.94,Western Australia
+-40.63,153.83,None
+-15.93,131.68,Northern Territory
+-30.85,144.14,New South Wales
+-13.11,122.76,None
+-31.85,142.43,New South Wales
+-29.33,119.56,Western Australia
+-9.32,117.17,None
+-35.68,120.16,None
+-27.4,147.75,Queensland
+-23.68,140.55,Queensland
+-19.07,143.95,Queensland
+-30.59,130.56,South Australia
+-22.38,140.22,Queensland
+-10.74,153.67,None
+-41.61,137.19,None
+-37.68,148.68,Victoria
+-18.36,135.2,Northern Territory
+-12.55,128.02,None
+-34.5,138.2,South Australia
+-33.24,134.67,South Australia
+-26.37,122.68,Western Australia
+-40.37,127.61,None
+-24.28,120.84,Western Australia
+-19.08,128.59,Western Australia
+-9.68,146.99,None
+-26.55,136.41,South Australia
+-11.25,136.98,None
+-9.62,117.78,None
+-38.25,133.76,None
+-32.4,143.86,New South Wales
+-34.91,129.26,None
+-13.68,123.11,None
+-17.61,123.19,Western Australia
+-19.66,135.1,Northern Territory
+-24.1,152.67,None
+-9.44,137.64,None
+-37.3,129.95,None
+-9.48,140.0,None
+-32.41,138.92,South Australia
+-29.95,149.55,New South Wales
+-39.75,150.85,None
+-30.83,134.75,South Australia
+-29.86,143.0,New South Wales
+-34.19,137.9,South Australia
+-25.74,137.77,Northern Territory
+-25.5,144.47,Queensland
+-28.4,144.64,Queensland
+-28.2,131.42,South Australia
+-23.06,117.22,Western Australia
+-23.55,137.46,Northern Territory
+-40.65,122.14,None
+-10.76,153.55,None
+-36.46,123.48,None
+-31.97,140.43,South Australia
+-40.09,115.75,None
+-31.61,122.73,Western Australia
+-32.0,133.02,South Australia
+-29.15,133.31,South Australia
+-40.61,127.92,None
+-24.39,142.81,Queensland
+-36.19,143.66,Victoria
+-26.08,151.34,None
+-22.82,133.52,Northern Territory
+-11.28,143.19,None
+-22.03,126.7,Western Australia
+-40.61,117.85,None
+-42.1,140.15,None
+-10.85,125.52,None
+-31.63,126.84,Western Australia
+-27.07,126.37,Western Australia
+-17.23,145.28,Queensland
+-26.64,147.21,Queensland
+-14.4,117.77,None
+-13.38,152.82,None
+-13.13,150.38,None
+-19.01,130.96,Northern Territory
+-42.78,125.22,None
+-28.59,135.08,South Australia
+-19.82,123.26,Western Australia
+-31.83,113.66,None
+-21.84,130.73,Northern Territory
+-32.79,133.5,None
+-31.46,149.21,New South Wales
+-27.0,132.83,South Australia
+-17.92,140.65,Queensland
+-20.26,143.64,Queensland
+-28.55,132.0,South Australia
+-15.66,138.67,None
+-20.11,125.41,Western Australia
+-32.18,117.97,Western Australia
+-23.24,122.49,Western Australia
+-10.46,123.99,None
+-11.22,152.54,None
+-42.0,148.21,Tasmania
+-17.64,116.97,None
+-19.1,127.0,Western Australia
+-39.62,139.35,None
+-18.11,113.62,None
+-18.3,137.45,Northern Territory
+-42.69,152.58,None
+-18.67,118.58,None
+-18.31,122.62,Western Australia
+-40.89,146.83,None
+-14.39,128.32,None
+-13.66,114.61,None
+-14.92,150.86,None
+-22.56,149.0,Queensland
+-9.03,131.1,None
+-10.92,150.67,None
+-40.32,129.26,None
+-37.76,124.2,None
+-19.64,148.73,None
+-31.15,131.72,South Australia
+-19.72,123.61,Western Australia
+-24.59,132.54,Northern Territory
+-41.11,141.42,None
+-14.02,126.38,None
+-12.01,119.94,None
+-30.28,135.67,South Australia
+-29.82,130.53,South Australia
+-22.13,126.68,Western Australia
+-9.61,118.29,None
+-42.49,153.47,None
+-33.66,137.69,South Australia
+-40.08,153.48,None
+-29.21,131.19,South Australia
+-28.45,113.81,None
+-20.18,127.03,Western Australia
+-13.43,149.82,None
+-15.6,127.73,Western Australia
+-23.31,151.49,None
+-15.3,140.55,None
+-18.01,120.02,None
+-30.44,148.7,New South Wales
+-41.16,124.35,None
+-18.17,137.22,Northern Territory
+-14.41,123.54,None
+-17.01,140.61,None
+-21.82,115.13,Western Australia
+-34.76,122.46,None
+-19.36,149.53,None
+-9.06,152.37,None
+-10.49,131.62,None
+-36.97,120.12,None
+-32.41,143.72,New South Wales
+-9.67,138.61,None
+-24.3,124.7,Western Australia
+-29.68,140.77,South Australia
+-39.19,149.27,None
+-13.73,129.4,None
+-38.44,136.4,None
+-25.75,118.68,Western Australia
+-28.37,114.63,Western Australia
+-10.74,124.75,None
+-22.21,113.07,None
+-42.34,128.75,None
+-35.28,115.61,None
+-10.76,139.4,None
+-40.65,118.61,None
+-18.56,142.95,Queensland
+-9.22,119.75,None
+-41.66,144.78,None
+-42.9,152.63,None
+-20.92,127.39,Western Australia
+-32.41,145.19,New South Wales
+-15.09,130.54,Northern Territory
+-22.82,146.11,Queensland
+-19.43,117.26,None
+-27.31,143.35,Queensland
+-23.11,126.13,Western Australia
+-13.06,145.09,None
+-19.3,120.0,None
+-25.57,152.82,Queensland
+-14.34,115.74,None
+-22.08,149.87,None
+-35.69,130.64,None
+-21.07,145.73,Queensland
+-40.1,146.54,None
+-33.63,142.1,New South Wales
+-29.58,125.2,Western Australia
+-15.33,136.03,Northern Territory
+-39.75,138.74,None
+-41.6,149.17,None
+-19.73,115.52,None
+-37.79,123.56,None
+-34.97,118.07,Western Australia
+-35.64,146.08,New South Wales
+-16.95,153.08,None
+-24.92,129.28,Northern Territory
+-37.17,117.72,None
+-23.64,140.91,Queensland
+-41.45,115.12,None
+-33.58,144.22,New South Wales
+-9.04,141.91,None
+-40.97,127.17,None
+-15.57,117.88,None
+-20.75,114.68,None
+-38.21,125.31,None
+-39.54,134.55,None
+-27.47,148.94,Queensland
+-30.08,139.11,South Australia
+-29.49,147.13,New South Wales
+-35.31,119.68,None
+-32.48,143.9,New South Wales
+-36.25,131.0,None
+-33.34,150.43,New South Wales
+-35.65,120.34,None
+-17.17,124.35,Western Australia
+-39.55,151.39,None
+-17.45,122.42,Western Australia
+-34.43,134.8,None
+-24.1,123.64,Western Australia
+-39.84,132.15,None
+-33.19,120.52,Western Australia
+-17.06,153.4,None
+-20.07,120.95,Western Australia
+-42.05,148.47,None
+-18.21,122.32,Western Australia
+-25.71,140.63,Queensland
+-32.28,132.59,None
+-33.7,131.74,None
+-28.1,145.75,Queensland
+-21.61,137.66,Northern Territory
+-34.16,126.25,None
+-39.88,152.08,None
+-10.72,132.32,None
+-25.25,142.04,Queensland
+-36.83,146.54,Victoria
+-14.45,121.9,None
+-16.07,136.16,Northern Territory
+-24.55,141.15,Queensland
+-13.6,133.15,Northern Territory
+-19.69,131.4,Northern Territory
+-28.42,114.1,None
+-20.77,136.0,Northern Territory
+-12.38,126.87,None
+-39.58,124.43,None
+-26.67,127.28,Western Australia
+-19.53,148.13,None
+-35.2,133.17,None
+-31.46,150.03,New South Wales
+-10.36,123.06,None
+-25.95,116.51,Western Australia
+-16.11,122.74,None
+-16.05,151.17,None
+-34.56,123.43,None
+-34.11,121.75,None
+-39.28,130.5,None
+-30.95,147.84,New South Wales
+-24.46,152.6,None
+-24.1,124.71,Western Australia
+-41.38,128.86,None
+-16.95,124.18,Western Australia
+-33.0,149.11,New South Wales
+-35.55,129.49,None
+-13.72,126.23,None
+-35.95,115.98,None
+-27.38,135.5,South Australia
+-37.27,142.79,Victoria
+-12.84,119.93,None
+-17.8,144.68,Queensland
+-19.87,113.09,None
+-23.76,144.5,Queensland
+-17.16,136.38,Northern Territory
+-9.01,140.63,None
+-41.76,140.88,None
+-36.33,113.06,None
+-32.76,152.29,New South Wales
+-36.68,133.4,None
+-15.33,147.25,None
+-11.47,150.87,None
+-30.38,117.07,Western Australia
+-21.02,138.38,Queensland
+-41.19,129.23,None
+-38.37,137.91,None
+-28.95,146.78,Queensland
+-15.89,150.21,None
+-31.91,117.35,Western Australia
+-25.32,149.98,Queensland
+-21.16,126.41,Western Australia
+-39.37,144.87,Victoria
+-11.56,127.24,None
+-26.5,126.26,Western Australia
+-41.95,118.86,None
+-26.72,134.21,South Australia
+-38.6,115.52,None
+-30.2,141.01,New South Wales
+-21.16,121.33,Western Australia
+-23.85,118.0,Western Australia
+-33.11,136.69,None
+-21.91,116.76,Western Australia
+-34.91,124.76,None
+-37.33,140.04,South Australia
+-38.8,150.22,None
+-14.5,140.34,None
+-33.96,114.81,None
+-38.88,136.47,None
+-18.58,148.7,None
+-32.32,153.45,None
+-15.13,135.92,None
+-32.59,151.07,New South Wales
+-25.46,147.96,Queensland
+-16.14,130.64,Northern Territory
+-10.75,126.86,None
+-17.71,148.55,None
+-11.14,152.95,None
+-39.8,148.22,None
+-24.91,148.98,Queensland
+-29.54,150.96,New South Wales
+-25.61,141.75,Queensland
+-26.57,144.41,Queensland
+-16.38,128.79,Western Australia
+-31.5,136.02,South Australia
+-25.53,149.95,Queensland
+-30.54,129.79,South Australia
+-40.05,143.32,None
+-38.19,114.3,None
+-24.45,131.85,Northern Territory
+-40.88,125.44,None
+-22.09,124.88,Western Australia
+-38.3,122.18,None
+-20.17,131.91,Northern Territory
+-16.65,120.89,None
+-11.98,151.6,None
+-39.34,150.52,None
+-30.61,143.21,New South Wales
+-42.9,151.33,None
+-41.83,128.01,None
+-37.41,148.08,Victoria
+-37.39,125.9,None
+-9.79,128.34,None
+-10.34,142.96,None
+-36.8,130.71,None
+-25.6,122.08,Western Australia
+-36.85,127.3,None
+-25.36,150.82,Queensland
+-18.86,141.1,Queensland
+-11.89,139.35,None
+-40.73,140.71,None
+-29.02,137.19,South Australia
+-15.98,129.74,Northern Territory
+-36.01,116.1,None
+-22.25,138.33,Queensland
+-27.63,125.95,Western Australia
+-12.67,138.17,None
+-40.91,153.24,None
+-22.54,151.88,None
+-33.02,149.49,New South Wales
+-16.47,133.66,Northern Territory
+-37.24,123.35,None
+-9.32,144.37,None
+-19.55,130.09,Northern Territory
+-22.26,150.77,None
+-19.67,116.57,None
+-20.06,136.08,Northern Territory
+-41.44,133.57,None
+-42.33,149.4,None
+-14.47,119.0,None
+-19.65,144.67,Queensland
+-32.1,149.26,New South Wales
+-40.13,116.64,None
+-29.74,114.56,None
+-32.53,131.12,None
+-26.63,113.2,None
+-37.59,133.75,None
+-23.3,153.95,None
+-30.12,132.76,South Australia
+-28.13,123.69,Western Australia
+-23.63,139.04,Queensland
+-30.37,146.17,New South Wales
+-12.39,124.01,None
+-15.2,125.18,Western Australia
+-13.28,114.63,None
+-40.67,123.11,None
+-42.93,133.86,None
+-12.41,151.66,None
+-12.52,119.46,None
+-35.03,132.72,None
+-16.58,143.37,Queensland
+-20.77,124.16,Western Australia
+-39.55,146.51,None
+-19.1,113.87,None
+-21.65,118.53,Western Australia
+-25.41,120.54,Western Australia
+-14.51,151.17,None
+-28.7,136.27,South Australia
+-29.33,135.78,South Australia
+-36.47,114.37,None
+-30.55,127.83,Western Australia
+-16.07,152.14,None
+-27.17,137.33,South Australia
+-19.07,144.24,Queensland
+-41.94,141.05,None
+-19.28,117.44,None
+-36.92,128.04,None
+-18.64,131.05,Northern Territory
+-23.77,117.81,Western Australia
+-29.43,137.32,South Australia
+-12.54,137.83,None
+-30.1,133.13,South Australia
+-32.26,134.8,South Australia
+-33.5,150.98,New South Wales
+-19.34,113.96,None
+-16.12,141.1,None
+-26.21,116.3,Western Australia
+-32.38,149.58,New South Wales
+-38.36,120.25,None
+-13.64,114.96,None
+-38.95,136.46,None
+-31.5,116.0,Western Australia
+-34.09,136.34,South Australia
+-14.42,151.03,None
+-41.61,143.26,None
+-26.32,121.58,Western Australia
+-9.46,115.51,None
+-34.51,152.92,None
+-38.62,139.4,None
+-25.32,137.63,Northern Territory
+-21.18,137.1,Northern Territory
+-33.72,123.63,Western Australia
+-22.17,148.24,Queensland
+-15.65,131.48,Northern Territory
+-42.1,124.21,None
+-23.95,120.48,Western Australia
+-10.33,133.45,None
+-27.56,143.6,Queensland
+-31.28,136.87,South Australia
+-23.74,127.64,Western Australia
+-12.27,138.08,None
+-42.91,124.21,None
+-33.22,130.88,None
+-19.9,125.5,Western Australia
+-40.98,126.2,None
+-15.23,150.86,None
+-38.13,152.45,None
+-40.81,134.86,None
+-41.55,120.76,None
+-24.07,113.79,Western Australia
+-14.52,114.42,None
+-24.54,124.94,Western Australia
+-38.0,153.34,None
+-16.3,144.1,Queensland
+-16.33,132.67,Northern Territory
+-9.39,133.71,None
+-32.6,136.13,South Australia
+-28.03,134.66,South Australia
+-32.14,142.62,New South Wales
+-36.56,113.92,None
+-27.66,131.41,South Australia
+-9.9,120.9,None
+-19.81,117.98,None
+-9.44,125.98,None
+-20.17,129.28,Northern Territory
+-12.02,135.77,Northern Territory
+-30.08,144.57,New South Wales
+-21.04,128.15,Western Australia
+-38.22,150.85,None
+-32.39,127.53,None
+-42.19,135.11,None
+-29.58,125.41,Western Australia
+-36.15,140.38,South Australia
+-35.96,151.82,None
+-42.48,128.86,None
+-32.23,133.65,South Australia
+-26.97,122.39,Western Australia
+-9.98,126.31,None
+-38.46,132.53,None
+-11.46,115.6,None
+-22.31,153.3,None
+-22.78,146.46,Queensland
+-24.46,137.58,Northern Territory
+-10.6,152.13,None
+-39.64,122.82,None
+-39.48,115.39,None
+-24.17,149.24,Queensland
+-23.39,120.03,Western Australia
+-37.56,144.2,Victoria
+-22.73,145.84,Queensland
+-23.26,114.22,Western Australia
+-19.51,135.32,Northern Territory
+-14.84,125.29,Western Australia
+-33.39,151.69,None
+-39.69,115.01,None
+-34.1,126.11,None
+-41.8,138.06,None
+-12.97,147.44,None
+-31.98,153.45,None
+-13.2,141.17,None
+-17.82,125.34,Western Australia
+-39.16,146.98,None
+-28.03,136.8,South Australia
+-22.04,127.37,Western Australia
+-35.48,120.06,None
+-28.25,151.86,Queensland
+-22.95,153.5,None
+-31.62,120.74,Western Australia
+-12.24,114.16,None
+-34.86,136.81,None
+-25.9,116.03,Western Australia
+-23.38,125.7,Western Australia
+-10.09,124.13,None
+-35.99,148.59,New South Wales
+-38.06,152.46,None
+-13.91,124.39,None
+-10.89,136.45,None
+-9.8,129.01,None
+-21.0,127.15,Western Australia
+-27.53,132.29,South Australia
+-30.57,130.38,South Australia
+-25.91,115.27,Western Australia
+-32.22,133.55,None
+-31.87,139.92,South Australia
+-31.69,117.57,Western Australia
+-27.22,121.88,Western Australia
+-40.49,150.53,None
+-20.48,140.22,Queensland
+-40.15,148.15,Tasmania
+-27.11,136.84,South Australia
+-42.25,116.2,None
+-17.95,134.21,Northern Territory
+-15.74,146.85,None
+-40.22,121.8,None
+-42.13,118.31,None
+-35.3,147.12,New South Wales
+-39.5,131.26,None
+-23.49,147.95,Queensland
+-21.13,142.0,Queensland
+-14.93,129.63,Northern Territory
+-15.3,115.3,None
+-38.14,149.6,None
+-25.31,151.88,Queensland
+-17.0,137.06,Northern Territory
+-29.74,127.07,Western Australia
+-11.99,119.74,None
+-42.98,116.71,None
+-36.01,129.38,None
+-18.06,139.47,Queensland
+-28.49,144.99,Queensland
+-21.27,146.53,Queensland
+-39.66,124.66,None
+-38.35,145.99,Victoria
+-31.31,125.72,Western Australia
+-20.76,141.0,Queensland
+-29.48,123.27,Western Australia
+-29.38,129.8,South Australia
+-28.32,123.52,Western Australia
+-35.85,146.71,New South Wales
+-29.13,113.45,None
+-32.25,130.5,None
+-36.79,138.95,None
+-27.98,153.69,None
+-31.39,130.02,South Australia
+-9.07,137.53,None
+-42.36,150.42,None
+-42.19,145.7,Tasmania
+-41.49,149.01,None
+-29.49,129.83,South Australia
+-40.13,122.21,None
+-39.43,124.43,None
+-11.58,117.21,None
+-23.83,153.32,None
+-18.81,128.71,Western Australia
+-36.66,128.25,None
+-13.85,132.44,Northern Territory
+-17.01,150.0,None
+-18.13,139.32,Queensland
+-31.13,132.34,South Australia
+-32.22,145.88,New South Wales
+-30.56,137.01,South Australia
+-38.28,139.01,None
+-22.4,134.68,Northern Territory
+-33.91,116.69,Western Australia
+-12.43,130.73,Northern Territory
+-20.81,132.91,Northern Territory
+-14.7,140.18,None
+-20.83,138.17,Queensland
+-31.8,125.4,Western Australia
+-42.93,139.44,None
+-18.29,117.53,None
+-15.35,152.4,None
+-37.47,129.47,None
+-39.95,123.62,None
+-20.88,118.77,Western Australia
+-20.9,119.35,Western Australia
+-13.17,139.33,None
+-11.7,147.92,None
+-39.17,128.24,None
+-20.06,129.51,Northern Territory
+-30.5,142.53,New South Wales
+-11.71,147.56,None
+-16.96,129.91,Northern Territory
+-25.74,126.88,Western Australia
+-9.09,135.57,None
+-23.71,115.0,Western Australia
+-35.96,131.49,None
+-9.1,121.98,None
+-25.97,144.59,Queensland
+-37.25,140.38,South Australia
+-40.71,140.46,None
+-15.23,149.69,None
+-11.26,145.54,None
+-14.39,118.73,None
+-21.76,141.26,Queensland
+-42.15,139.85,None
+-35.04,140.9,South Australia
+-21.5,144.81,Queensland
+-18.59,145.73,Queensland
+-28.96,143.72,Queensland
+-13.57,115.1,None
+-12.09,126.82,None
+-29.21,151.4,New South Wales
+-40.31,130.71,None
+-26.11,113.12,Western Australia
+-35.49,132.24,None
+-27.64,121.71,Western Australia
+-35.54,115.38,None
+-10.81,135.36,None
+-10.61,131.79,None
+-9.35,117.27,None
+-11.9,146.16,None
+-21.43,125.01,Western Australia
+-24.49,141.76,Queensland
+-19.57,114.86,None
+-23.68,134.91,Northern Territory
+-21.3,121.11,Western Australia
+-17.26,150.08,None
+-37.95,138.13,None
+-24.23,145.54,Queensland
+-34.4,142.84,New South Wales
+-9.28,139.66,None
+-23.15,142.56,Queensland
+-34.28,144.98,New South Wales
+-17.92,136.43,Northern Territory
+-42.26,124.81,None
+-29.95,145.58,New South Wales
+-31.22,129.4,South Australia
+-42.75,142.9,None
+-30.11,144.19,New South Wales
+-22.2,134.01,Northern Territory
+-21.52,143.62,Queensland
+-17.03,130.99,Northern Territory
+-19.59,133.56,Northern Territory
+-17.91,130.0,Northern Territory
+-15.71,146.05,None
+-31.45,122.51,Western Australia
+-38.64,115.91,None
+-15.37,127.17,Western Australia
+-12.11,122.33,None
+-32.02,116.19,Western Australia
+-12.5,123.83,None
+-34.38,132.72,None
+-31.28,114.76,None
+-10.77,135.79,None
+-25.33,121.16,Western Australia
+-23.68,150.98,Queensland
+-27.89,115.09,Western Australia
+-42.76,139.83,None
+-38.27,120.76,None
+-34.88,114.89,None
+-36.58,140.3,South Australia
+-20.72,117.83,Western Australia
+-34.66,138.39,South Australia
+-40.15,123.77,None
+-28.92,120.04,Western Australia
+-42.63,137.49,None
+-23.05,117.97,Western Australia
+-35.19,153.59,None
+-31.89,132.94,South Australia
+-21.81,122.64,Western Australia
+-16.63,124.98,Western Australia
+-11.53,142.73,Queensland
+-32.13,116.9,Western Australia
+-22.16,139.72,Queensland
+-41.85,148.92,None
+-21.16,142.19,Queensland
+-31.45,145.3,New South Wales
+-35.07,153.97,None
+-9.0,124.05,None
+-18.25,144.69,Queensland
+-9.2,117.28,None
+-22.2,129.25,Northern Territory
+-36.57,132.28,None
+-35.31,118.87,None
+-27.27,128.8,Western Australia
+-36.52,125.0,None
+-33.21,130.36,None
+-35.01,115.02,None
+-37.99,136.21,None
+-39.2,142.34,None
+-11.87,136.88,None
+-33.0,152.21,None
+-15.63,147.96,None
+-9.34,123.92,None
+-17.99,142.32,Queensland
+-31.58,130.27,South Australia
+-32.76,132.96,None
+-20.61,131.26,Northern Territory
+-42.2,116.15,None
+-25.41,137.21,Northern Territory
+-29.68,125.14,Western Australia
+-37.0,139.26,None
+-18.06,135.36,Northern Territory
+-40.5,119.28,None
+-24.52,143.57,Queensland
+-17.09,128.66,Western Australia
+-30.11,144.98,New South Wales
+-30.91,152.54,New South Wales
+-19.05,134.55,Northern Territory
+-14.24,142.13,Queensland
+-13.93,141.72,Queensland
+-26.4,135.57,South Australia
+-19.26,123.87,Western Australia
+-15.51,132.38,Northern Territory
+-14.56,114.42,None
+-11.13,141.79,None
+-29.54,146.45,New South Wales
+-10.19,140.74,None
+-14.67,140.08,None
+-39.55,137.91,None
+-33.28,150.57,New South Wales
+-18.16,119.84,None
+-9.84,129.61,None
+-38.48,124.06,None
+-11.48,118.83,None
+-31.35,144.32,New South Wales
+-12.03,134.6,None
+-22.26,132.74,Northern Territory
+-22.21,114.81,Western Australia
+-19.74,113.63,None
+-39.46,140.54,None
+-27.76,139.94,South Australia
+-23.77,135.2,Northern Territory
+-26.38,134.05,South Australia
+-31.49,147.07,New South Wales
+-20.04,115.52,None
+-27.54,141.65,Queensland
+-22.78,132.04,Northern Territory
+-37.52,119.75,None
+-25.17,141.28,Queensland
+-25.1,122.54,Western Australia
+-25.45,131.0,Northern Territory
+-17.42,148.28,None
+-20.89,140.47,Queensland
+-37.59,143.17,Victoria
+-27.01,153.14,Queensland
+-30.32,127.0,Western Australia
+-19.19,128.29,Western Australia
+-27.08,142.41,Queensland
+-10.32,125.81,None
+-28.1,144.92,Queensland
+-26.91,143.06,Queensland
+-30.2,129.37,South Australia
+-11.05,144.1,None
+-11.06,135.96,None
+-39.12,142.05,None
+-11.78,117.74,None
+-22.03,145.95,Queensland
+-18.98,142.83,Queensland
+-21.92,147.4,Queensland
+-20.04,139.38,Queensland
+-34.28,138.48,South Australia
+-15.02,152.55,None
+-31.48,122.67,Western Australia
+-27.8,145.2,Queensland
+-14.03,148.67,None
+-13.0,150.34,None
+-12.43,114.91,None
+-42.75,120.08,None
+-29.94,122.8,Western Australia
+-40.23,125.12,None
+-12.56,126.38,None
+-12.0,124.32,None
+-23.19,146.36,Queensland
+-26.71,132.18,South Australia
+-27.84,141.62,Queensland
+-10.24,127.91,None
+-40.58,129.25,None
+-10.65,153.31,None
+-41.45,151.63,None
+-21.64,114.77,None
+-9.52,136.93,None
+-40.98,126.99,None
+-12.44,145.89,None
+-12.37,140.14,None
+-42.72,143.3,None
+-11.94,134.46,None
+-32.83,133.69,None
+-39.7,133.38,None
+-38.85,140.81,None
+-11.56,116.31,None
+-10.22,114.3,None
+-21.79,137.76,Northern Territory
+-25.68,133.97,Northern Territory
+-38.98,121.5,None
+-33.74,125.66,None
+-39.43,116.15,None
+-21.73,123.02,Western Australia
+-29.02,131.56,South Australia
+-42.56,146.83,Tasmania
+-31.65,134.77,South Australia
+-27.73,138.74,South Australia
+-23.5,116.76,Western Australia
+-21.27,138.17,Queensland
+-27.84,129.04,South Australia
+-18.02,124.4,Western Australia
+-17.54,125.67,Western Australia
+-17.42,141.43,Queensland
+-32.87,153.75,None
+-36.44,151.91,None
+-33.05,142.66,New South Wales
+-14.51,120.44,None
+-30.17,118.24,Western Australia
+-31.06,115.47,Western Australia
+-16.13,128.08,Western Australia
+-15.53,120.03,None
+-25.48,148.87,Queensland
+-42.81,131.18,None
+-29.18,142.88,New South Wales
+-27.59,149.26,Queensland
+-19.42,138.16,Queensland
+-19.6,121.01,Western Australia
+-31.82,138.49,South Australia
+-41.7,141.96,None
+-20.26,149.55,None
+-37.71,117.21,None
+-13.2,127.62,None
+-23.85,153.59,None
+-24.36,136.62,Northern Territory
+-18.37,132.9,Northern Territory
+-30.32,143.25,New South Wales
+-39.83,130.91,None
+-30.16,152.81,New South Wales
+-10.55,116.17,None
+-23.21,151.37,None
+-14.92,130.1,Northern Territory
+-15.61,128.53,Western Australia
+-39.52,146.62,None
+-37.22,124.63,None
+-16.3,138.64,None
+-19.37,129.32,Northern Territory
+-37.43,143.85,Victoria
+-23.14,121.93,Western Australia
+-38.72,124.07,None
+-35.68,143.84,Victoria
+-39.27,129.6,None
+-30.73,121.28,Western Australia
+-33.93,146.06,New South Wales
+-16.15,127.51,Western Australia
+-27.92,143.47,Queensland
+-15.48,127.31,Western Australia
+-38.33,136.86,None
+-39.72,153.53,None
+-15.94,123.11,None
+-29.3,151.31,New South Wales
+-28.49,146.33,Queensland
+-35.39,126.72,None
+-25.55,116.45,Western Australia
+-39.25,142.23,None
+-31.33,144.1,New South Wales
+-33.47,113.34,None
+-25.11,140.3,Queensland
+-28.16,116.39,Western Australia
+-20.05,144.29,Queensland
+-23.0,136.7,Northern Territory
+-22.42,131.71,Northern Territory
+-34.47,120.89,None
+-12.15,152.92,None
+-22.96,118.37,Western Australia
+-27.07,141.1,Queensland
+-19.79,124.41,Western Australia
+-40.86,131.91,None
+-18.68,119.44,None
+-42.98,153.55,None
+-11.11,125.35,None
+-23.11,128.03,Western Australia
+-15.75,123.35,None
+-18.88,150.58,None
+-33.97,132.4,None
+-15.85,116.92,None
+-30.9,151.35,New South Wales
+-18.33,135.84,Northern Territory
+-29.22,141.47,New South Wales
+-37.19,119.0,None
+-14.9,130.6,Northern Territory
+-11.58,148.98,None
+-39.14,141.81,None
+-13.89,144.85,None
+-29.32,145.19,New South Wales
+-21.2,145.22,Queensland
+-25.77,127.51,Western Australia
+-14.35,120.06,None
+-21.86,140.6,Queensland
+-16.47,153.0,None
+-12.01,132.03,None
+-27.79,121.37,Western Australia
+-11.47,135.92,None
+-9.94,148.26,None
+-28.6,114.28,None
+-22.04,145.67,Queensland
+-12.31,117.87,None
+-16.15,150.36,None
+-18.36,125.39,Western Australia
+-16.17,134.66,Northern Territory
+-19.83,135.36,Northern Territory
+-18.17,120.86,None
+-41.12,136.37,None
+-12.01,124.96,None
+-15.23,139.35,None
+-21.92,145.96,Queensland
+-27.25,151.48,Queensland
+-14.74,152.05,None
+-24.88,136.88,Northern Territory
+-19.28,134.91,Northern Territory
+-35.21,124.78,None
+-29.24,137.61,South Australia
+-38.39,143.7,Victoria
+-21.51,127.89,Western Australia
+-35.69,142.94,Victoria
+-41.77,121.27,None
+-38.07,138.39,None
+-13.17,145.04,None
+-24.65,115.65,Western Australia
+-37.39,129.01,None
+-15.11,145.53,None
+-40.31,153.42,None
+-40.58,147.77,None
+-38.59,123.92,None
+-24.19,139.6,Queensland
+-32.54,125.02,Western Australia
+-37.14,142.87,Victoria
+-35.36,131.73,None
+-25.3,137.93,Northern Territory
+-35.06,135.3,None
+-24.43,142.47,Queensland
+-40.09,119.21,None
+-17.67,150.36,None
+-17.94,142.88,Queensland
+-36.18,118.0,None
+-31.52,116.09,Western Australia
+-18.66,132.24,Northern Territory
+-23.77,138.94,Queensland
+-13.23,131.0,Northern Territory
+-19.44,117.69,None
+-14.96,143.84,Queensland
+-36.11,114.37,None
+-11.2,119.53,None
+-33.78,122.18,Western Australia
+-38.7,119.2,None
+-23.71,147.28,Queensland
+-18.49,134.82,Northern Territory
+-10.3,153.67,None
+-16.43,144.32,Queensland
+-15.65,142.4,Queensland
+-12.51,131.87,Northern Territory
+-41.1,131.68,None
+-22.38,140.25,Queensland
+-33.58,121.97,Western Australia
+-36.6,121.46,None
+-15.25,118.11,None
+-13.0,114.86,None
+-15.05,120.47,None
+-20.65,148.23,Queensland
+-20.78,145.54,Queensland
+-34.06,116.58,Western Australia
+-30.29,113.95,None
+-39.48,113.35,None
+-34.16,114.4,None
+-31.66,145.7,New South Wales
+-29.81,140.45,South Australia
+-18.78,148.64,None
+-26.0,143.94,Queensland
+-35.37,149.25,New South Wales
+-11.94,125.67,None
+-17.04,114.62,None
+-9.03,153.44,None
+-30.42,139.13,South Australia
+-12.9,129.5,None
+-18.27,130.78,Northern Territory
+-16.76,150.73,None
+-40.31,135.97,None
+-12.92,149.15,None
+-39.68,128.13,None
+-21.98,125.66,Western Australia
+-31.65,128.21,Western Australia
+-18.76,135.7,Northern Territory
+-34.53,116.37,Western Australia
+-17.04,120.19,None
+-12.7,140.01,None
+-20.63,135.38,Northern Territory
+-24.25,146.05,Queensland
+-41.45,117.07,None
+-37.95,132.55,None
+-29.76,113.83,None
+-32.46,139.95,South Australia
+-20.53,120.23,Western Australia
+-24.03,126.85,Western Australia
+-24.38,149.15,Queensland
+-30.86,150.18,New South Wales
+-33.95,116.77,Western Australia
+-13.19,121.59,None
+-32.62,131.81,None
+-39.6,135.71,None
+-25.69,113.29,None
+-35.61,141.71,Victoria
+-14.81,123.03,None
+-29.69,152.67,New South Wales
+-25.51,144.57,Queensland
+-40.79,123.31,None
+-33.78,126.55,None
+-40.05,141.34,None
+-12.48,123.24,None
+-38.7,130.31,None
+-11.19,114.82,None
+-30.15,145.32,New South Wales
+-25.6,140.98,Queensland
+-29.48,128.42,Western Australia
+-36.08,129.42,None
+-18.88,125.0,Western Australia
+-20.06,137.86,Northern Territory
+-35.19,133.25,None
+-39.67,135.08,None
+-34.8,114.14,None
+-13.95,128.82,None
+-26.28,127.58,Western Australia
+-13.65,113.8,None
+-34.0,125.34,None
+-31.92,144.77,New South Wales
+-31.71,125.19,Western Australia
+-21.37,144.03,Queensland
+-14.27,126.05,None
+-10.43,130.15,None
+-40.73,129.38,None
+-27.98,114.99,Western Australia
+-15.6,146.09,None
+-9.98,135.42,None
+-37.04,116.07,None
+-33.84,141.19,New South Wales
+-25.87,118.04,Western Australia
+-33.69,119.97,Western Australia
+-16.17,150.55,None
+-13.96,148.67,None
+-23.61,115.41,Western Australia
+-29.38,133.25,South Australia
+-38.54,146.39,Victoria
+-25.47,113.43,Western Australia
+-26.74,126.19,Western Australia
+-24.44,139.1,Queensland
+-19.86,141.99,Queensland
+-34.12,122.71,None
+-15.37,140.49,None
+-33.33,132.85,None
+-9.44,149.1,None
+-28.17,152.55,Queensland
+-11.02,152.77,None
+-25.95,139.54,Queensland
+-18.83,118.65,None
+-38.21,143.28,Victoria
+-19.77,118.82,None
+-28.48,146.14,Queensland
+-41.09,115.56,None
+-15.87,140.89,None
+-18.95,131.14,Northern Territory
+-17.66,120.5,None
+-28.03,117.81,Western Australia
+-13.31,126.95,None
+-21.08,148.15,Queensland
+-15.45,122.86,None
+-25.02,116.66,Western Australia
+-27.92,116.47,Western Australia
+-37.14,133.67,None
+-31.25,138.57,South Australia
+-16.28,132.42,Northern Territory
+-21.26,126.6,Western Australia
+-23.09,118.28,Western Australia
+-32.02,132.67,South Australia
+-34.65,138.24,None
+-25.24,135.19,Northern Territory
+-21.11,144.37,Queensland
+-41.75,121.15,None
+-9.13,114.9,None
+-26.11,117.17,Western Australia
+-33.54,153.57,None
+-38.78,115.78,None
+-9.66,137.15,None
+-32.67,130.04,None
+-35.61,146.62,New South Wales
+-20.67,147.0,Queensland
+-26.44,137.87,South Australia
+-18.24,126.06,Western Australia
+-25.21,142.18,Queensland
+-17.03,132.79,Northern Territory
+-25.35,115.55,Western Australia
+-42.91,130.46,None
+-11.83,137.65,None
+-21.34,116.14,Western Australia
+-42.69,117.73,None
+-22.32,140.74,Queensland
+-34.07,143.58,New South Wales
+-33.27,114.6,None
+-37.14,142.74,Victoria
+-16.24,119.02,None
+-32.35,137.97,South Australia
+-42.98,126.93,None
+-24.76,118.96,Western Australia
+-18.27,136.55,Northern Territory
+-11.57,146.0,None
+-22.2,126.85,Western Australia
+-19.32,137.02,Northern Territory
+-30.59,152.85,New South Wales
+-16.28,143.05,Queensland
+-40.73,116.06,None
+-27.16,147.04,Queensland
+-10.23,148.46,None
+-16.57,148.22,None
+-22.3,134.52,Northern Territory
+-29.74,129.98,South Australia
+-33.6,141.99,New South Wales
+-25.58,150.14,Queensland
+-15.63,145.42,None
+-17.91,113.72,None
+-14.64,136.5,None
+-18.86,126.13,Western Australia
+-35.95,120.2,None
+-9.3,125.39,None
+-14.41,133.25,Northern Territory
+-14.78,138.64,None
+-17.24,127.86,Western Australia
+-37.84,129.43,None
+-13.17,133.35,Northern Territory
+-25.45,136.01,Northern Territory
+-12.67,116.19,None
+-35.88,133.71,None
+-25.57,113.93,None
+-13.33,120.56,None
+-37.8,137.5,None
+-31.85,114.06,None
+-12.36,136.01,Northern Territory
+-19.36,134.69,Northern Territory
+-21.48,150.49,None
+-29.37,122.67,Western Australia
+-36.71,151.56,None
+-31.51,126.08,Western Australia
+-12.83,133.0,Northern Territory
+-40.0,132.14,None
+-20.35,128.88,Western Australia
+-28.06,135.41,South Australia
+-16.77,124.39,Western Australia
+-37.95,119.2,None
+-32.65,132.55,None
+-33.6,135.67,South Australia
+-37.09,128.49,None
+-39.55,140.22,None
+-13.12,135.02,Northern Territory
+-37.83,129.5,None
+-38.36,153.51,None
+-14.37,133.78,Northern Territory
+-9.37,137.38,None
+-35.58,147.69,New South Wales
+-11.83,132.87,Northern Territory
+-18.62,153.14,None
+-40.79,144.05,None
+-41.17,131.7,None
+-18.6,132.68,Northern Territory
+-35.73,142.38,Victoria
+-32.25,146.88,New South Wales
+-16.57,125.72,Western Australia
+-24.34,118.82,Western Australia
+-35.82,121.0,None
+-11.97,136.21,None
+-11.96,136.0,None
+-42.57,126.08,None
+-28.36,140.04,South Australia
+-34.61,152.14,None
+-39.07,134.73,None
+-21.04,119.91,Western Australia
+-34.52,116.53,Western Australia
+-34.75,134.12,None
+-30.25,148.55,New South Wales
+-25.98,118.17,Western Australia
+-31.72,138.44,South Australia
+-23.7,145.71,Queensland
+-42.83,124.06,None
+-16.88,114.74,None
+-11.91,124.07,None
+-29.02,150.8,New South Wales
+-33.62,136.2,South Australia
+-35.12,140.89,South Australia
+-15.0,143.82,Queensland
+-20.73,153.25,None
+-32.81,153.47,None
+-32.36,132.93,None
+-15.37,137.86,None
+-34.35,140.03,South Australia
+-35.58,132.44,None
+-32.97,152.82,None
+-26.78,147.75,Queensland
+-36.16,123.8,None
+-26.75,135.64,South Australia
+-22.21,136.23,Northern Territory
+-42.47,119.36,None
+-19.21,120.84,None
+-26.56,118.62,Western Australia
+-42.79,130.38,None
+-31.98,141.1,New South Wales
+-42.48,149.93,None
+-35.24,139.74,South Australia
+-16.46,152.76,None
+-31.56,139.23,South Australia
+-35.87,153.01,None
+-22.79,125.58,Western Australia
+-33.17,144.55,New South Wales
+-35.75,149.93,New South Wales
+-35.81,147.58,New South Wales
+-9.85,114.46,None
+-38.75,115.98,None
+-32.88,123.18,Western Australia
+-10.55,149.4,None
+-33.42,149.0,New South Wales
+-11.12,128.12,None
+-10.5,146.35,None
+-25.12,143.07,Queensland
+-17.38,117.26,None
+-27.81,124.98,Western Australia
+-36.06,135.18,None
+-9.5,120.1,None
+-13.81,153.3,None
+-37.69,130.72,None
+-30.4,136.32,South Australia
+-9.47,134.99,None
+-11.75,114.15,None
+-28.54,126.66,Western Australia
+-16.12,140.24,None
+-11.61,116.52,None
+-32.84,122.3,Western Australia
+-16.42,124.32,Western Australia
+-21.45,120.04,Western Australia
+-18.19,124.3,Western Australia
+-20.42,117.14,None
+-31.87,130.66,None
+-12.99,119.62,None
+-42.59,120.31,None
+-20.67,118.78,Western Australia
+-18.42,128.12,Western Australia
+-38.02,151.67,None
+-17.19,124.88,Western Australia
+-41.97,118.2,None
+-15.25,147.26,None
+-13.92,118.46,None
+-27.54,128.56,Western Australia
+-34.46,133.16,None
+-18.96,123.32,Western Australia
+-9.03,132.59,None
+-26.85,133.61,South Australia
+-14.56,146.66,None
+-36.21,125.27,None
+-30.66,122.12,Western Australia
+-24.24,135.84,Northern Territory
+-27.04,150.56,Queensland
+-28.4,147.16,Queensland
+-13.79,141.62,Queensland
+-28.61,137.47,South Australia
+-32.48,131.62,None
+-26.65,125.64,Western Australia
+-40.11,120.13,None
+-9.54,146.4,None
+-30.84,117.56,Western Australia
+-26.14,143.15,Queensland
+-20.77,133.07,Northern Territory
+-14.26,120.21,None
+-34.11,118.75,Western Australia
+-28.17,128.98,Western Australia
+-37.05,114.68,None
+-19.22,131.83,Northern Territory
+-34.05,124.02,None
+-10.33,124.47,None
+-41.57,138.43,None
+-22.72,152.08,None
+-37.05,149.63,New South Wales
+-28.06,129.39,South Australia
+-12.6,142.31,Queensland
+-36.45,142.37,Victoria
+-24.76,138.46,Queensland
+-17.85,152.85,None
+-16.95,139.0,Queensland
+-39.36,134.37,None
+-23.56,136.62,Northern Territory
+-25.12,146.33,Queensland
+-41.59,116.81,None
+-16.36,132.58,Northern Territory
+-28.36,123.86,Western Australia
+-21.49,119.24,Western Australia
+-29.71,138.47,South Australia
+-26.42,127.44,Western Australia
+-20.54,115.78,None
+-25.57,124.71,Western Australia
+-14.72,152.51,None
+-36.96,135.97,None
+-22.06,136.36,Northern Territory
+-13.57,113.13,None
+-26.98,124.21,Western Australia
+-30.67,135.65,South Australia
+-35.16,131.61,None
+-18.93,131.09,Northern Territory
+-28.56,140.34,South Australia
+-16.08,151.14,None
+-13.66,129.72,None
+-42.1,127.08,None
+-18.75,132.46,Northern Territory
+-36.19,138.54,None
+-17.35,146.71,None
+-18.2,123.64,Western Australia
+-15.72,125.45,Western Australia
+-9.05,126.95,None
+-22.27,124.8,Western Australia
+-12.55,126.87,None
+-22.4,115.71,Western Australia
+-31.14,121.55,Western Australia
+-10.43,144.86,None
+-24.48,141.43,Queensland
+-35.82,129.67,None
+-33.01,146.31,New South Wales
+-26.1,130.14,South Australia
+-13.83,136.07,None
+-13.69,119.22,None
+-28.25,122.28,Western Australia
+-24.89,131.16,Northern Territory
+-22.11,144.92,Queensland
+-24.85,151.34,Queensland
+-16.46,123.18,None
+-32.73,135.58,South Australia
+-42.82,114.75,None
+-13.06,153.6,None
+-17.0,139.76,None
+-26.3,153.37,None
+-28.54,125.88,Western Australia
+-31.54,130.27,South Australia
+-40.77,134.23,None
+-27.25,149.03,Queensland
+-25.95,138.32,Queensland
+-35.84,151.24,None
+-15.15,134.82,Northern Territory
+-13.82,114.19,None
+-15.3,141.31,None
+-39.62,128.15,None
+-35.27,128.1,None
+-12.97,141.34,None
+-42.64,115.23,None
+-40.61,152.81,None
+-16.68,139.51,None
+-37.6,138.87,None
+-14.18,126.06,None
+-35.37,144.84,New South Wales
+-42.87,132.16,None
+-37.71,123.54,None
+-18.98,150.12,None
+-22.03,124.36,Western Australia
+-34.4,120.51,None
+-18.79,114.88,None
+-13.93,116.53,None
+-32.47,143.24,New South Wales
+-34.69,129.66,None
+-21.17,131.93,Northern Territory
+-20.97,140.26,Queensland
+-30.81,129.26,South Australia
+-42.46,116.47,None
+-39.73,140.41,None
+-35.57,113.83,None
+-39.7,151.66,None
+-14.19,149.62,None
+-21.85,118.77,Western Australia
+-18.57,135.89,Northern Territory
+-19.7,123.63,Western Australia
+-36.27,127.84,None
+-42.75,136.19,None
+-17.29,120.62,None
+-14.51,151.24,None
+-26.75,135.67,South Australia
+-17.88,116.5,None
+-27.0,145.53,Queensland
+-20.47,140.77,Queensland
+-21.85,125.38,Western Australia
+-26.33,134.79,South Australia
+-14.98,137.95,None
+-33.59,119.06,Western Australia
+-41.51,151.13,None
+-33.02,143.81,New South Wales
+-9.32,133.16,None
+-24.56,124.97,Western Australia
+-16.02,150.95,None
+-24.38,113.36,Western Australia
+-36.16,113.21,None
+-21.4,117.85,Western Australia
+-13.65,125.27,None
+-16.05,133.94,Northern Territory
+-17.58,152.77,None
+-9.9,134.01,None
+-22.64,131.74,Northern Territory
+-37.23,117.06,None
+-40.77,119.67,None
+-17.64,144.76,Queensland
+-11.33,150.42,None
+-42.64,149.3,None
+-15.74,126.66,Western Australia
+-18.88,147.73,None
+-35.41,142.7,Victoria
+-30.7,125.25,Western Australia
+-26.54,151.78,Queensland
+-42.76,117.46,None
+-23.57,133.31,Northern Territory
+-18.14,118.54,None
+-10.76,118.77,None
+-37.11,139.98,South Australia
+-36.88,136.92,None
+-12.41,151.9,None
+-29.64,152.58,New South Wales
+-18.5,124.45,Western Australia
+-35.96,131.06,None
+-16.51,146.33,None
+-14.24,130.84,Northern Territory
+-16.68,132.89,Northern Territory
+-35.39,130.69,None
+-9.81,135.09,None
+-38.95,123.93,None
+-30.73,130.73,South Australia
+-39.06,143.86,None
+-27.07,141.65,Queensland
+-35.55,134.54,None
+-25.06,117.47,Western Australia
+-12.94,135.75,Northern Territory
+-19.0,151.58,None
+-17.57,115.94,None
+-21.61,136.65,Northern Territory
+-25.54,121.48,Western Australia
+-12.24,135.18,None
+-29.0,142.93,New South Wales
+-31.59,132.77,South Australia
+-20.96,135.32,Northern Territory
+-29.17,135.5,South Australia
+-42.35,145.55,Tasmania
+-32.44,123.03,Western Australia
+-37.06,127.27,None
+-23.17,135.18,Northern Territory
+-27.67,133.21,South Australia
+-42.55,122.25,None
+-17.12,146.7,None
+-19.37,115.66,None
+-12.95,144.69,None
+-21.77,130.2,Northern Territory
+-16.06,146.41,None
+-29.97,115.47,Western Australia
+-10.16,141.31,None
+-23.11,120.63,Western Australia
+-20.11,127.17,Western Australia
+-40.29,134.15,None
+-38.85,123.56,None
+-32.4,123.29,Western Australia
+-24.98,144.36,Queensland
+-24.52,132.41,Northern Territory
+-37.79,136.85,None
+-20.98,133.39,Northern Territory
+-36.13,143.22,Victoria
+-29.59,150.19,New South Wales
+-21.06,126.57,Western Australia
+-24.87,119.75,Western Australia
+-40.75,118.69,None
+-13.35,140.84,None
+-25.65,132.12,Northern Territory
+-34.37,132.77,None
+-17.53,149.09,None
+-16.9,138.11,Queensland
+-33.04,116.2,Western Australia
+-24.12,150.7,Queensland
+-10.67,131.98,None
+-42.5,135.72,None
+-15.73,116.89,None
+-27.05,134.88,South Australia
+-40.27,147.99,Tasmania
+-13.23,144.61,None
+-33.63,117.05,Western Australia
+-24.6,138.76,Queensland
+-12.68,152.73,None
+-19.57,150.0,None
+-25.52,123.96,Western Australia
+-36.83,153.88,None
+-9.69,153.69,None
+-13.27,119.48,None
+-15.23,120.71,None
+-9.98,113.41,None
+-26.54,119.23,Western Australia
+-20.29,151.95,None
+-39.98,124.34,None
+-18.34,113.66,None
+-30.69,119.25,Western Australia
+-25.94,115.97,Western Australia
+-31.01,126.96,Western Australia
+-22.39,150.22,Queensland
+-37.38,147.95,Victoria
+-11.02,149.18,None
+-38.85,146.36,Victoria
+-12.82,123.54,None
+-25.36,144.59,Queensland
+-17.57,153.99,None
+-16.57,140.81,None
+-18.33,130.84,Northern Territory
+-12.88,129.64,None
+-21.51,117.86,Western Australia
+-17.21,116.27,None
+-33.0,147.39,New South Wales
+-31.82,133.16,South Australia
+-22.13,123.12,Western Australia
+-27.76,113.88,None
+-40.67,122.95,None
+-32.25,149.97,New South Wales
+-22.45,131.54,Northern Territory
+-13.16,151.52,None
+-37.35,115.59,None
+-20.89,126.23,Western Australia
+-29.82,113.16,None
+-17.35,130.31,Northern Territory
+-12.71,122.02,None
+-14.08,125.31,None
+-14.77,129.54,None
+-27.32,129.51,South Australia
+-25.29,140.91,Queensland
+-16.8,118.33,None
+-10.52,147.09,None
+-27.88,131.04,South Australia
+-30.42,143.56,New South Wales
+-13.05,117.13,None
+-26.03,138.49,South Australia
+-24.07,131.42,Northern Territory
+-35.71,135.18,None
+-20.11,152.43,None
+-34.03,116.54,Western Australia
+-30.62,116.98,Western Australia
+-28.95,135.04,South Australia
+-32.77,140.23,South Australia
+-39.24,152.84,None
+-19.04,145.69,Queensland
+-18.25,117.81,None
+-19.04,134.21,Northern Territory
+-13.69,114.9,None
+-23.5,140.74,Queensland
+-10.69,127.51,None
+-30.75,122.55,Western Australia
+-28.13,124.32,Western Australia
+-12.65,143.92,None
+-27.84,153.03,Queensland
+-32.64,147.41,New South Wales
+-33.32,149.94,New South Wales
+-38.65,130.58,None
+-24.16,116.43,Western Australia
+-18.51,129.13,Northern Territory
+-18.25,134.28,Northern Territory
+-41.97,149.93,None
+-13.74,113.18,None
+-23.92,127.84,Western Australia
+-10.87,151.0,None
+-28.29,128.51,Western Australia
+-26.37,129.49,South Australia
+-24.42,122.4,Western Australia
+-18.0,124.04,Western Australia
+-28.56,137.99,South Australia
+-21.63,145.44,Queensland
+-23.48,146.36,Queensland
+-30.84,121.7,Western Australia
+-41.36,129.95,None
+-30.04,128.85,Western Australia
+-12.16,114.77,None
+-39.41,113.56,None
+-31.94,120.54,Western Australia
+-37.2,143.45,Victoria
+-27.97,120.61,Western Australia
+-26.33,130.92,South Australia
+-15.63,136.3,Northern Territory
+-36.72,114.29,None
+-33.45,123.11,Western Australia
+-18.0,129.14,Northern Territory
+-29.41,126.46,Western Australia
+-16.48,151.49,None
+-16.28,149.63,None
+-17.43,139.73,None
+-11.87,141.64,None
+-24.89,153.48,None
+-10.17,147.26,None
+-34.25,142.33,New South Wales
+-33.54,149.12,New South Wales
+-27.74,132.98,South Australia
+-19.46,134.13,Northern Territory
+-21.39,126.98,Western Australia
+-36.21,124.56,None
+-9.38,139.43,None
+-38.91,113.39,None
+-21.64,138.28,Queensland
+-30.97,143.04,New South Wales
+-33.22,134.45,South Australia
+-27.44,140.13,South Australia
+-40.36,148.68,None
+-10.56,128.64,None
+-24.91,122.24,Western Australia
+-34.76,130.36,None
+-36.75,120.71,None
+-13.6,116.85,None
+-32.44,133.71,None
+-34.48,128.24,None
+-41.0,144.62,Tasmania
+-27.06,115.5,Western Australia
+-11.96,131.2,None
+-29.7,141.88,New South Wales
+-26.19,146.73,Queensland
+-13.69,133.71,Northern Territory
+-28.88,123.78,Western Australia
+-21.6,120.76,Western Australia
+-22.98,125.0,Western Australia
+-24.43,141.96,Queensland
+-39.94,143.5,None
+-24.91,131.74,Northern Territory
+-10.84,149.39,None
+-17.21,113.99,None
+-38.83,113.84,None
+-22.55,152.77,None
+-26.0,124.79,Western Australia
+-21.27,151.71,None
+-11.99,123.32,None
+-27.68,113.6,None
+-25.19,144.73,Queensland
+-35.23,119.33,None
+-24.7,153.06,None
+-19.29,143.76,Queensland
+-14.15,142.52,Queensland
+-21.79,125.67,Western Australia
+-14.31,114.51,None
+-17.08,136.43,Northern Territory
+-42.72,148.1,Tasmania
+-25.58,143.73,Queensland
+-28.34,113.66,None
+-23.12,126.23,Western Australia
+-17.59,122.88,Western Australia
+-32.44,146.16,New South Wales
+-14.53,114.2,None
+-22.39,133.37,Northern Territory
+-17.98,147.93,None
+-18.71,117.36,None
+-37.61,150.39,None
+-19.28,118.47,None
+-39.71,147.0,None
+-39.61,121.2,None
+-15.79,133.02,Northern Territory
+-12.09,122.5,None
+-37.96,148.89,None
+-11.83,115.09,None
+-39.95,147.34,None
+-24.06,141.69,Queensland
+-38.3,124.62,None
+-30.17,134.8,South Australia
+-28.72,118.11,Western Australia
+-42.95,150.42,None
+-27.02,121.88,Western Australia
+-15.8,130.35,Northern Territory
+-31.87,151.22,New South Wales
+-11.94,123.22,None
+-40.24,137.59,None
+-23.13,120.15,Western Australia
+-24.16,148.54,Queensland
+-21.57,152.65,None
+-13.3,149.23,None
+-20.66,140.03,Queensland
+-21.89,145.36,Queensland
+-18.8,126.66,None
+-28.87,113.52,None
+-36.68,134.05,None
+-35.44,141.05,Victoria
+-32.39,138.92,South Australia
+-34.7,115.32,None
+-34.18,129.84,None
+-16.62,119.82,None
+-34.53,140.87,South Australia
+-10.11,146.44,None
+-40.15,121.71,None
+-26.77,132.33,South Australia
+-12.51,134.69,Northern Territory
+-28.05,118.52,Western Australia
+-22.65,137.83,Northern Territory
+-23.5,118.58,Western Australia
+-27.8,125.2,Western Australia
+-11.43,117.26,None
+-22.63,119.01,Western Australia
+-39.02,147.9,None
+-9.2,122.21,None
+-34.09,118.32,Western Australia
+-36.2,128.9,None
+-34.0,121.06,None
+-14.71,124.35,None
+-30.27,115.73,Western Australia
+-21.7,131.6,Northern Territory
+-30.99,122.94,Western Australia
+-21.13,131.11,Northern Territory
+-18.25,135.8,Northern Territory
+-27.8,123.24,Western Australia
+-15.63,150.86,None
+-38.75,115.74,None
+-38.13,143.91,Victoria
+-41.37,137.16,None
+-37.44,126.39,None
+-42.11,120.36,None
+-37.98,119.46,None
+-29.29,122.24,None
+-30.92,121.58,None
+-41.61,130.54,None
+-24.01,121.83,None
+-11.2,146.89,None
+-39.41,124.9,None
+-9.03,143.83,None
+-27.96,147.01,None
+-41.01,129.36,None
+-12.0,140.86,None
+-33.56,136.63,South Australia
+-42.27,119.7,None
+-16.28,122.55,None
+-14.87,122.18,None
+-15.59,137.43,None
+-25.83,144.73,Queensland
+-24.78,152.1,Queensland
+-15.76,141.98,Queensland
+-19.94,132.69,Northern Territory
+-15.77,128.18,Western Australia
+-26.5,125.1,Western Australia
+-32.23,125.56,Western Australia
+-9.1,146.3,None
+-12.54,143.69,None
+-38.18,148.09,None
+-42.66,135.88,None
+-38.04,146.26,Victoria
+-27.9,151.79,Queensland
+-31.35,121.9,Western Australia
+-16.78,140.66,None
+-21.11,137.81,Northern Territory
+-23.18,141.9,Queensland
+-40.44,121.82,None
+-36.22,146.47,Victoria
+-38.6,117.07,None
+-9.44,143.81,None
+-23.99,127.32,Western Australia
+-42.41,125.63,None
+-10.31,140.62,None
+-27.52,129.45,South Australia
+-12.09,137.87,None
+-41.69,123.4,None
+-32.28,147.37,New South Wales
+-13.28,129.89,New South Wales
+-42.48,145.95,New South Wales
+-26.71,151.96,New South Wales
+-13.89,144.33,New South Wales
+-15.79,125.87,New South Wales
+-28.53,140.47,New South Wales
+-31.66,145.53,New South Wales
+-28.09,117.02,New South Wales
+-19.79,147.72,New South Wales
+-21.38,131.02,New South Wales
+-13.67,149.42,New South Wales
+-34.17,142.79,New South Wales
+-30.01,144.52,New South Wales
+-29.26,135.66,New South Wales
+-41.57,146.29,New South Wales
+-11.35,121.47,New South Wales
+-37.06,125.77,New South Wales
+-22.84,152.0,New South Wales
+-13.28,120.4,New South Wales
+-32.76,114.96,New South Wales
+-12.09,146.49,New South Wales
+-24.09,152.36,New South Wales
+-18.79,142.47,New South Wales
+-33.78,150.72,New South Wales
+-41.96,116.67,New South Wales
+-34.35,115.65,New South Wales
+-20.03,150.78,New South Wales
+-37.97,139.11,None
+-38.57,142.53,None
+-29.29,151.14,New South Wales
+-17.98,137.47,Northern Territory
+-12.26,146.31,None
+-18.91,149.37,None
+-25.97,129.02,Northern Territory
+-33.93,141.38,New South Wales
+-27.61,138.67,South Australia
+-38.07,150.4,South Australia
+-11.98,116.63,South Australia
+-22.15,143.03,South Australia
+-14.12,116.75,South Australia
+-17.85,129.7,South Australia
+-14.6,134.42,South Australia
+-27.03,137.56,South Australia
+-12.49,125.96,South Australia
+-27.24,123.46,South Australia
+-26.55,116.36,South Australia
+-25.99,120.81,South Australia
+-17.75,136.02,South Australia
+-24.31,120.44,South Australia
+-27.83,136.6,South Australia
+-14.77,139.29,South Australia
+-19.39,127.46,South Australia
+-24.16,121.99,South Australia
+-24.91,143.84,South Australia
+-33.18,146.81,South Australia
+-40.13,130.38,South Australia
+-20.4,151.0,South Australia
+-35.14,149.26,South Australia
+-22.16,150.77,South Australia
+-18.27,147.78,South Australia
+-33.42,135.12,South Australia
+-20.93,152.97,South Australia
+-30.75,116.84,South Australia
+-18.92,129.69,South Australia
+-12.22,118.27,South Australia
+-40.4,152.94,South Australia
+-25.54,120.87,South Australia
+-24.97,113.41,South Australia
+-33.95,141.45,South Australia
+-32.99,136.23,South Australia
+-34.0,136.91,South Australia
+-15.11,115.09,South Australia
+-10.14,147.92,South Australia
+-38.88,130.79,South Australia
+-37.99,129.75,South Australia
+-30.38,127.58,South Australia
+-27.86,143.53,South Australia
+-17.45,122.22,South Australia
+-10.23,128.72,South Australia
+-38.56,115.22,South Australia
+-29.06,144.23,South Australia
+-25.35,145.0,South Australia
+-15.09,128.69,None
+-33.19,128.94,None
+-21.25,115.9,Western Australia
+-29.07,130.29,South Australia
+-40.64,152.71,None
+-16.73,147.11,None
+-24.51,120.75,None
+-30.34,143.91,None
+-30.83,119.42,None
+-36.78,153.22,None
+-14.12,152.16,None
+-13.17,140.35,None
+-36.58,124.15,None
+-21.78,135.93,None
+-20.9,119.65,None
+-27.35,149.4,None
+-21.71,133.31,None
+-30.39,139.21,None
+-29.35,144.21,None
+-17.03,123.12,None
+-38.7,119.15,None
+-42.98,138.7,None
+-28.56,133.53,None
+-42.84,121.58,None
+-28.07,130.95,None
+-19.94,151.71,None
+-9.04,122.49,None
+-33.37,134.92,None
+-10.03,148.19,None
+-13.06,140.82,None
+-29.0,133.08,None
+-13.68,116.79,None
+-19.26,131.33,None
+-17.45,120.39,None
+-15.23,140.92,None
+-29.99,153.52,None
+-32.87,133.48,None
+-21.99,133.75,None
+-9.97,140.1,None
+-20.71,148.89,None
+-24.47,128.62,None
+-33.15,127.88,None
+-33.49,116.34,None
+-10.07,149.1,None
+-34.34,140.37,South Australia
+-24.71,152.14,Queensland
+-32.0,123.14,Western Australia
+-16.67,139.4,None
+-40.59,146.26,None
+-42.18,134.1,None
+-40.84,142.0,None
+-10.94,135.34,None
+-28.2,120.23,Western Australia
+-21.49,135.16,Northern Territory
+-42.28,132.08,None
+-34.22,120.37,None
+-20.91,134.59,Northern Territory
+-34.31,114.54,None
+-36.59,121.13,None
+-11.48,131.1,Northern Territory
+-35.6,121.86,None
+-10.06,151.75,None
+-39.21,147.3,None
+-19.66,126.67,Western Australia
+-20.48,145.79,Queensland
+-17.49,136.52,Northern Territory
+-24.19,142.47,Queensland
+-10.64,143.9,None
+-13.69,131.85,Northern Territory
+-17.24,136.76,Northern Territory
+-29.44,136.93,South Australia
+-38.33,123.79,None
+-38.56,142.03,None
+-36.11,120.97,None
+-30.15,125.3,None
+-14.67,133.52,None
+-14.52,138.01,None
+-29.97,122.05,None
+-28.78,141.4,None
+-30.46,128.87,None
+-24.46,140.23,None
+-40.03,132.58,None
+-10.77,140.76,None
+-32.25,149.25,None
+-19.7,113.43,None
+-23.68,151.38,None
+-30.81,148.67,None
+-28.0,117.5,None
+-26.69,129.48,None
+-17.65,118.87,None
+-40.43,152.11,None
+-38.12,130.89,None
+-19.31,114.71,None
+-22.98,114.7,None
+-29.47,125.2,None
+-26.26,115.6,None
+-32.12,124.63,None
+-41.83,119.14,None
+-40.04,126.67,None
+-25.86,150.65,None
+-15.11,132.93,None
+-9.3,140.57,None
+-19.02,145.1,None
+-28.92,152.23,None
+-21.09,124.36,None
+-13.91,141.92,None
+-21.4,113.31,None
+-42.26,128.41,None
+-25.68,136.19,None
+-41.39,116.08,None
+-25.81,137.23,None
+-13.23,125.8,None
+-14.12,115.1,None
+-17.06,151.2,None
+-20.89,116.89,None
+-15.42,141.28,None
+-13.6,122.95,None
+-9.18,123.92,None
+-33.28,140.15,None
+-41.19,153.8,None
+-37.38,117.69,None
+-22.36,130.19,None
+-25.77,145.04,None
+-26.62,128.92,None
+-15.91,117.16,None
+-11.24,118.49,None
+-42.27,126.68,None
+-36.91,139.56,None
+-16.04,143.8,None
+-19.94,123.27,None
+-28.68,118.95,None
+-18.67,149.7,None
+-32.58,151.59,None
+-21.68,139.93,None
+-29.13,140.42,None
+-40.07,133.0,None
+-23.41,135.0,None
+-15.02,131.27,None
+-10.18,147.42,None
+-25.77,132.47,None
+-9.75,138.06,None
+-19.7,126.53,None
+-10.14,114.5,None
+-33.44,123.61,Western Australia
+-31.82,126.77,Western Australia
+-16.23,128.36,Western Australia
+-34.12,148.25,New South Wales
+-35.78,131.59,None
+-17.16,152.61,None
+-15.23,152.34,None
+-32.47,116.85,Western Australia
+-24.01,134.78,Northern Territory
+-25.64,116.02,Western Australia
+-35.01,131.5,None
+-39.3,137.54,None
+-13.89,120.94,None
+-36.31,151.91,None
+-39.38,131.16,None
+-13.09,132.9,Northern Territory
+-28.31,144.33,Queensland
+-18.57,119.85,None
+-34.62,117.39,Western Australia
+-15.94,114.14,None
+-19.13,151.38,None
+-34.25,121.87,None
+-16.22,151.25,None
+-34.82,137.65,South Australia
+-23.7,147.63,Queensland
+-34.05,145.47,New South Wales
+-9.25,122.88,None
+-36.86,144.18,Victoria
+-12.81,145.49,None
+-42.61,133.39,None
+-36.7,127.97,None
+-42.93,118.14,None
+-11.29,150.53,None
+-41.11,151.55,None
+-35.25,124.13,None
+-22.15,127.82,Western Australia
+-20.18,134.74,Northern Territory
+-17.4,118.6,None
+-32.3,116.73,Western Australia
+-12.12,116.08,None
+-11.13,135.17,None
+-12.42,117.15,None
+-25.53,135.59,Northern Territory
+-29.79,125.15,Western Australia
+-16.99,129.27,Northern Territory
+-31.73,116.79,Western Australia
+-39.07,139.09,None
+-35.33,149.64,New South Wales
+-21.74,114.65,None
+-28.66,142.97,Queensland
+-42.77,136.93,None
+-12.98,118.7,None
+-10.86,143.76,None
+-16.66,117.23,None
+-23.02,137.93,Northern Territory
+-21.33,127.07,Western Australia
+-34.11,152.29,None
+-17.42,120.75,None
+-26.18,138.99,South Australia
+-23.63,150.6,Queensland
+-22.79,114.47,Western Australia
+-10.3,114.37,None
+-20.8,138.6,Queensland
+-30.45,128.57,Western Australia
+-42.97,124.37,None
+-35.7,125.87,None
+-26.46,119.34,Western Australia
+-20.8,143.63,Queensland
+-36.23,133.98,None
+-41.03,154.0,None
+-38.09,131.11,None
+-19.65,116.05,None
+-14.56,122.95,None
+-21.03,123.31,Western Australia
+-14.6,127.01,Western Australia
+-25.7,142.26,Queensland
+-20.22,131.56,Northern Territory
+-18.21,120.25,None
+-24.34,120.9,Western Australia
+-42.97,116.1,None
+-21.27,115.2,None
+-30.67,152.95,New South Wales
+-27.73,153.99,None
+-18.67,141.01,Queensland
+-34.31,125.24,None
+-28.94,118.01,Western Australia
+-24.05,150.04,Queensland
+-34.54,122.56,None
+-12.82,138.01,None
+-19.59,138.54,None
+-17.24,124.9,None
+-38.34,136.32,None
+-22.02,152.01,None
+-15.66,116.0,None
+-25.29,123.9,None
+-24.03,123.45,None
+-24.48,131.84,None
+-10.32,126.42,None
+-12.0,125.38,None
+-35.23,124.55,None
+-11.2,148.91,None
+-13.2,143.6,None
+-13.48,114.71,None
+-26.34,146.76,None
+-14.79,145.53,None
+-28.4,119.86,None
+-29.55,132.84,None
+-10.9,152.21,None
+-21.29,118.0,None
+-39.66,140.2,None
+-39.19,121.11,None
+-30.85,122.77,None
+-26.0,135.01,None
+-34.88,152.35,None
+-17.19,144.04,None
+-25.2,129.94,None
+-40.77,114.74,None
+-36.76,134.1,None
+-28.44,136.3,None
+-10.51,125.37,None
+-35.14,114.99,None
+-9.3,134.18,None
+-22.21,145.65,None
+-37.77,141.51,None
+-21.65,126.5,None
+-12.13,149.28,None
+-36.67,146.48,None
+-21.09,130.54,None
+-22.03,145.92,None
+-13.79,125.75,None
+-39.7,135.21,None
+-26.99,117.52,None
+-12.75,132.18,None
+-29.77,137.49,None
+-32.37,137.21,None
+-35.67,145.89,None
+-19.25,151.71,None
+-29.05,138.39,None
+-20.19,127.73,None
+-33.71,144.02,None
+-21.88,120.57,None
+-23.56,130.84,None
+-42.56,136.52,None
+-37.35,142.96,None
+-31.46,139.56,None
+-14.14,137.98,None
+-18.0,142.32,None
+-11.17,115.8,None
+-31.75,131.69,None
+-42.9,131.06,None
+-11.04,122.26,None
+-19.89,148.99,None
+-38.05,152.74,None
+-10.35,131.24,None
+-37.66,113.82,None
+-41.76,125.61,None
+-29.76,130.01,None
+-15.21,137.2,None
+-16.08,137.7,None
+-10.71,126.19,None
+-16.65,113.23,None
+-16.61,123.48,None
+-10.34,137.56,None
+-29.35,141.66,New South Wales
+-16.0,153.21,None
+-33.68,129.92,None
+-38.82,123.84,None
+-20.47,139.23,Queensland
+-19.12,133.62,Northern Territory
+-26.13,121.22,Western Australia
+-29.74,142.93,New South Wales
+-29.14,139.08,South Australia
+-41.94,131.43,None
+-28.22,142.21,Queensland
+-17.18,129.57,Northern Territory
+-28.48,144.83,Queensland
+-37.21,137.59,None
+-29.64,135.93,South Australia
+-12.54,125.59,None
+-14.09,147.28,None
+-37.62,125.0,None
+-13.01,120.86,None
+-13.69,151.04,None
+-22.29,122.4,Western Australia
+-11.23,142.73,Queensland
+-19.94,140.26,Queensland
+-9.89,153.48,None
+-12.63,125.76,None
+-19.47,140.23,Queensland
+-28.39,113.8,None
+-30.55,115.53,Western Australia
+-23.5,152.3,None
+-42.74,116.9,None
+-38.49,113.14,None
+-11.88,134.92,None
+-28.93,142.32,Queensland
+-11.81,118.09,None
+-34.43,132.07,None
+-39.59,117.0,None
+-36.36,130.53,None
+-42.25,131.68,None
+-39.03,152.96,None
+-10.12,145.07,None
+-42.72,122.94,None
+-27.33,152.28,Queensland
+-18.11,121.35,None
+-35.66,116.66,None
+-26.29,118.56,Western Australia
+-42.97,141.16,None
+-38.68,142.95,Victoria
+-19.28,136.69,Northern Territory
+-28.27,131.04,South Australia
+-11.49,143.16,None
+-21.53,118.02,Western Australia
+-19.49,133.52,Northern Territory
+-14.01,124.11,None
+-15.18,134.35,Northern Territory
+-27.36,130.61,South Australia
+-28.53,134.9,South Australia
+-30.1,127.33,None
+-22.39,137.21,None
+-22.85,115.26,Western Australia
+-41.33,146.0,Tasmania
+-40.71,124.78,None
+-32.7,144.91,New South Wales
+-24.29,142.49,Queensland
+-40.82,136.11,None
+-26.53,152.6,Queensland
+-16.0,152.61,None
+-25.98,150.99,Queensland
+-14.26,142.88,Queensland
+-12.15,146.0,None
+-37.22,142.64,Victoria
+-9.35,145.58,None
+-13.76,139.91,None
+-9.51,113.69,None
+-28.16,131.17,South Australia
+-22.14,117.02,Western Australia
+-36.12,130.06,None
+-15.92,132.36,Northern Territory
+-24.97,115.25,Western Australia
+-11.68,149.54,None
+-10.36,134.66,None
+-16.92,122.23,None
+-27.5,147.69,Queensland
+-17.69,130.02,Northern Territory
+-25.03,115.49,Western Australia
+-33.1,152.41,None
+-37.21,118.42,None
+-39.94,139.25,None
+-39.26,139.36,None
+-12.8,137.5,None
+-38.62,117.32,None
+-35.47,124.2,None
+-13.56,114.64,None
+-38.06,143.76,Victoria
+-41.26,131.24,None
+-28.67,117.52,Western Australia
+-39.88,139.95,None
+-35.18,141.75,Victoria
+-17.69,147.5,None
+-17.96,124.51,Western Australia
+-12.0,114.05,None
+-10.18,143.95,None
+-32.85,150.85,New South Wales
+-33.61,128.62,None
+-29.05,113.63,None
+-23.26,125.54,Western Australia
+-22.01,140.47,Queensland
+-26.15,139.88,South Australia
+-32.45,142.53,New South Wales
+-24.34,127.38,Western Australia
+-19.83,118.28,None
+-17.96,126.45,None
+-41.74,152.43,None
+-10.85,138.4,None
+-14.53,150.94,None
+-40.97,145.56,Tasmania
+-17.45,145.06,Queensland
+-34.42,119.81,None
+-26.81,120.64,Western Australia
+-33.78,148.28,New South Wales
+-40.3,115.33,None
+-15.75,134.1,Northern Territory
+-38.09,130.69,None
+-10.43,150.02,None
+-33.43,120.81,Western Australia
+-10.82,133.39,None
+-15.01,139.47,None
+-29.64,134.5,South Australia
+-32.7,145.43,New South Wales
+-32.63,114.22,None
+-33.33,135.97,South Australia
+-27.5,125.24,South Australia
+-24.81,124.95,South Australia
+-14.59,142.03,South Australia
+-26.15,126.21,South Australia
+-41.95,131.76,South Australia
+-9.96,128.72,South Australia
+-27.67,121.58,South Australia
+-14.21,151.14,South Australia
+-36.3,127.76,South Australia
+-42.88,122.01,South Australia
+-29.61,120.42,South Australia
+-26.25,113.79,South Australia
+-32.2,129.59,South Australia
+-42.7,126.85,South Australia
+-21.54,130.46,South Australia
+-12.99,137.17,South Australia
+-42.17,139.63,South Australia
+-12.12,120.83,South Australia
+-26.7,143.66,South Australia
+-15.76,114.04,South Australia
+-36.43,148.35,South Australia
+-26.76,136.02,South Australia
+-27.13,151.74,South Australia
+-24.68,114.14,South Australia
+-40.91,119.56,South Australia
+-14.52,118.15,South Australia
+-29.97,131.47,South Australia
+-16.54,138.36,South Australia
+-9.35,125.42,South Australia
+-33.07,136.78,South Australia
+-14.0,125.14,South Australia
+-21.72,149.0,South Australia
+-34.27,144.93,South Australia
+-20.93,150.3,South Australia
+-22.33,143.97,South Australia
+-14.3,136.61,South Australia
+-40.12,137.51,None
+-40.0,121.67,None
+-13.85,145.8,None
+-13.23,123.02,None
+-22.13,151.18,None
+-11.85,124.64,None
+-40.73,153.63,None
+-33.69,142.04,New South Wales
+-19.48,140.73,Queensland
+-39.1,118.14,Queensland
+-11.1,128.33,Queensland
+-28.14,119.79,Queensland
+-31.17,149.52,Queensland
+-30.53,130.8,Queensland
+-28.9,141.05,Queensland
+-15.05,120.83,Queensland
+-38.78,144.76,Queensland
+-10.88,120.82,Queensland
+-15.48,130.62,Queensland
+-37.78,147.53,Queensland
+-21.48,143.74,Queensland
+-12.98,144.08,None
+-18.99,117.1,None
+-25.48,122.37,Western Australia
+-30.15,123.22,Western Australia
+-29.86,139.05,South Australia
+-34.53,149.76,New South Wales
+-41.36,115.63,None
+-31.43,121.33,Western Australia
+-28.52,139.77,South Australia
+-10.16,136.65,None
+-14.61,148.04,None
+-23.55,131.27,Northern Territory
+-30.82,145.12,New South Wales
+-27.78,133.74,South Australia
+-15.15,139.99,None
+-15.36,115.11,None
+-16.96,148.32,None
+-13.74,137.01,None
+-37.15,150.18,None
+-16.27,114.9,None
+-40.69,152.09,None
+-34.76,121.51,None
+-33.02,115.86,Western Australia
+-10.32,128.27,None
+-17.28,148.82,None
+-35.72,129.9,None
+-25.35,140.93,Queensland
+-40.31,136.83,None
+-35.64,143.49,Victoria
+-15.26,135.91,Northern Territory
+-34.65,125.18,None
+-12.22,122.88,None
+-15.92,119.25,None
+-35.92,113.38,None
+-14.66,139.97,None
+-33.87,124.92,None
+-38.01,145.85,Victoria
+-38.8,129.77,None
+-35.98,113.89,None
+-12.83,143.71,None
+-38.66,115.37,None
+-9.94,117.3,None
+-22.08,132.69,Northern Territory
+-10.83,119.96,None
+-38.95,114.33,None
+-26.68,128.52,Western Australia
+-10.55,140.45,None
+-42.28,132.55,None
+-36.5,119.06,None
+-15.13,140.47,None
+-13.74,123.1,None
+-33.14,126.02,None
+-14.24,128.15,None
+-28.53,116.54,Western Australia
+-15.91,133.51,Northern Territory
+-30.53,142.07,New South Wales
+-34.42,132.67,None
+-15.08,124.71,None
+-35.71,128.03,None
+-32.82,126.44,None
+-19.18,117.29,None
+-39.73,131.05,None
+-36.52,119.01,None
+-39.51,122.22,None
+-31.32,153.0,New South Wales
+-22.69,148.56,Queensland
+-39.97,135.3,None
+-33.59,139.97,None
+-33.11,121.25,Western Australia
+-23.99,150.13,Queensland
+-20.82,119.36,Western Australia
+-17.02,119.64,None
+-24.8,123.55,Western Australia
+-29.88,137.05,South Australia
+-39.92,124.48,None
+-34.47,114.85,None
+-29.76,132.34,South Australia
+-28.63,126.36,Western Australia
+-33.75,146.87,New South Wales
+-17.58,133.36,Northern Territory
+-24.44,129.32,Northern Territory
+-22.46,119.14,Western Australia
+-9.18,146.03,None
+-35.03,132.2,None
+-24.52,120.15,Western Australia
+-30.72,150.16,New South Wales
+-38.85,118.87,None
+-19.93,126.28,Western Australia
+-24.78,148.53,Queensland
+-34.79,113.3,None
+-18.32,128.75,Western Australia
+-40.63,113.18,None
+-20.08,131.79,Northern Territory
+-34.32,122.81,None
+-17.2,128.71,Western Australia
+-11.52,140.33,None
+-25.3,142.13,None
+-28.22,146.09,None
+-14.3,133.12,None
+-40.21,134.04,None
+-28.93,147.68,None
+-12.25,122.26,None
+-30.9,146.43,None
+-35.16,153.37,None
+-28.07,139.75,None
+-41.27,147.56,None
+-28.53,142.4,None
+-31.48,135.51,None
+-39.77,136.2,None
+-12.79,135.4,None
+-34.61,151.58,None
+-25.95,131.0,None
+-16.84,151.75,None
+-30.2,135.73,None
+-14.76,148.34,None
+-39.06,115.26,None
+-41.82,121.67,None
+-23.07,144.13,None
+-38.88,137.9,None
+-16.91,131.06,None
+-12.06,149.29,None
+-23.63,145.3,Queensland
+-14.38,142.72,Queensland
+-29.78,116.6,Western Australia
+-40.49,152.46,None
+-35.34,133.59,None
+-10.53,133.45,None
+-24.84,134.38,Northern Territory
+-19.77,149.21,None
+-36.39,149.78,New South Wales
+-16.12,153.3,None
+-38.42,142.74,Victoria
+-20.85,119.49,Western Australia
+-26.02,128.13,Western Australia
+-21.71,128.86,Western Australia
+-24.14,134.75,Northern Territory
+-23.4,146.67,Queensland
+-39.66,115.12,None
+-25.61,120.93,Western Australia
+-10.6,118.56,None
+-16.35,118.75,None
+-13.98,119.99,None
+-20.65,153.01,None
+-39.71,114.59,None
+-29.87,127.1,Western Australia
+-37.46,141.98,Victoria
+-31.48,124.99,Western Australia
+-23.19,122.93,Western Australia
+-17.48,115.19,None
+-34.73,118.46,Western Australia
+-42.53,121.14,None
+-23.33,122.59,Western Australia
+-18.3,139.69,None
+-23.38,145.45,Queensland
+-15.5,113.35,None
+-13.33,127.45,None
+-35.82,136.64,South Australia
+-18.76,134.31,Northern Territory
+-14.21,146.09,None
+-33.99,115.82,Western Australia
+-9.7,122.24,None
+-20.5,144.82,Queensland
+-41.65,119.74,None
+-25.54,150.69,Queensland
+-25.09,122.72,Western Australia
+-18.58,137.87,Northern Territory
+-42.45,152.07,None
+-26.11,125.47,Western Australia
+-22.66,145.07,Queensland
+-26.02,121.53,Western Australia
+-25.37,130.4,Northern Territory
+-28.0,150.67,Queensland
+-20.08,142.82,Queensland
+-28.7,131.91,South Australia
+-35.87,128.64,None
+-32.27,151.3,New South Wales
+-41.19,142.45,None
+-21.88,126.09,Western Australia
+-26.49,143.99,Queensland
+-24.54,130.78,Northern Territory
+-17.42,143.32,Queensland
+-36.79,127.03,None
+-17.97,122.62,None
+-33.9,145.52,New South Wales
+-17.37,117.84,None
+-18.59,126.24,Western Australia
+-41.11,120.5,None
+-18.58,136.78,Northern Territory
+-35.37,147.15,New South Wales
+-28.07,126.33,Western Australia
+-31.34,136.08,South Australia
+-26.66,138.61,South Australia
+-25.23,115.53,Western Australia
+-23.56,153.58,None
+-16.33,118.94,None
+-29.15,113.7,None
+-33.86,133.01,None
+-28.37,131.21,South Australia
+-26.64,151.25,Queensland
+-15.52,150.28,None
+-28.89,140.34,South Australia
+-31.04,141.54,New South Wales
+-35.92,142.65,None
+-20.88,119.56,Western Australia
+-22.47,134.35,Northern Territory
+-9.09,113.3,None
+-11.4,128.1,None
+-15.63,138.26,None
+-11.22,150.4,None
+-11.29,133.71,None
+-40.19,128.06,None
+-26.78,123.72,Western Australia
+-23.15,135.99,Northern Territory
+-10.95,147.02,None
+-20.4,146.54,Queensland
+-28.05,137.93,South Australia
+-41.78,124.29,None
+-25.73,153.27,None
+-19.0,148.08,None
+-41.14,146.72,Tasmania
+-15.48,139.53,None
+-16.53,120.56,None
+-18.29,137.32,Northern Territory
+-35.74,122.33,None
+-19.72,125.53,Western Australia
+-20.3,135.21,Northern Territory
+-35.36,138.29,South Australia
+-33.77,150.7,New South Wales
+-19.15,141.7,Queensland
+-29.0,118.4,Western Australia
+-27.4,140.59,South Australia
+-38.68,119.6,None
+-37.3,145.45,Victoria
+-25.36,125.79,Western Australia
+-23.07,127.64,Western Australia
+-12.69,152.0,None
+-25.12,129.53,Northern Territory
+-24.47,138.51,None
+-23.7,124.84,Western Australia
+-12.92,121.17,None
+-17.57,118.3,None
+-17.72,135.95,Northern Territory
+-40.42,143.68,None
+-30.61,136.99,South Australia
+-30.58,117.54,Western Australia
+-35.21,147.04,New South Wales
+-33.63,130.61,None
+-28.46,127.0,Western Australia
+-23.62,120.29,Western Australia
+-36.67,147.99,Victoria
+-27.05,129.92,South Australia
+-35.55,121.58,None
+-29.39,151.71,New South Wales
+-31.75,126.83,Western Australia
+-21.17,115.33,None
+-40.21,152.51,None
+-18.42,116.15,None
+-42.17,141.86,None
+-21.79,145.05,Queensland
+-15.03,130.8,Northern Territory
+-42.83,151.86,None
+-25.85,131.42,Northern Territory
+-38.22,149.81,None
+-29.63,115.68,Western Australia
+-41.26,116.38,None
+-13.7,148.64,None
+-35.78,114.08,None
+-42.59,151.93,None
+-13.04,147.7,None
+-34.66,116.95,Western Australia
+-15.24,113.63,None
+-12.62,120.01,None
+-23.57,124.46,Western Australia
+-33.64,129.55,None
+-35.39,148.48,New South Wales
+-32.84,122.58,Western Australia
+-15.89,126.3,Western Australia
+-27.0,123.68,Western Australia
+-33.84,136.78,South Australia
+-9.81,135.42,None
+-23.82,137.09,Northern Territory
+-42.99,138.41,None
+-30.27,144.85,None
+-27.21,117.24,None
+-36.04,124.78,None
+-24.26,135.85,None
+-35.13,114.69,None
+-9.43,151.74,None
+-22.11,134.25,None
+-41.83,134.71,None
+-20.44,137.57,None
+-41.29,143.54,None
+-36.42,132.51,None
+-16.74,136.87,Northern Territory
+-37.32,146.77,Victoria
+-17.86,152.47,None
+-33.65,114.24,None
+-15.12,136.81,None
+-19.27,136.2,Northern Territory
+-37.97,153.2,None
+-26.08,144.66,None
+-34.94,137.0,None
+-16.8,145.03,None
+-30.83,141.01,New South Wales
+-35.88,148.06,New South Wales
+-27.64,116.43,Western Australia
+-42.67,124.43,None
+-17.54,142.02,Queensland
+-9.89,118.87,None
+-40.96,113.52,None
+-14.92,119.61,None
+-26.49,115.84,Western Australia
+-20.98,131.46,Northern Territory
+-13.84,116.31,None
+-14.78,130.05,Northern Territory
+-19.52,143.94,Queensland
+-9.35,116.87,None
+-27.27,126.15,Western Australia
+-24.67,125.82,Western Australia
+-12.85,148.34,None
+-19.05,138.35,Queensland
+-39.72,119.47,None
+-21.61,134.71,Northern Territory
+-18.57,116.1,None
+-39.46,149.79,None
+-22.77,128.25,Western Australia
+-19.82,153.78,None
+-41.18,121.26,None
+-26.69,131.99,South Australia
+-14.71,128.57,None
+-17.1,145.08,Queensland
+-29.59,147.63,New South Wales
+-17.68,120.09,None
+-41.75,144.4,None
+-41.31,149.13,None
+-17.48,122.38,Western Australia
+-33.41,129.57,None
+-37.23,130.52,None
+-14.74,148.55,None
+-25.86,122.45,Western Australia
+-9.24,150.66,None
+-15.39,125.19,Western Australia
+-32.56,146.25,New South Wales
+-40.99,145.91,Tasmania
+-30.21,153.26,New South Wales
+-42.48,125.16,None
+-12.3,123.86,None
+-40.53,119.4,None
+-41.08,146.94,Tasmania
+-21.79,126.47,Western Australia
+-28.3,120.71,Western Australia
+-42.91,125.89,None
+-32.12,145.97,New South Wales
+-37.31,144.77,Victoria
+-41.62,128.55,None
+-33.2,153.77,None
+-39.63,140.2,None
+-27.4,141.19,Queensland
+-39.16,143.97,None
+-30.64,134.85,South Australia
+-22.18,129.58,Northern Territory
+-40.51,127.29,None
+-17.92,123.9,Western Australia
+-24.79,122.6,Western Australia
+-20.75,145.5,Queensland
+-40.51,119.49,None
+-30.6,135.26,South Australia
+-38.22,117.78,None
+-17.43,141.34,Queensland
+-39.54,153.81,None
+-27.32,118.77,Western Australia
+-39.31,125.92,None
+-37.31,148.75,Victoria
+-10.0,125.4,None
+-39.82,153.04,None
+-25.54,149.55,Queensland
+-15.48,135.39,Northern Territory
+-15.87,114.03,None
+-11.66,139.2,None
+-23.43,135.5,Northern Territory
+-24.69,134.99,Northern Territory
+-33.02,131.59,None
+-35.38,153.78,None
+-34.82,147.92,New South Wales
+-27.72,147.51,Queensland
+-13.66,113.51,None
+-9.72,116.75,None
+-10.67,135.07,None
+-22.1,131.53,Northern Territory
+-23.93,136.88,Northern Territory
+-13.26,132.8,Northern Territory
+-19.0,136.89,Northern Territory
+-16.23,140.19,None
+-17.0,138.28,Queensland
+-18.51,130.4,Northern Territory
+-31.36,146.26,New South Wales
+-22.47,116.35,Western Australia
+-16.97,126.06,Western Australia
+-10.02,146.92,None
+-11.02,143.6,None
+-36.3,127.63,None
+-32.88,153.05,None
+-23.36,120.0,Western Australia
+-18.21,130.31,Northern Territory
+-14.05,127.21,Western Australia
+-25.15,116.14,Western Australia
+-38.67,150.22,None
+-35.18,120.49,None
+-31.15,120.48,Western Australia
+-10.61,115.69,None
+-36.5,145.99,Victoria
+-38.91,116.68,None
+-13.8,150.9,None
+-22.11,139.57,Queensland
+-12.87,144.97,None
+-29.62,142.23,New South Wales
+-9.27,127.39,None
+-29.02,133.56,South Australia
+-20.04,148.5,South Australia
+-20.82,139.66,South Australia
+-30.43,153.47,South Australia
+-18.28,129.41,South Australia
+-27.13,119.15,South Australia
+-21.95,122.21,South Australia
+-25.59,139.29,South Australia
+-37.14,113.47,South Australia
+-26.15,133.67,South Australia
+-13.72,115.01,South Australia
+-27.03,144.59,South Australia
+-17.63,116.76,South Australia
+-35.66,133.0,South Australia
+-33.62,144.39,South Australia
+-14.08,128.12,South Australia
+-10.17,120.45,South Australia
+-21.16,134.09,South Australia
+-9.56,134.74,South Australia
+-23.05,119.93,South Australia
+-24.85,149.77,South Australia
+-28.68,150.83,South Australia
+-21.88,134.81,South Australia
+-34.89,121.74,South Australia
+-20.09,113.72,South Australia
+-10.36,117.93,South Australia
+-18.4,145.37,South Australia
+-35.68,151.89,South Australia
+-28.32,127.77,South Australia
+-39.12,121.18,South Australia
+-13.17,132.35,South Australia
+-27.98,135.36,South Australia
+-11.19,125.95,South Australia
+-39.12,148.3,South Australia
+-27.93,115.7,South Australia
+-40.17,135.32,South Australia
+-22.86,115.37,South Australia
+-21.23,117.79,South Australia
+-28.58,114.44,South Australia
+-38.37,132.39,South Australia
+-42.42,118.85,South Australia
+-20.49,127.37,South Australia
+-21.61,120.11,South Australia
+-28.6,148.8,South Australia
+-30.24,125.32,South Australia
+-17.36,129.7,South Australia
+-23.27,150.58,South Australia
+-31.86,149.66,South Australia
+-13.35,123.72,South Australia
+-37.51,149.73,South Australia
+-27.09,123.65,South Australia
+-40.17,118.65,South Australia
+-14.68,126.14,South Australia
+-38.24,130.69,South Australia
+-30.75,146.6,South Australia
+-11.46,135.1,South Australia
+-17.3,132.53,South Australia
+-10.6,134.99,South Australia
+-30.55,137.44,South Australia
+-36.15,138.95,South Australia
+-21.71,147.17,South Australia
+-23.7,113.57,South Australia
+-29.57,136.39,South Australia
+-17.83,150.5,South Australia
+-37.01,144.12,South Australia
+-24.77,113.29,South Australia
+-11.33,132.71,South Australia
+-40.38,136.09,South Australia
+-11.46,142.33,South Australia
+-38.02,148.85,South Australia
+-32.67,134.28,South Australia
+-14.26,135.99,South Australia
+-31.91,113.48,South Australia
+-24.27,133.19,South Australia
+-19.23,146.92,None
+-35.08,132.23,None
+-15.51,114.84,None
+-18.32,144.6,None
+-27.84,142.58,None
+-27.21,114.79,None
+-11.0,123.49,None
+-33.31,130.6,None
+-14.41,120.14,None
+-13.44,144.97,None
+-28.09,130.07,None
+-24.73,148.58,None
+-20.54,141.57,None
+-41.06,146.35,None
+-38.81,148.64,None
+-12.96,150.77,None
+-24.66,131.46,None
+-28.08,134.8,None
+-42.02,115.95,None
+-37.65,120.1,None
+-29.01,136.26,None
+-28.71,114.77,None
+-17.27,136.54,None
+-13.59,114.18,None
+-40.1,132.23,None
+-41.6,147.55,None
+-41.32,125.5,None
+-42.25,149.67,None
+-27.23,119.92,None
+-35.52,117.61,None
+-35.37,139.71,None
+-41.78,130.48,None
+-40.8,116.5,None
+-12.4,135.54,None
+-24.67,124.29,None
+-36.01,142.61,None
+-39.71,151.31,None
+-39.83,134.6,None
+-41.85,151.25,None
+-39.63,141.92,None
+-10.56,130.45,None
+-23.26,120.73,None
+-34.91,135.66,None
+-12.94,153.64,None
+-29.81,150.13,None
+-35.47,144.23,None
+-33.77,131.22,None
+-21.83,135.69,None
+-35.37,141.79,None
+-42.04,133.59,None
+-29.85,114.03,None
+-24.5,115.95,None
+-28.94,126.9,None
+-21.21,151.03,None
+-35.21,130.07,None
+-17.94,147.93,None
+-13.57,138.7,None
+-25.23,150.21,None
+-36.91,149.77,None
+-38.75,122.74,None
+-15.92,134.16,None
+-21.65,152.51,None
+-23.66,153.28,None
+-38.11,124.81,None
+-20.59,153.77,None
+-31.49,153.15,None
+-12.12,125.78,None
+-30.67,134.48,None
+-10.11,114.05,None
+-32.28,132.53,None
+-39.25,124.37,None
+-10.69,124.25,None
+-39.35,113.78,None
+-17.46,151.83,None
+-24.26,145.56,None
+-17.44,145.14,None
+-35.3,145.11,None
+-27.89,133.2,None
+-17.6,143.43,None
+-30.57,152.94,None
+-34.96,153.94,None
+-16.19,119.36,None
+-20.98,124.21,None
+-29.87,125.74,None
+-39.1,150.88,None
+-37.08,123.24,None
+-34.5,132.69,None
+-23.8,147.14,Queensland
+-22.56,150.51,Queensland
+-21.54,114.34,Queensland
+-34.54,142.54,Queensland
+-24.15,126.9,Queensland
+-14.24,141.06,Queensland
+-11.56,146.51,Queensland
+-14.65,115.49,Queensland
+-9.5,152.14,Queensland
+-36.93,140.48,South Australia
+-17.2,134.27,Northern Territory
+-20.97,135.47,Northern Territory
+-12.28,132.11,Northern Territory
+-41.0,151.17,Northern Territory
+-33.79,120.66,Northern Territory
+-19.18,128.91,Northern Territory
+-42.79,143.63,Northern Territory
+-10.86,119.87,Northern Territory
+-15.15,135.03,Northern Territory
+-21.01,121.29,Northern Territory
+-40.76,146.88,Northern Territory
+-26.23,141.61,Northern Territory
+-27.59,114.72,Northern Territory
+-37.37,145.02,Northern Territory
+-32.95,118.15,Northern Territory
+-33.47,117.24,Northern Territory
+-24.08,150.38,Northern Territory
+-21.9,144.18,Northern Territory
+-13.46,147.46,Northern Territory
+-16.54,119.63,Northern Territory
+-31.51,153.69,Northern Territory
+-25.56,138.59,Northern Territory
+-30.47,122.28,Northern Territory
+-40.6,114.29,Northern Territory
+-29.8,148.99,Northern Territory
+-20.67,117.88,Northern Territory
+-27.72,134.72,Northern Territory
+-21.13,137.62,Northern Territory
+-20.23,130.36,Northern Territory
+-42.01,122.59,Northern Territory
+-30.23,152.98,Northern Territory
+-22.71,148.25,Northern Territory
+-36.97,135.14,Northern Territory
+-28.27,148.63,Northern Territory
+-38.18,119.3,Northern Territory
+-28.69,153.7,Northern Territory
+-33.45,134.87,Northern Territory
+-24.98,122.15,Northern Territory
+-37.66,139.33,Northern Territory
+-28.47,148.93,Northern Territory
+-16.23,149.09,Northern Territory
+-15.43,146.16,Northern Territory
+-20.04,127.14,Northern Territory
+-38.66,135.44,Northern Territory
+-26.63,141.9,Northern Territory
+-40.69,151.18,Northern Territory
+-11.85,124.34,Northern Territory
+-17.62,114.24,Northern Territory
+-28.91,115.64,Northern Territory
+-32.47,121.28,Northern Territory
+-36.38,129.1,Northern Territory
+-31.0,114.0,Northern Territory
+-20.59,123.5,Northern Territory
+-29.5,114.71,Northern Territory
+-28.62,150.5,Northern Territory
+-24.61,131.56,Northern Territory
+-41.07,144.75,Northern Territory
+-34.02,121.16,Northern Territory
+-15.65,144.86,Northern Territory
+-28.63,125.0,Northern Territory
+-37.53,153.51,Northern Territory
+-23.56,145.54,Northern Territory
+-9.84,151.15,Northern Territory
+-27.42,122.94,Northern Territory
+-27.22,148.27,Northern Territory
+-11.62,131.35,Northern Territory
+-19.73,151.14,Northern Territory
+-24.71,119.35,Northern Territory
+-38.07,150.65,Northern Territory
+-42.56,126.67,Northern Territory
+-27.13,140.45,Northern Territory
+-13.57,152.64,Northern Territory
+-18.17,135.91,Northern Territory
+-13.44,145.26,Northern Territory
+-19.21,152.86,Northern Territory
+-35.99,142.82,Northern Territory
+-14.86,152.66,Northern Territory
+-32.89,150.12,Northern Territory
+-39.77,151.33,Northern Territory
+-9.88,132.93,Northern Territory
+-17.65,117.42,Northern Territory
+-17.2,113.84,None
+-41.44,132.81,None
+-32.51,128.21,None
+-23.97,126.19,Western Australia
+-26.95,135.81,South Australia
+-39.85,126.18,None
+-15.24,136.21,None
+-36.86,130.01,None
+-11.12,142.44,Queensland
+-40.14,136.08,None
+-9.76,131.82,None
+-35.48,120.6,None
+-32.74,141.76,New South Wales
+-19.82,124.67,Western Australia
+-22.42,141.28,Queensland
+-18.25,139.69,Queensland
+-24.86,120.04,Western Australia
+-15.65,131.68,Northern Territory
+-18.91,125.96,Western Australia
+-16.12,151.89,Western Australia
+-22.59,150.52,Western Australia
+-26.0,137.76,Western Australia
+-36.39,136.04,Western Australia
+-32.96,122.56,Western Australia
+-26.67,113.3,Western Australia
+-42.16,131.81,Western Australia
+-35.08,132.2,Western Australia
+-37.17,113.07,Western Australia
+-35.07,118.27,Western Australia
+-18.26,144.7,Western Australia
+-10.79,144.61,Western Australia
+-27.72,141.82,Western Australia
+-22.23,136.38,Western Australia
+-25.52,126.92,Western Australia
+-18.61,116.03,Western Australia
+-15.39,151.35,None
+-26.96,147.25,Queensland
+-17.49,141.03,Queensland
+-16.87,129.18,Queensland
+-12.12,145.11,Queensland
+-39.13,143.69,Queensland
+-24.03,148.52,Queensland
+-17.0,151.84,Queensland
+-34.97,144.93,Queensland
+-12.87,136.31,Queensland
+-32.09,114.8,Queensland
+-16.36,126.89,Queensland
+-20.9,139.31,Queensland
+-39.03,128.22,Queensland
+-14.86,113.6,Queensland
+-41.23,126.97,Queensland
+-30.18,140.82,Queensland
+-21.45,145.54,Queensland
+-9.01,117.88,Queensland
+-18.45,146.99,Queensland
+-15.81,116.19,Queensland
+-13.34,120.3,Queensland
+-22.62,143.45,Queensland
+-18.09,128.1,Queensland
+-15.94,116.48,Queensland
+-37.43,122.21,Queensland
+-37.69,135.44,Queensland
+-11.37,124.8,Queensland
+-25.3,122.02,Queensland
+-18.12,137.13,Queensland
+-9.66,132.94,Queensland
+-21.36,148.55,Queensland
+-12.76,147.39,Queensland
+-10.94,140.85,Queensland
+-24.62,142.21,Queensland
+-22.45,151.57,Queensland
+-18.28,151.09,Queensland
+-37.13,139.11,Queensland
+-11.64,126.72,Queensland
+-22.47,145.11,Queensland
+-30.15,119.03,Queensland
+-30.01,138.2,Queensland
+-16.06,135.14,Queensland
+-41.95,116.41,Queensland
+-38.73,129.6,Queensland
+-13.26,132.56,Queensland
+-29.25,121.59,Queensland
+-29.65,123.25,Queensland
+-21.38,146.55,Queensland
+-35.97,138.91,Queensland
+-34.23,138.85,Queensland
+-29.09,122.24,Queensland
+-30.5,130.0,Queensland
+-35.02,147.49,Queensland
+-13.37,121.05,Queensland
+-14.7,124.71,Queensland
+-31.22,149.23,Queensland
+-21.9,146.14,Queensland
+-15.6,127.02,Queensland
+-12.7,144.09,Queensland
+-15.07,124.53,Queensland
+-23.5,127.91,Queensland
+-28.38,137.35,Queensland
+-29.95,134.54,Queensland
+-23.59,123.36,Queensland
+-34.5,116.66,Queensland
+-29.25,113.35,Queensland
+-9.75,138.65,Queensland
+-16.72,146.83,Queensland
+-41.1,131.45,Queensland
+-42.61,128.31,Queensland
+-10.14,126.65,None
+-33.75,143.06,New South Wales
+-42.26,123.8,None
+-41.12,151.01,None
+-31.24,115.44,Western Australia
+-15.66,153.0,None
+-9.34,153.42,None
+-26.09,134.94,None
+-28.03,137.53,None
+-18.35,127.1,None
+-24.64,148.21,None
+-23.06,141.83,None
+-14.16,146.05,None
+-30.2,140.65,None
+-40.08,151.27,None
+-29.82,138.8,None
+-12.77,136.71,None
+-9.75,114.8,None
+-39.29,122.15,None
+-10.65,145.17,None
+-39.04,134.47,None
+-9.26,153.37,None
+-19.64,126.66,None
+-20.34,123.36,None
+-16.54,124.85,None
+-37.5,135.61,None
+-34.51,150.78,None
+-27.48,152.36,None
+-32.99,153.92,None
+-23.95,138.71,None
+-25.19,113.85,None
+-37.22,134.69,None
+-21.07,118.84,None
+-22.45,148.35,None
+-20.3,147.19,None
+-29.72,125.27,None
+-17.78,132.85,None
+-15.32,121.49,None
+-16.84,147.27,None
+-27.95,139.79,None
+-15.63,145.93,None
+-31.15,137.94,None
+-13.77,149.38,None
+-15.44,146.19,None
+-20.94,144.32,None
+-28.84,122.32,None
+-38.93,120.04,None
+-31.39,113.85,None
+-11.41,125.83,None
+-37.48,123.42,None
+-42.25,116.52,None
+-26.22,137.21,None
+-13.78,133.45,None
+-29.81,117.73,None
+-20.72,136.37,None
+-25.19,128.34,None
+-31.22,121.16,None
+-41.18,139.87,None
+-39.21,136.14,None
+-30.57,120.24,None
+-27.54,152.29,None
+-42.82,150.35,None
+-34.6,132.56,None
+-40.34,150.29,None
+-29.1,146.91,None
+-39.78,144.09,None
+-33.76,125.58,None
+-27.54,124.5,None
+-22.27,118.24,None
+-19.64,114.45,None
+-32.98,140.78,None
+-30.62,137.06,None
+-31.86,115.54,None
+-9.06,144.84,None
+-28.47,153.36,None
+-32.67,137.41,None
+-40.42,126.87,None
+-29.6,131.92,South Australia
+-41.57,137.68,None
+-32.97,114.15,None
+-10.31,131.85,None
+-17.61,146.46,None
+-36.58,129.81,None
+-13.2,133.33,Northern Territory
+-38.0,129.27,None
+-15.0,132.22,Northern Territory
+-29.98,141.47,New South Wales
+-21.68,138.78,Queensland
+-24.45,114.65,Western Australia
+-17.81,145.95,Queensland
+-12.96,133.88,Northern Territory
+-34.33,126.51,None
+-32.55,146.55,New South Wales
+-38.02,138.73,None
+-32.83,141.69,New South Wales
+-13.79,130.79,None
+-41.63,117.81,None
+-24.76,140.81,Queensland
+-14.0,136.99,None
+-20.0,119.37,Western Australia
+-12.29,113.55,None
+-19.48,141.92,Queensland
+-17.26,144.44,Queensland
+-35.53,128.46,None
+-30.34,146.45,New South Wales
+-22.9,117.37,Western Australia
+-29.03,143.51,New South Wales
+-41.28,130.87,None
+-19.66,149.23,None
+-12.04,116.24,None
+-26.17,127.32,Western Australia
+-37.0,139.1,None
+-19.38,127.2,Western Australia
+-10.81,131.51,None
+-35.67,133.9,None
+-21.15,118.38,Western Australia
+-38.83,142.19,None
+-30.82,133.78,South Australia
+-26.9,130.6,South Australia
+-17.05,135.0,Northern Territory
+-21.96,127.53,Western Australia
+-17.82,142.81,Queensland
+-35.54,143.6,Victoria
+-37.62,130.48,None
+-17.68,118.84,None
+-25.16,141.97,Queensland
+-10.5,133.25,None
+-35.19,113.97,None
+-40.03,127.98,None
+-35.41,114.69,None
+-18.6,130.36,Northern Territory
+-34.73,153.42,None
+-36.27,120.84,None
+-11.91,119.49,None
+-23.9,145.66,Queensland
+-13.0,113.98,None
+-27.03,147.82,Queensland
+-27.57,123.73,Western Australia
+-16.79,143.57,Queensland
+-15.91,118.21,None
+-29.88,145.42,New South Wales
+-16.84,119.01,None
+-31.67,116.66,Western Australia
+-32.01,146.09,New South Wales
+-40.41,139.51,None
+-29.41,117.5,Western Australia
+-11.08,114.92,None
+-26.7,147.02,Queensland
+-37.49,135.25,None
+-19.7,137.85,Northern Territory
+-39.03,149.57,None
+-30.91,127.96,None
+-31.72,133.63,None
+-13.99,145.09,None
+-15.71,124.6,None
+-11.46,146.99,None
+-33.62,122.9,None
+-20.59,152.43,None
+-39.12,113.52,None
+-27.22,148.38,None
+-39.71,153.42,None
+-24.79,116.05,None
+-37.14,136.97,None
+-31.81,153.63,None
+-12.9,143.88,None
+-41.09,130.2,None
+-38.55,122.34,None
+-40.69,131.63,None
+-29.13,130.9,None
+-21.85,149.35,None
+-11.57,147.18,None
+-19.69,115.9,None
+-18.67,121.99,None
+-16.41,139.51,None
+-20.64,149.04,None
+-40.59,127.74,None
+-11.44,142.44,None
+-32.95,140.37,None
+-21.45,115.19,None
+-38.49,150.87,None
+-42.07,153.8,None
+-20.46,151.99,None
+-18.3,132.17,None
+-19.17,127.73,None
+-23.15,119.29,None
+-39.71,115.02,None
+-33.18,142.14,None
+-13.46,133.15,None
+-41.03,118.62,None
+-9.28,137.0,None
+-16.78,144.63,None
+-30.56,132.6,None
+-29.13,143.61,None
+-37.64,124.24,None
+-23.46,145.49,None
+-34.74,122.11,None
+-42.2,113.23,None
+-18.12,150.27,None
+-19.61,130.13,None
+-10.63,127.52,None
+-20.42,113.33,None
+-29.13,151.75,New South Wales
+-34.21,121.04,None
+-38.95,137.14,None
+-37.85,116.59,None
+-24.27,127.29,Western Australia
+-24.51,123.01,Western Australia
+-9.73,120.31,None
+-36.29,118.66,None
+-23.0,137.25,Northern Territory
+-38.15,125.02,None
+-26.81,130.29,South Australia
+-23.38,153.58,None
+-27.95,126.49,Western Australia
+-42.92,143.22,None
+-22.85,146.13,Queensland
+-36.77,135.84,None
+-24.41,128.74,Western Australia
+-25.67,121.14,Western Australia
+-37.64,136.27,None
+-31.56,152.9,New South Wales
+-19.53,118.01,None
+-20.11,125.89,Western Australia
+-23.58,130.72,Northern Territory
+-26.0,118.85,Western Australia
+-39.62,137.88,None
+-30.8,139.4,South Australia
+-22.17,145.54,Queensland
+-25.48,152.34,Queensland
+-15.85,142.71,Queensland
+-19.49,128.08,Western Australia
+-30.59,128.27,Western Australia
+-17.95,136.33,Northern Territory
+-33.16,139.73,South Australia
+-22.23,138.46,Queensland
+-11.84,132.16,None
+-17.91,125.89,Western Australia
+-9.84,122.5,None
+-28.61,119.29,Western Australia
+-34.69,127.35,None
+-13.91,139.12,None
+-10.09,132.33,None
+-25.79,151.14,Queensland
+-38.52,149.44,None
+-39.05,132.22,None
+-14.65,113.34,None
+-15.38,140.48,None
+-15.13,144.73,Queensland
+-23.53,146.51,Queensland
+-42.16,130.31,None
+-41.02,130.08,None
+-36.06,113.18,None
+-23.7,122.12,Western Australia
+-18.67,144.21,Queensland
+-18.91,130.32,Northern Territory
+-42.01,131.35,None
+-31.67,149.48,New South Wales
+-24.68,145.95,New South Wales
+-30.68,118.32,New South Wales
+-15.52,124.76,New South Wales
+-28.43,133.0,New South Wales
+-32.07,149.59,New South Wales
+-28.88,116.82,New South Wales
+-32.45,129.11,New South Wales
+-14.96,128.32,New South Wales
+-11.18,139.48,New South Wales
+-28.05,143.91,Queensland
+-16.67,120.47,None
+-13.68,141.39,None
+-36.24,121.51,None
+-12.7,124.08,None
+-12.79,148.13,None
+-23.78,129.68,Northern Territory
+-22.76,120.85,Western Australia
+-26.3,140.86,South Australia
+-30.12,140.88,South Australia
+-14.56,141.21,None
+-11.38,131.0,Northern Territory
+-30.95,152.7,New South Wales
+-34.76,113.99,None
+-11.46,119.01,None
+-35.57,126.78,None
+-13.81,147.47,None
+-20.86,131.65,Northern Territory
+-19.89,143.65,Queensland
+-16.04,115.53,None
+-16.92,127.07,Western Australia
+-29.16,121.95,Western Australia
+-38.82,142.66,None
+-20.8,141.0,Queensland
+-22.89,131.81,Northern Territory
+-37.3,143.68,Victoria
+-35.74,114.97,None
+-23.31,114.24,Western Australia
+-37.21,152.23,None
+-33.62,140.07,South Australia
+-18.18,113.28,None
+-29.13,149.43,New South Wales
+-32.84,140.43,South Australia
+-30.61,126.71,Western Australia
+-26.95,134.34,South Australia
+-29.69,118.42,Western Australia
+-26.31,138.09,South Australia
+-32.0,117.03,Western Australia
+-42.05,141.84,None
+-22.97,113.27,None
+-41.0,146.09,Tasmania
+-18.13,131.06,Northern Territory
+-22.48,132.0,Northern Territory
+-37.24,144.37,Victoria
+-17.47,125.95,Western Australia
+-15.41,141.98,Queensland
+-30.81,120.75,Western Australia
+-18.57,114.99,None
+-13.24,146.73,None
+-13.71,130.0,Northern Territory
+-17.19,142.72,Queensland
+-14.8,126.05,Western Australia
+-26.05,133.9,South Australia
+-39.42,140.99,None
+-30.78,137.54,None
+-17.39,127.73,None
+-19.23,151.45,None
+-28.44,141.71,None
+-20.93,133.61,None
+-15.06,120.64,None
+-29.78,152.0,New South Wales
+-30.02,131.66,South Australia
+-29.68,147.59,New South Wales
+-37.54,132.86,None
+-9.41,137.97,None
+-39.92,139.39,None
+-12.27,146.27,None
+-21.48,113.25,None
+-21.54,142.06,Queensland
+-9.0,149.05,None
+-15.79,120.63,None
+-10.66,113.47,None
+-13.99,141.61,Queensland
+-29.87,115.07,Western Australia
+-19.47,119.05,None
+-17.03,135.67,Northern Territory
+-39.14,122.68,None
+-18.92,123.81,Western Australia
+-26.56,139.11,South Australia
+-33.32,136.36,South Australia
+-26.09,113.12,Western Australia
+-33.89,146.47,New South Wales
+-29.87,129.3,South Australia
+-21.45,151.61,None
+-10.52,115.52,None
+-30.51,114.47,None
+-21.9,138.53,Queensland
+-24.09,141.05,Queensland
+-39.24,120.1,None
+-26.57,122.61,Western Australia
+-35.55,139.33,South Australia
+-42.86,142.11,None
+-42.62,115.18,None
+-30.51,124.4,Western Australia
+-27.76,131.85,South Australia
+-22.42,147.01,Queensland
+-32.92,115.18,None
+-19.51,126.63,Western Australia
+-15.29,124.61,None
+-21.59,135.97,Northern Territory
+-41.42,148.34,Tasmania
+-20.55,123.96,Western Australia
+-12.55,124.65,None
+-10.04,141.07,None
+-41.78,134.17,None
+-9.6,131.27,None
+-11.26,128.82,None
+-28.04,117.13,Western Australia
+-29.94,119.25,Western Australia
+-14.07,123.37,None
+-14.62,148.51,None
+-21.1,137.46,Northern Territory
+-27.09,140.13,South Australia
+-12.33,150.39,None
+-18.84,143.25,Queensland
+-26.28,148.01,Queensland
+-17.84,148.75,None
+-31.55,125.02,None
+-34.9,139.66,None
+-25.77,113.33,None
+-37.14,145.65,None
+-39.65,136.71,None
+-29.13,125.39,Western Australia
+-41.72,143.27,None
+-41.47,139.63,None
+-14.79,136.66,None
+-21.38,151.94,None
+-23.72,116.41,None
+-25.81,136.19,None
+-22.34,137.32,None
+-14.22,146.12,None
+-24.9,138.48,None
+-12.63,126.04,None
+-20.55,138.05,None
+-17.36,120.49,None
+-37.86,140.02,None
+-25.8,115.41,None
+-34.18,153.1,None
+-18.07,140.05,None
+-29.25,137.59,None
+-25.42,118.28,None
+-28.89,129.42,None
+-36.44,138.71,None
+-21.58,141.34,None
+-18.89,147.85,None
+-27.05,131.59,None
+-26.16,132.85,None
+-18.86,148.17,None
+-36.84,117.13,None
+-24.62,126.0,None
+-16.22,145.81,None
+-15.1,118.0,None
+-39.46,139.06,None
+-18.25,123.65,None
+-31.73,121.24,None
+-29.17,116.39,None
+-40.55,125.82,None
+-13.39,131.43,Northern Territory
+-27.61,123.88,Western Australia
+-40.18,138.0,None
+-16.71,146.99,None
+-40.89,117.72,None
+-29.81,133.21,South Australia
+-19.9,118.34,None
+-15.46,113.16,None
+-18.35,147.26,None
+-16.87,123.89,Western Australia
+-12.03,149.42,None
+-33.28,135.67,South Australia
+-39.56,144.63,None
+-23.66,123.79,Western Australia
+-29.69,118.15,Western Australia
+-30.76,125.85,Western Australia
+-29.15,129.15,South Australia
+-22.17,131.04,Northern Territory
+-31.38,151.44,New South Wales
+-22.73,129.79,Northern Territory
+-10.39,133.53,None
+-25.89,149.34,Queensland
+-35.15,133.89,None
+-15.26,119.67,None
+-13.59,118.54,None
+-36.04,139.36,None
+-36.6,139.26,None
+-35.1,114.69,None
+-17.66,131.72,Northern Territory
+-17.03,131.65,Northern Territory
+-27.36,120.89,Western Australia
+-10.51,126.71,None
+-24.62,141.39,Queensland
+-19.81,134.65,Northern Territory
+-14.28,139.53,None
+-30.8,142.81,New South Wales
+-24.78,147.85,Queensland
+-10.37,117.2,None
+-11.33,131.6,None
+-29.73,140.97,South Australia
+-21.45,113.17,None
+-22.85,135.4,Northern Territory
+-30.53,115.69,Western Australia
+-15.6,149.65,None
+-25.83,119.1,Western Australia
+-23.08,152.93,None
+-22.81,124.68,Western Australia
+-32.5,142.05,New South Wales
+-18.84,123.63,Western Australia
+-35.75,144.51,New South Wales
+-29.71,131.47,South Australia
+-41.81,118.74,None
+-36.85,137.36,None
+-25.84,142.88,Queensland
+-34.14,140.38,South Australia
+-27.38,137.36,South Australia
+-28.28,118.59,Western Australia
+-16.66,131.68,Northern Territory
+-32.35,140.62,South Australia
+-36.98,122.69,None
+-21.94,125.23,Western Australia
+-31.44,138.61,South Australia
+-35.1,119.29,None
+-21.6,135.42,Northern Territory
+-37.45,148.76,Victoria
+-33.15,140.76,South Australia
+-32.78,131.98,None
+-18.81,150.79,None
+-41.76,138.38,None
+-10.26,148.42,None
+-13.44,132.02,Northern Territory
+-25.37,151.6,Queensland
+-17.84,153.03,None
+-31.47,137.69,South Australia
+-19.59,118.43,None
+-26.88,135.05,South Australia
+-28.72,126.36,Western Australia
+-33.48,139.04,South Australia
+-35.37,114.66,None
+-24.34,140.93,Queensland
+-42.81,118.52,None
+-17.28,119.14,None
+-30.12,152.37,New South Wales
+-11.63,124.05,None
+-40.64,148.27,None
+-33.78,122.16,Western Australia
+-13.59,123.98,None
+-33.64,120.61,Western Australia
+-33.08,143.1,New South Wales
+-11.73,150.07,None
+-40.94,137.02,None
+-21.64,126.99,None
+-11.86,137.03,None
+-22.38,122.53,None
+-27.07,147.74,Queensland
+-34.11,153.04,None
+-16.45,136.93,Northern Territory
+-15.92,127.54,Western Australia
+-30.28,144.92,New South Wales
+-18.23,131.41,Northern Territory
+-33.51,132.02,None
+-33.38,115.19,None
+-29.25,136.64,South Australia
+-38.38,114.89,None
+-31.8,148.7,New South Wales
+-42.08,122.41,None
+-31.49,115.29,None
+-39.0,129.01,None
+-29.02,145.6,New South Wales
+-19.19,131.63,Northern Territory
+-9.13,121.73,None
+-33.14,132.41,None
+-25.36,141.48,Queensland
+-12.11,118.16,None
+-9.51,145.76,None
+-22.01,143.53,Queensland
+-25.7,142.0,Queensland
+-33.44,150.93,New South Wales
+-19.67,147.59,Queensland
+-10.39,118.83,None
+-9.62,118.19,None
+-39.43,124.25,None
+-27.76,152.19,Queensland
+-12.74,138.59,None
+-31.67,142.5,New South Wales
+-24.11,141.77,Queensland
+-39.98,128.7,None
+-9.38,116.23,None
+-38.35,153.35,None
+-26.76,114.14,Western Australia
+-12.68,149.32,None
+-25.15,124.49,Western Australia
+-16.23,145.11,Queensland
+-31.58,146.02,New South Wales
+-13.14,121.72,None
+-24.68,148.46,Queensland
+-23.28,124.05,Western Australia
+-40.78,124.78,None
+-31.88,146.84,New South Wales
+-21.68,143.76,Queensland
+-37.99,113.75,None
+-32.53,140.03,South Australia
+-38.96,148.14,None
+-22.07,142.2,Queensland
+-30.08,118.09,Western Australia
+-24.29,123.89,Western Australia
+-40.25,119.91,None
+-18.03,126.84,Western Australia
+-28.43,148.14,Queensland
+-34.56,120.28,None
+-29.39,114.88,Western Australia
+-40.8,137.12,None
+-18.43,132.92,Northern Territory
+-32.91,115.82,Western Australia
+-17.91,127.56,Western Australia
+-28.95,118.71,Western Australia
+-12.63,141.32,None
+-12.9,136.23,Northern Territory
+-20.1,148.05,Queensland
+-33.21,117.18,Western Australia
+-40.86,148.8,None
+-31.94,146.97,New South Wales
+-29.38,118.1,Western Australia
+-12.76,126.38,None
+-9.76,151.66,None
+-10.09,124.99,None
+-41.34,124.22,None
+-35.98,144.8,None
+-20.67,130.17,None
+-22.95,127.54,None
+-25.12,133.32,None
+-12.6,126.78,None
+-26.29,130.83,None
+-34.1,142.57,None
+-27.44,124.09,None
+-25.08,113.96,None
+-29.26,120.69,None
+-11.58,120.2,None
+-33.22,153.76,None
+-15.58,149.05,None
+-30.69,126.29,None
+-19.26,123.36,None
+-23.13,120.26,None
+-38.12,135.01,None
+-35.93,129.37,None
+-34.34,117.47,None
+-13.38,123.78,None
+-13.29,141.71,None
+-21.69,148.13,None
+-30.04,153.37,None
+-29.11,143.34,None
+-25.9,140.84,None
+-31.46,114.92,None
+-18.48,147.61,None
+-24.82,148.57,Queensland
+-42.14,127.59,None
+-35.55,131.9,None
+-26.7,153.13,Queensland
+-13.27,113.21,Queensland
+-19.1,132.04,Queensland
+-22.56,119.12,Queensland
+-19.19,117.47,None
+-38.22,140.04,None
+-26.66,118.64,Western Australia
+-10.74,151.16,None
+-36.22,122.0,None
+-28.6,124.7,Western Australia
+-33.1,131.54,None
+-29.07,134.84,South Australia
+-39.27,115.67,None
+-33.6,147.15,New South Wales
+-41.17,124.01,None
+-42.98,122.41,None
+-23.87,114.51,Western Australia
+-18.48,152.75,None
+-21.35,130.88,Northern Territory
+-38.65,121.11,None
+-16.34,126.9,Western Australia
+-36.54,129.78,None
+-37.99,122.25,None
+-16.31,117.0,None
+-42.47,115.94,None
+-13.22,147.39,None
+-38.53,130.95,None
+-27.86,127.45,Western Australia
+-26.73,133.02,South Australia
+-11.87,116.61,None
+-15.67,130.34,Northern Territory
+-19.51,145.29,Queensland
+-20.67,126.99,Western Australia
+-11.92,123.59,None
+-19.0,131.21,Northern Territory
+-14.26,119.8,None
+-23.78,144.18,Queensland
+-16.09,140.73,None
+-37.83,132.73,None
+-42.01,151.5,None
+-11.12,125.06,None
+-16.92,149.68,None
+-15.48,148.61,None
+-42.27,113.46,None
+-23.03,139.46,Queensland
+-19.21,117.13,None
+-22.7,139.19,Queensland
+-22.0,135.02,Northern Territory
+-10.71,125.98,None
+-13.78,153.77,None
+-32.67,117.89,Western Australia
+-21.49,121.41,Western Australia
+-40.85,150.39,None
+-18.6,135.67,Northern Territory
+-21.92,123.13,Western Australia
+-30.87,119.15,Western Australia
+-16.08,142.7,Queensland
+-42.71,119.55,None
+-35.87,138.12,South Australia
+-19.78,151.04,None
+-33.27,152.43,None
+-11.92,124.48,None
+-26.38,118.74,Western Australia
+-28.03,142.26,Queensland
+-17.59,121.37,None
+-32.0,123.91,Western Australia
+-27.82,135.53,South Australia
+-18.81,116.54,None
+-34.41,146.51,New South Wales
+-16.02,143.66,Queensland
+-26.19,133.16,South Australia
+-41.29,130.65,None
+-14.89,123.39,None
+-30.39,138.2,South Australia
+-24.67,137.4,Northern Territory
+-30.13,137.36,South Australia
+-22.22,125.23,Western Australia
+-23.04,148.16,Queensland
+-11.24,132.84,None
+-40.41,132.2,None
+-15.07,121.88,None
+-13.01,120.37,None
+-17.12,146.41,None
+-24.53,153.53,None
+-39.42,118.09,None
+-36.37,113.48,None
+-22.67,125.04,Western Australia
+-42.38,150.1,None
+-12.57,138.74,None
+-12.21,132.34,Northern Territory
+-26.02,147.13,Queensland
+-16.43,139.38,None
+-34.05,131.26,None
+-10.52,144.05,None
+-23.27,126.87,Western Australia
+-24.64,124.17,Western Australia
+-41.08,131.58,None
+-26.2,133.06,South Australia
+-36.93,121.31,None
+-20.45,119.05,Western Australia
+-27.44,134.86,South Australia
+-34.39,119.42,Western Australia
+-39.35,134.36,None
+-28.21,132.0,South Australia
+-35.8,151.61,None
+-22.46,146.51,Queensland
+-38.87,133.83,None
+-28.67,121.64,Western Australia
+-31.42,146.19,New South Wales
+-10.86,146.09,None
+-12.18,129.32,None
+-21.66,143.46,Queensland
+-21.0,146.3,Queensland
+-19.89,131.18,Northern Territory
+-42.12,145.69,Tasmania
+-18.2,127.92,Western Australia
+-18.5,146.27,Queensland
+-20.06,135.87,Northern Territory
+-28.01,121.2,Western Australia
+-42.94,115.99,None
+-29.15,126.76,Western Australia
+-32.39,148.65,New South Wales
+-21.27,113.91,None
+-18.71,125.81,Western Australia
+-15.83,134.77,Northern Territory
+-10.1,125.06,None
+-20.02,139.52,Queensland
+-38.0,147.0,Victoria
+-41.75,134.48,None
+-29.97,129.85,South Australia
+-41.04,121.59,None
+-9.34,129.09,None
+-29.75,131.15,South Australia
+-15.25,150.93,None
+-38.32,128.53,None
+-17.62,144.87,Queensland
+-14.65,132.62,Northern Territory
+-36.63,115.43,None
+-40.95,118.81,None
+-41.49,144.76,Tasmania
+-34.43,123.39,None
+-37.63,149.86,Victoria
+-31.75,125.39,Western Australia
+-24.02,145.06,Queensland
+-21.63,127.69,Western Australia
+-30.48,126.55,Western Australia
+-13.61,120.11,None
+-29.3,148.7,New South Wales
+-30.11,134.3,South Australia
+-32.13,152.94,None
+-26.22,121.63,Western Australia
+-36.78,136.17,None
+-16.81,115.33,None
+-14.91,119.81,None
+-13.87,119.56,None
+-42.83,144.59,None
+-13.31,130.31,Northern Territory
+-26.88,113.22,None
+-16.82,119.0,None
+-14.24,132.53,Northern Territory
+-11.34,152.38,None
+-14.23,129.73,Northern Territory
+-13.5,116.84,None
+-26.94,151.09,Queensland
+-40.3,152.2,None
+-24.0,139.33,Queensland
+-30.76,113.21,None
+-25.96,123.12,Western Australia
+-25.68,147.38,Queensland
+-18.0,142.46,Queensland
+-36.27,128.55,None
+-14.42,141.49,None
+-37.41,150.0,New South Wales
+-21.72,151.95,None
+-42.74,116.0,None
+-18.72,127.61,Western Australia
+-18.2,142.7,Queensland
+-9.42,128.97,None
+-19.24,146.92,Queensland
+-42.7,128.47,None
+-19.64,131.83,Northern Territory
+-16.98,119.14,None
+-10.56,141.54,None
+-24.29,115.66,Western Australia
+-13.57,145.58,None
+-39.71,135.52,None
+-42.87,123.64,None
+-15.6,152.97,None
+-16.46,129.11,Northern Territory
+-30.67,131.59,South Australia
+-31.68,124.52,Western Australia
+-9.0,120.42,None
+-9.63,144.84,None
+-11.64,121.36,None
+-13.03,146.37,None
+-16.37,128.66,Western Australia
+-16.41,144.18,Queensland
+-9.88,138.3,None
+-35.06,141.04,Victoria
+-31.9,152.87,None
+-35.28,135.13,None
+-36.55,147.72,Victoria
+-10.62,118.12,None
+-21.52,131.28,Northern Territory
+-17.61,151.34,None
+-41.93,140.19,None
+-34.6,147.42,New South Wales
+-36.49,126.6,None
+-15.97,134.33,Northern Territory
+-34.1,139.05,South Australia
+-40.12,144.69,Tasmania
+-25.14,141.11,Queensland
+-19.62,149.95,None
+-17.06,120.84,None
+-35.21,128.8,None
+-40.83,124.09,None
+-12.82,122.41,None
+-26.26,118.92,Western Australia
+-24.36,137.63,Northern Territory
+-41.52,134.3,None
+-31.94,126.35,Western Australia
+-22.73,143.05,Queensland
+-27.55,117.56,Western Australia
+-39.13,119.96,None
+-14.83,128.31,None
+-33.75,138.75,South Australia
+-30.16,142.32,New South Wales
+-26.23,136.54,South Australia
+-31.88,133.94,South Australia
+-30.9,127.56,Western Australia
+-16.12,122.29,None
+-41.78,114.7,None
+-34.03,143.15,New South Wales
+-23.74,146.83,Queensland
+-40.37,139.06,None
+-34.63,131.66,None
+-13.32,145.86,None
+-27.02,140.9,South Australia
+-33.4,141.21,New South Wales
+-39.6,136.6,None
+-12.76,137.38,None
+-35.67,127.95,None
+-12.58,133.95,Northern Territory
+-13.87,140.62,Northern Territory
+-30.4,139.65,Northern Territory
+-35.37,123.65,Northern Territory
+-20.21,129.98,Northern Territory
+-27.14,142.22,Northern Territory
+-34.26,141.37,Northern Territory
+-11.37,134.23,Northern Territory
+-22.48,114.97,Northern Territory
+-17.83,153.84,Northern Territory
+-37.19,128.24,Northern Territory
+-9.86,135.41,Northern Territory
+-41.06,135.91,Northern Territory
+-28.89,130.78,Northern Territory
+-19.21,127.78,Northern Territory
+-13.8,153.98,Northern Territory
+-40.9,125.87,Northern Territory
+-37.75,141.15,Northern Territory
+-23.53,116.19,Northern Territory
+-32.7,132.95,Northern Territory
+-29.22,146.35,Northern Territory
+-23.43,129.6,Northern Territory
+-22.15,153.94,Northern Territory
+-9.81,140.71,Northern Territory
+-41.84,153.96,Northern Territory
+-24.32,120.91,Northern Territory
+-24.05,121.47,Northern Territory
+-19.97,137.56,Northern Territory
+-13.78,136.13,Northern Territory
+-34.25,139.24,Northern Territory
+-37.51,113.04,Northern Territory
+-31.37,126.69,Northern Territory
+-25.89,132.8,Northern Territory
+-29.27,123.03,Northern Territory
+-21.99,143.44,Northern Territory
+-30.26,123.19,Northern Territory
+-27.15,119.05,Northern Territory
+-10.88,144.67,Northern Territory
+-10.7,115.32,Northern Territory
+-21.26,152.36,Northern Territory
+-18.91,129.43,Northern Territory
+-37.77,136.01,Northern Territory
+-42.84,147.1,Northern Territory
+-28.77,140.04,Northern Territory
+-25.66,116.14,Northern Territory
+-22.94,146.46,Northern Territory
+-17.86,142.63,Northern Territory
+-39.28,144.43,Northern Territory
+-19.96,148.04,Northern Territory
+-33.15,134.09,Northern Territory
+-28.84,134.25,Northern Territory
+-22.77,135.0,Northern Territory
+-42.49,116.32,Northern Territory
+-36.43,142.95,Northern Territory
+-24.52,127.89,Northern Territory
+-19.45,124.96,Northern Territory
+-26.98,119.0,Northern Territory
+-24.95,124.84,Northern Territory
+-28.39,132.72,Northern Territory
+-10.68,126.48,Northern Territory
+-36.05,119.3,Northern Territory
+-36.33,119.08,Northern Territory
+-37.56,140.58,Northern Territory
+-39.46,131.55,Northern Territory
+-23.59,125.38,Northern Territory
+-11.2,153.81,Northern Territory
+-20.4,120.15,Northern Territory
+-25.45,151.61,Northern Territory
+-9.35,121.61,Northern Territory
+-36.07,131.69,Northern Territory
+-36.0,146.5,Northern Territory
+-26.88,126.79,Northern Territory
+-33.35,119.43,Northern Territory
+-20.41,152.27,Northern Territory
+-25.65,120.45,Northern Territory
+-36.32,116.75,Northern Territory
+-39.75,124.48,None
+-20.75,146.67,Queensland
+-18.48,125.55,Queensland
+-40.69,151.9,Queensland
+-20.75,142.58,Queensland
+-17.68,117.91,Queensland
+-31.86,120.32,Queensland
+-35.04,135.77,Queensland
+-14.95,117.9,Queensland
+-15.12,140.71,Queensland
+-26.78,148.64,Queensland
+-37.71,114.87,Queensland
+-35.24,121.67,Queensland
+-13.14,138.0,Queensland
+-26.54,131.57,Queensland
+-13.06,127.49,Queensland
+-16.57,119.3,Queensland
+-40.97,139.66,Queensland
+-27.85,152.47,Queensland
+-10.55,122.15,Queensland
+-17.37,127.43,Queensland
+-11.91,116.16,Queensland
+-39.54,135.45,Queensland
+-25.44,140.17,Queensland
+-23.17,144.03,Queensland
+-29.61,120.92,Queensland
+-25.22,120.87,Queensland
+-11.82,145.38,Queensland
+-18.27,133.32,Queensland
+-33.97,140.13,Queensland
+-25.89,139.25,Queensland
+-20.84,150.98,Queensland
+-21.61,143.6,Queensland
+-20.56,133.69,Queensland
+-31.3,123.28,Queensland
+-9.68,124.87,Queensland
+-20.09,148.95,Queensland
+-26.26,123.12,Queensland
+-24.75,119.02,Queensland
+-34.25,139.34,Queensland
+-36.4,146.44,Queensland
+-22.29,132.73,Queensland
+-28.82,118.89,Queensland
+-32.5,135.2,Queensland
+-30.14,151.39,Queensland
+-39.32,119.14,Queensland
+-26.25,131.63,Queensland
+-14.45,122.17,Queensland
+-14.06,148.28,None
+-11.81,129.16,None
+-28.92,138.81,None
+-35.58,117.46,None
+-33.7,139.33,None
+-13.41,117.71,None
+-33.59,136.15,None
+-35.76,132.08,None
+-36.5,116.44,None
+-18.79,153.84,None
+-35.02,145.38,None
+-42.92,127.42,None
+-39.46,118.3,None
+-38.0,116.91,None
+-31.44,113.21,None
+-25.63,140.49,None
+-16.41,150.59,None
+-24.4,135.21,Northern Territory
+-10.36,153.98,None
+-29.56,148.64,None
+-19.82,143.73,Queensland
+-27.8,133.98,South Australia
+-15.34,114.89,None
+-27.3,119.21,Western Australia
+-40.27,114.38,None
+-28.89,113.96,None
+-32.11,138.01,South Australia
+-33.76,140.41,South Australia
+-32.49,152.39,New South Wales
+-35.35,151.62,None
+-39.92,135.62,None
+-18.57,135.46,Northern Territory
+-27.03,145.31,Queensland
+-39.0,136.71,None
+-20.06,123.55,Western Australia
+-23.41,153.97,None
+-23.85,127.06,Western Australia
+-34.2,147.67,New South Wales
+-34.31,147.04,None
+-11.95,149.36,None
+-13.87,123.01,None
+-18.78,119.02,None
+-27.95,123.99,Western Australia
+-29.28,130.31,South Australia
+-25.48,123.24,Western Australia
+-33.02,152.92,None
+-30.83,145.91,New South Wales
+-31.87,116.03,Western Australia
+-35.61,121.69,None
+-32.09,146.0,New South Wales
+-19.98,143.97,Queensland
+-21.83,130.37,Northern Territory
+-41.28,138.67,None
+-20.99,142.97,Queensland
+-28.91,123.89,Western Australia
+-21.19,140.91,Queensland
+-21.0,134.45,Northern Territory
+-29.12,147.28,New South Wales
+-39.0,144.13,None
+-15.86,120.45,None
+-12.62,127.95,None
+-33.95,127.91,None
+-17.66,138.12,Queensland
+-28.84,117.98,Western Australia
+-33.68,142.07,New South Wales
+-19.72,141.59,Queensland
+-37.83,134.42,None
+-16.74,150.62,None
+-38.5,142.26,None
+-42.72,134.39,None
+-17.33,131.59,Northern Territory
+-41.38,148.04,Tasmania
+-11.37,135.04,None
+-42.11,151.47,None
+-17.42,142.32,Queensland
+-26.42,123.26,Western Australia
+-9.59,153.96,None
+-20.17,146.6,Queensland
+-27.73,147.83,Queensland
+-12.57,148.33,None
+-25.21,136.14,Northern Territory
+-21.41,138.4,Queensland
+-43.0,147.22,Tasmania
+-28.22,115.11,Western Australia
+-32.08,113.05,None
+-19.4,136.38,Northern Territory
+-37.36,144.26,Victoria
+-36.81,144.54,Victoria
+-30.21,131.75,South Australia
+-25.51,115.55,Western Australia
+-30.37,114.21,None
+-29.06,115.29,Western Australia
+-33.66,147.92,New South Wales
+-19.71,130.26,Northern Territory
+-9.15,125.53,None
+-31.42,153.69,None
+-9.9,133.51,None
+-20.23,118.0,None
+-11.36,144.86,None
+-23.62,132.25,Northern Territory
+-39.99,121.85,None
+-17.25,133.04,Northern Territory
+-14.19,131.05,Northern Territory
+-30.18,153.81,None
+-21.85,119.0,Western Australia
+-10.95,149.61,None
+-27.04,125.63,Western Australia
+-30.2,123.06,Western Australia
+-10.3,148.68,None
+-31.32,122.09,None
+-17.55,145.2,None
+-11.73,144.75,None
+-29.0,149.77,New South Wales
+-25.57,113.95,None
+-13.54,129.63,None
+-39.4,136.23,None
+-29.02,127.12,Western Australia
+-10.26,122.94,None
+-18.87,145.85,Queensland
+-36.29,127.67,None
+-23.46,115.5,Western Australia
+-15.43,145.37,None
+-17.78,119.62,None
+-9.44,113.8,None
+-14.18,117.29,None
+-34.07,118.22,Western Australia
+-31.71,135.99,South Australia
+-31.9,127.76,Western Australia
+-40.63,133.55,None
+-32.13,146.96,New South Wales
+-17.12,137.62,Northern Territory
+-24.69,126.15,Western Australia
+-37.16,117.02,None
+-35.89,114.54,None
+-10.16,135.42,None
+-30.1,131.49,South Australia
+-40.53,147.98,None
+-32.72,128.8,None
+-10.29,134.39,None
+-13.02,134.85,Northern Territory
+-38.09,133.12,None
+-35.73,117.59,None
+-32.0,118.12,Western Australia
+-28.31,144.73,Queensland
+-11.99,132.11,None
+-25.94,122.17,Western Australia
+-30.36,137.78,South Australia
+-34.88,150.42,New South Wales
+-23.05,148.23,Queensland
+-15.32,116.92,None
+-14.49,118.72,None
+-19.12,132.34,Northern Territory
+-32.04,138.75,South Australia
+-27.41,151.3,Queensland
+-15.32,125.25,Western Australia
+-26.95,151.92,Queensland
+-37.74,133.49,None
+-26.91,124.21,Western Australia
+-11.12,126.34,None
+-26.61,141.56,Queensland
+-30.36,144.01,New South Wales
+-30.85,139.12,South Australia
+-38.02,137.61,None
+-31.31,129.51,South Australia
+-32.61,134.93,South Australia
+-35.11,143.0,Victoria
+-26.66,118.26,Western Australia
+-33.75,148.76,New South Wales
+-24.17,143.9,Queensland
+-33.96,152.72,None
+-11.11,121.64,None
+-25.23,132.23,Northern Territory
+-26.56,144.9,Queensland
+-38.91,132.58,None
+-24.44,151.83,Queensland
+-27.15,125.97,Western Australia
+-28.43,148.29,Queensland
+-36.57,125.28,None
+-14.33,130.46,Northern Territory
+-35.65,137.98,South Australia
+-24.27,125.74,Western Australia
+-21.13,116.36,Western Australia
+-28.68,125.1,Western Australia
+-25.8,122.74,Western Australia
+-11.19,153.18,None
+-27.94,128.36,Western Australia
+-35.99,147.01,New South Wales
+-10.87,149.04,None
+-22.96,130.34,Northern Territory
+-9.51,147.51,None
+-34.57,135.75,South Australia
+-34.35,129.45,None
+-20.17,150.41,None
+-13.81,135.8,Northern Territory
+-42.74,117.62,None
+-27.36,117.84,Western Australia
+-37.52,136.66,None
+-15.4,115.67,None
+-21.01,121.55,Western Australia
+-42.45,133.68,None
+-32.95,148.39,New South Wales
+-38.49,146.25,Victoria
+-11.38,131.4,Northern Territory
+-10.47,152.93,None
+-38.53,124.14,None
+-16.29,117.33,None
+-13.34,117.0,None
+-17.34,136.35,Northern Territory
+-22.51,153.65,None
+-19.44,114.66,None
+-16.47,122.18,None
+-15.39,147.27,None
+-28.24,144.44,Queensland
+-32.43,126.22,None
+-33.19,139.61,South Australia
+-22.85,139.98,Queensland
+-17.13,133.06,Northern Territory
+-19.22,127.93,Western Australia
+-36.47,132.3,None
+-22.5,115.22,Western Australia
+-13.2,144.46,None
+-25.0,137.17,Northern Territory
+-35.59,135.65,None
+-35.97,139.88,South Australia
+-14.55,122.67,None
+-40.43,118.05,None
+-38.03,129.81,None
+-18.4,121.11,None
+-37.24,140.54,South Australia
+-34.75,130.87,None
+-20.95,137.19,Northern Territory
+-21.35,124.48,Western Australia
+-39.09,132.2,None
+-28.98,133.78,South Australia
+-14.06,117.96,None
+-17.74,149.51,None
+-15.21,121.08,None
+-29.82,153.76,None
+-15.97,142.32,Queensland
+-37.55,115.1,None
+-16.9,153.11,None
+-39.93,139.37,None
+-25.7,149.63,Queensland
+-41.16,118.6,None
+-20.75,126.27,Western Australia
+-27.18,116.74,Western Australia
+-40.68,114.0,None
+-31.66,143.8,New South Wales
+-38.39,118.7,None
+-23.72,127.34,Western Australia
+-19.63,132.59,Northern Territory
+-11.68,137.95,None
+-33.42,127.34,None
+-22.16,133.99,Northern Territory
+-10.82,150.86,None
+-38.67,119.88,None
+-12.1,115.28,None
+-16.95,151.09,None
+-26.63,117.24,Western Australia
+-34.9,135.43,None
+-37.88,144.7,Victoria
+-29.43,153.2,New South Wales
+-31.35,137.3,South Australia
+-35.62,128.31,None
+-30.02,124.39,Western Australia
+-33.29,145.6,New South Wales
+-32.79,138.59,South Australia
+-27.6,127.26,Western Australia
+-22.64,153.98,None
+-23.27,148.65,Queensland
+-23.86,118.8,Western Australia
+-20.97,124.0,Western Australia
+-9.58,114.54,None
+-35.18,129.3,None
+-16.78,150.17,None
+-13.64,120.59,None
+-35.2,152.84,None
+-13.7,153.0,None
+-19.08,122.55,Western Australia
+-18.49,151.14,None
+-16.33,124.45,Western Australia
+-41.75,128.92,None
+-40.21,116.09,None
+-25.82,133.44,Northern Territory
+-11.28,121.69,None
+-18.25,146.27,Queensland
+-40.57,116.7,None
+-22.19,145.7,Queensland
+-17.87,130.63,Northern Territory
+-12.84,120.91,None
+-14.54,150.68,None
+-41.07,143.38,None
+-23.92,124.48,Western Australia
+-21.75,140.27,Queensland
+-19.83,136.23,Northern Territory
+-20.84,134.66,Northern Territory
+-12.13,128.36,None
+-11.16,135.38,None
+-24.67,126.83,Western Australia
+-40.89,148.15,Tasmania
+-29.39,134.92,South Australia
+-21.15,148.71,Queensland
+-17.21,141.47,Queensland
+-25.05,146.32,Queensland
+-26.44,137.78,South Australia
+-22.8,139.23,Queensland
+-35.08,151.25,None
+-25.45,130.84,Northern Territory
+-12.88,149.77,None
+-36.3,141.12,Victoria
+-16.06,118.94,None
+-16.72,146.32,None
+-29.05,134.52,South Australia
+-15.22,134.39,Northern Territory
+-13.76,126.4,None
+-33.82,131.24,None
+-16.0,115.05,None
+-34.62,144.94,New South Wales
+-9.69,145.95,None
+-22.75,122.07,Western Australia
+-26.66,138.13,South Australia
+-32.18,124.69,Western Australia
+-36.82,128.08,None
+-17.76,128.37,Western Australia
+-12.61,122.0,None
+-10.23,131.24,None
+-23.94,135.42,Northern Territory
+-28.2,129.65,South Australia
+-11.78,131.64,None
+-36.76,149.49,New South Wales
+-42.24,153.09,None
+-18.67,141.27,Queensland
+-41.87,148.26,Tasmania
+-33.95,137.17,None
+-42.98,115.41,None
+-9.21,123.18,None
+-12.66,116.94,None
+-25.56,144.07,Queensland
+-27.42,120.85,Western Australia
+-19.38,119.04,None
+-35.58,116.62,None
+-33.62,130.59,None
+-21.41,118.27,Western Australia
+-14.37,124.36,None
+-16.78,116.1,None
+-35.95,120.85,None
+-40.82,136.01,None
+-11.6,152.58,None
+-22.94,113.06,None
+-32.02,134.48,South Australia
+-37.93,125.91,None
+-37.49,118.68,None
+-41.12,148.1,Tasmania
+-38.6,144.2,None
+-37.2,152.48,None
+-34.25,140.91,South Australia
+-41.14,134.89,None
+-12.86,136.9,None
+-11.27,153.89,None
+-38.42,116.35,None
+-21.97,150.19,None
+-29.06,137.52,South Australia
+-14.59,145.91,None
+-16.69,113.14,None
+-34.75,131.54,None
+-35.33,116.43,None
+-36.25,150.9,None
+-9.51,129.88,None
+-40.64,150.16,None
+-9.28,137.89,None
+-21.17,113.44,None
+-12.18,120.72,None
+-15.84,141.9,Queensland
+-11.3,144.42,None
+-12.62,149.85,None
+-18.39,133.5,Northern Territory
+-39.16,136.98,None
+-34.35,130.17,None
+-35.53,149.54,New South Wales
+-15.36,121.46,None
+-16.61,122.7,None
+-22.09,153.02,None
+-29.84,132.29,South Australia
+-38.76,115.65,None
+-41.09,121.59,None
+-14.27,118.29,None
+-17.2,146.14,None
+-22.23,127.49,Western Australia
+-27.47,122.16,Western Australia
+-41.38,125.95,None
+-27.93,118.28,Western Australia
+-39.51,131.32,None
+-12.5,134.36,Northern Territory
+-41.25,140.42,None
+-17.27,130.16,Northern Territory
+-9.21,117.14,None
+-34.08,128.29,None
+-22.21,129.06,Northern Territory
+-34.04,144.67,New South Wales
+-30.56,128.0,Western Australia
+-9.62,124.68,None
+-34.87,148.61,New South Wales
+-18.27,147.24,None
+-34.66,143.32,New South Wales
+-37.99,131.9,None
+-38.16,123.65,None
+-42.36,114.85,None
+-19.26,116.37,None
+-25.9,120.77,Western Australia
+-10.54,118.23,None
+-21.53,150.75,None
+-36.14,146.58,Victoria
+-17.3,118.62,None
+-42.3,137.59,None
+-37.77,139.93,None
+-16.11,134.93,Northern Territory
+-26.64,138.32,South Australia
+-35.33,148.35,New South Wales
+-29.8,135.44,South Australia
+-40.41,130.64,None
+-28.83,130.27,South Australia
+-21.36,137.0,Northern Territory
+-39.95,136.63,None
+-28.41,123.31,Western Australia
+-22.24,153.75,None
+-23.5,118.0,Western Australia
+-38.3,122.08,None
+-19.46,139.86,Queensland
+-21.31,121.46,Western Australia
+-33.87,115.84,Western Australia
+-10.26,123.97,None
+-13.21,135.9,Northern Territory
+-23.32,144.24,Queensland
+-37.68,152.21,None
+-17.36,122.0,None
+-42.66,152.32,None
+-31.64,141.27,New South Wales
+-23.64,125.79,Western Australia
+-24.51,114.13,Western Australia
+-9.87,119.85,None
+-9.94,130.27,None
+-33.48,138.39,South Australia
+-20.21,136.95,Northern Territory
+-11.77,149.92,None
+-11.79,139.0,None
+-30.11,149.08,New South Wales
+-24.63,123.79,Western Australia
+-34.99,116.13,None
+-21.3,124.73,Western Australia
+-29.02,139.64,South Australia
+-18.62,130.21,Northern Territory
+-18.76,152.17,None
+-18.93,136.65,Northern Territory
+-30.14,153.0,New South Wales
+-30.95,146.69,New South Wales
+-18.94,148.4,None
+-42.07,127.0,None
+-42.11,119.94,None
+-27.46,133.64,South Australia
+-16.69,118.67,None
+-39.15,141.36,None
+-21.45,140.93,Queensland
+-17.47,140.54,None
+-39.45,151.71,None
+-17.23,152.08,None
+-24.86,119.27,None
+-32.46,117.17,None
+-38.86,139.2,None
+-9.67,124.7,None
+-9.15,139.28,None
+-11.25,128.32,None
+-27.69,145.06,None
+-10.42,136.88,None
+-40.54,142.36,None
+-39.33,134.13,None
+-30.44,150.99,None
+-38.18,147.26,None
+-19.19,132.74,None
+-39.07,128.22,None
+-37.88,117.74,None
+-41.47,142.53,None
+-10.2,116.82,None
+-42.51,131.27,None
+-29.23,150.43,None
+-21.83,147.78,None
+-12.03,144.9,None
+-29.91,132.83,None
+-9.66,121.84,None
+-29.35,140.42,None
+-9.36,144.45,None
+-35.57,135.9,None
+-22.66,138.57,Queensland
+-19.5,150.96,None
+-25.43,151.79,Queensland
+-34.42,115.78,Western Australia
+-21.56,125.42,Western Australia
+-9.69,115.22,None
+-23.59,115.39,Western Australia
+-33.71,124.26,None
+-20.48,123.44,Western Australia
+-10.2,129.91,None
+-28.27,151.58,Queensland
+-40.38,128.18,None
+-19.74,117.47,None
+-22.71,120.99,Western Australia
+-41.16,135.29,None
+-36.99,140.32,South Australia
+-36.94,151.48,None
+-17.73,141.95,Queensland
+-40.47,129.23,None
+-24.09,150.33,Queensland
+-27.82,114.47,Western Australia
+-16.77,135.32,Northern Territory
+-38.53,144.99,Victoria
+-20.67,137.23,Northern Territory
+-31.66,122.86,Western Australia
+-33.77,144.22,New South Wales
+-38.82,123.02,None
+-16.97,118.79,None
+-36.88,140.45,South Australia
+-36.3,134.44,None
+-9.14,136.77,None
+-19.13,139.52,Queensland
+-26.99,150.97,Queensland
+-37.39,135.32,None
+-16.83,117.74,None
+-22.49,128.84,Western Australia
+-13.89,113.88,None
+-35.64,130.93,None
+-38.6,129.63,None
+-14.05,119.5,None
+-16.42,149.94,None
+-17.08,124.41,Western Australia
+-37.96,121.54,None
+-40.58,139.46,None
+-9.57,122.78,None
+-12.23,143.29,None
+-29.17,126.94,Western Australia
+-31.33,133.25,South Australia
+-24.78,135.07,Northern Territory
+-27.14,140.21,South Australia
+-40.14,122.43,None
+-30.01,136.26,South Australia
+-29.47,120.78,Western Australia
+-30.59,123.89,Western Australia
+-17.87,120.68,None
+-36.52,132.62,None
+-19.19,136.11,Northern Territory
+-26.53,140.18,South Australia
+-35.19,114.16,None
+-34.87,118.28,Western Australia
+-11.48,146.59,None
+-16.01,137.7,None
+-12.68,143.34,Queensland
+-16.43,141.11,None
+-23.18,150.04,Queensland
+-35.87,119.58,None
+-10.44,138.52,None
+-19.06,132.09,Northern Territory
+-31.28,122.67,Western Australia
+-30.1,129.92,South Australia
+-14.88,130.18,Northern Territory
+-35.67,140.81,South Australia
+-18.43,121.07,None
+-27.84,128.18,Western Australia
+-33.31,147.86,New South Wales
+-24.49,152.51,None
+-19.7,120.86,Western Australia
+-39.88,127.22,None
+-27.11,139.39,South Australia
+-27.89,143.37,Queensland
+-23.17,151.34,None
+-14.99,138.66,None
+-29.29,127.13,Western Australia
+-38.61,143.94,Victoria
+-28.41,136.96,South Australia
+-28.95,143.45,Queensland
+-25.67,113.25,None
+-12.84,123.32,None
+-23.84,144.33,Queensland
+-11.5,134.19,None
+-37.19,140.19,South Australia
+-18.7,118.45,None
+-18.63,143.33,None
+-17.97,140.35,Queensland
+-28.94,121.06,Western Australia
+-10.73,124.54,None
+-24.16,115.1,Western Australia
+-40.85,122.48,None
+-40.07,140.05,None
+-16.27,141.28,None
+-23.54,127.45,Western Australia
+-16.81,116.88,None
+-14.08,124.75,None
+-25.45,141.88,Queensland
+-38.67,146.62,None
+-25.0,147.4,None
+-20.24,117.97,None
+-36.03,113.3,None
+-22.36,121.46,Western Australia
+-10.22,146.01,None
+-22.15,132.26,Northern Territory
+-25.3,146.4,Queensland
+-32.62,115.42,None
+-19.2,140.13,Queensland
+-33.33,127.88,None
+-18.37,151.69,None
+-13.0,148.95,None
+-13.0,152.07,None
+-35.53,148.85,None
+-21.71,135.14,Northern Territory
+-17.25,151.98,None
+-26.5,134.22,South Australia
+-37.95,114.02,None
+-26.39,115.48,Western Australia
+-38.0,144.66,Victoria
+-10.27,144.0,None
+-33.04,144.28,New South Wales
+-37.17,121.27,None
+-9.32,125.33,None
+-43.0,121.86,None
+-23.76,124.32,Western Australia
+-34.09,121.08,None
+-23.67,134.38,Northern Territory
+-32.0,127.95,Western Australia
+-19.58,122.36,Western Australia
+-38.96,142.87,None
+-11.54,120.6,None
+-22.3,135.62,Northern Territory
+-32.26,133.92,South Australia
+-37.58,129.6,None
+-13.71,127.54,None
+-32.91,114.76,None
+-31.28,118.08,Western Australia
+-26.2,116.8,Western Australia
+-23.49,133.06,Northern Territory
+-18.82,122.1,Western Australia
+-30.94,148.05,New South Wales
+-30.58,120.67,Western Australia
+-37.31,152.37,None
+-23.08,149.8,Queensland
+-15.7,133.71,Northern Territory
+-40.29,137.73,None
+-32.69,130.64,None
+-21.38,143.51,Queensland
+-38.33,152.08,None
+-13.27,114.88,None
+-12.23,113.82,None
+-10.57,120.33,None
+-39.41,130.73,None
+-9.72,131.82,None
+-28.03,138.14,South Australia
+-40.09,139.34,None
+-28.29,129.4,South Australia
+-13.72,153.87,None
+-32.48,149.95,New South Wales
+-16.13,141.07,None
+-12.51,140.85,None
+-38.17,116.66,None
+-24.69,134.51,Northern Territory
+-25.37,128.12,Western Australia
+-36.42,114.17,None
+-22.14,119.2,Western Australia
+-21.9,131.08,Northern Territory
+-29.57,133.52,South Australia
+-39.53,115.5,None
+-30.27,127.65,Western Australia
+-33.96,120.89,None
+-23.26,126.43,Western Australia
+-11.44,132.54,Northern Territory
+-31.71,134.54,South Australia
+-28.0,116.25,Western Australia
+-23.56,132.15,Northern Territory
+-10.31,130.18,None
+-31.98,121.72,Western Australia
+-40.93,124.21,None
+-19.75,131.19,Northern Territory
+-22.58,146.23,Queensland
+-11.7,125.52,None
+-25.53,145.45,Queensland
+-32.96,142.11,New South Wales
+-37.89,113.34,None
+-33.89,134.67,None
+-36.27,133.73,None
+-23.51,133.41,Northern Territory
+-12.82,126.81,None
+-15.28,148.83,None
+-21.64,134.78,Northern Territory
+-40.31,121.28,Northern Territory
+-24.45,144.93,Queensland
+-11.65,113.78,None
+-11.83,131.77,None
+-16.95,124.82,Western Australia
+-11.72,117.92,None
+-15.97,153.41,None
+-14.9,139.71,None
+-12.97,141.54,None
+-40.09,122.72,None
+-25.47,148.42,Queensland
+-36.14,117.78,None
+-10.0,150.56,None
+-27.14,145.24,Queensland
+-16.75,128.44,Western Australia
+-19.84,114.34,None
+-41.63,145.07,Tasmania
+-11.0,136.36,Tasmania
+-23.59,133.33,Northern Territory
+-15.4,121.49,None
+-9.83,118.91,None
+-26.36,138.68,South Australia
+-23.62,132.9,Northern Territory
+-26.15,137.57,South Australia
+-13.0,130.83,Northern Territory
+-30.28,129.68,South Australia
+-27.72,134.81,South Australia
+-17.28,136.79,Northern Territory
+-31.05,119.6,Western Australia
+-31.53,121.63,Western Australia
+-18.42,126.67,Western Australia
+-31.89,151.42,New South Wales
+-28.0,152.68,Queensland
+-28.66,118.5,Western Australia
+-10.75,136.43,None
+-10.66,146.62,None
+-38.0,121.18,None
+-24.15,137.4,Northern Territory
+-25.38,151.3,Queensland
+-29.76,136.54,South Australia
+-32.08,118.31,Western Australia
+-27.69,136.55,South Australia
+-22.0,121.55,Western Australia
+-14.1,151.98,None
+-30.21,117.75,Western Australia
+-42.74,122.74,None
+-29.01,123.36,Western Australia
+-35.42,149.87,New South Wales
+-18.76,140.1,Queensland
+-21.48,147.13,Queensland
+-18.67,152.56,None
+-37.35,114.77,None
+-14.11,116.39,None
+-29.3,152.06,New South Wales
+-15.92,118.15,None
+-30.43,122.04,Western Australia
+-40.76,130.61,None
+-39.8,131.98,None
+-25.18,139.19,Queensland
+-31.55,153.54,None
+-21.34,149.48,None
+-31.7,117.92,Western Australia
+-23.77,147.05,Queensland
+-23.29,136.2,Northern Territory
+-32.49,131.4,None
+-35.86,132.12,None
+-23.9,113.99,Western Australia
+-19.88,114.86,None
+-31.3,143.51,New South Wales
+-19.51,131.9,Northern Territory
+-22.31,114.64,Western Australia
+-10.93,141.51,None
+-14.37,147.38,None
+-10.07,141.49,None
+-37.99,147.8,Victoria
+-21.94,118.77,Western Australia
+-14.13,139.8,None
+-27.0,115.0,Western Australia
+-12.96,139.46,None
+-33.58,133.03,None
+-16.7,130.46,Northern Territory
+-23.59,144.0,Queensland
+-26.09,117.1,Western Australia
+-16.59,121.99,None
+-35.45,119.11,None
+-15.4,142.03,Queensland
+-14.82,122.14,None
+-39.59,113.96,None
+-17.66,136.77,Northern Territory
+-16.56,115.38,None
+-15.43,138.79,None
+-35.97,144.08,Victoria
+-10.66,115.94,None
+-36.96,117.51,None
+-31.02,132.54,South Australia
+-10.26,136.23,None
+-11.44,151.96,None
+-22.32,132.74,Northern Territory
+-28.88,139.6,South Australia
+-40.54,122.22,None
+-9.28,141.53,None
+-12.35,130.12,None
+-13.17,149.45,None
+-12.46,147.01,None
+-29.45,144.52,New South Wales
+-26.31,153.71,None
+-11.77,136.87,None
+-9.22,145.03,None
+-19.2,147.87,None
+-18.12,124.95,Western Australia
+-37.1,150.15,None
+-37.56,124.84,None
+-24.55,149.54,Queensland
+-12.61,141.74,Queensland
+-18.54,151.68,None
+-29.03,153.23,New South Wales
+-9.54,151.88,None
+-35.03,147.73,New South Wales
+-26.25,125.64,Western Australia
+-32.44,132.21,None
+-21.17,118.83,Western Australia
+-13.14,134.58,Northern Territory
+-39.31,119.05,None
+-37.93,129.5,None
+-39.7,118.32,None
+-30.61,137.43,South Australia
+-11.28,133.28,None
+-16.99,144.46,Queensland
+-42.78,150.83,Queensland
+-26.81,119.91,Queensland
+-38.12,146.01,Queensland
+-38.94,141.09,Queensland
+-19.87,130.98,Queensland
+-37.95,131.29,Queensland
+-42.0,128.03,Queensland
+-19.02,113.82,Queensland
+-23.77,144.9,Queensland
+-21.88,119.64,Queensland
+-12.33,149.26,Queensland
+-15.78,132.56,Queensland
+-40.41,141.98,Queensland
+-17.77,123.49,Queensland
+-20.8,129.41,Northern Territory
+-32.49,120.86,Western Australia
+-12.79,134.43,Northern Territory
+-27.05,149.05,Queensland
+-42.25,151.03,None
+-35.29,146.17,New South Wales
+-23.92,120.77,Western Australia
+-9.54,134.49,None
+-20.27,118.91,Western Australia
+-32.3,138.9,South Australia
+-35.71,115.32,None
+-15.01,147.42,None
+-28.92,114.62,Western Australia
+-40.08,113.63,None
+-42.5,145.81,Tasmania
+-38.9,145.98,Victoria
+-12.86,134.91,Northern Territory
+-40.13,148.05,Tasmania
+-30.09,119.26,Western Australia
+-26.2,131.48,South Australia
+-16.88,113.73,None
+-42.17,131.81,None
+-39.77,127.36,None
+-42.87,131.45,None
+-41.99,123.81,None
+-24.71,140.26,Queensland
+-31.08,126.02,Western Australia
+-42.03,137.24,None
+-24.07,137.48,Northern Territory
+-38.2,145.3,Victoria
+-9.03,137.97,None
+-40.77,119.06,None
+-28.66,141.81,Queensland
+-39.94,128.14,None
+-24.46,140.52,Queensland
+-22.79,124.05,Western Australia
+-22.97,119.8,Western Australia
+-27.5,146.39,Queensland
+-28.83,152.0,Queensland
+-14.1,136.4,Northern Territory
+-37.23,146.92,Victoria
+-37.1,148.67,Victoria
+-18.26,125.38,Western Australia
+-13.24,151.5,None
+-34.26,151.19,None
+-25.54,134.85,Northern Territory
+-23.51,130.63,Northern Territory
+-19.68,126.55,Western Australia
+-14.0,114.63,None
+-24.75,152.89,None
+-34.48,120.37,None
+-29.18,138.75,South Australia
+-27.66,113.96,None
+-24.56,132.98,Northern Territory
+-32.68,137.93,South Australia
+-11.51,150.44,None
+-34.96,153.82,None
+-18.01,124.76,Western Australia
+-41.89,138.9,None
+-22.66,119.59,Western Australia
+-15.8,120.17,None
+-38.92,132.87,None
+-35.66,120.9,None
+-16.71,151.0,None
+-42.07,148.38,Tasmania
+-41.82,147.07,Tasmania
+-41.12,147.29,Tasmania
+-18.88,141.98,Queensland
+-21.93,142.64,Queensland
+-42.12,153.3,None
+-14.26,142.93,Queensland
+-40.0,147.09,None
+-36.88,133.03,None
+-27.76,134.41,South Australia
+-30.62,140.66,South Australia
+-26.32,150.21,Queensland
+-32.47,151.21,New South Wales
+-36.68,133.78,None
+-40.21,137.15,None
+-16.05,119.58,None
+-32.72,147.69,New South Wales
+-29.77,116.53,Western Australia
+-16.73,136.53,Northern Territory
+-25.49,138.99,Queensland
+-25.39,119.51,Western Australia
+-24.34,126.15,Western Australia
+-23.62,133.74,Northern Territory
+-9.0,113.59,None
+-23.64,116.74,Western Australia
+-22.88,116.93,Western Australia
+-39.79,123.34,None
+-10.59,114.02,None
+-40.57,136.32,None
+-37.54,138.95,None
+-9.48,116.72,None
+-42.37,117.23,None
+-24.37,118.63,Western Australia
+-27.53,144.9,Queensland
+-37.62,129.4,None
+-36.0,122.07,None
+-39.47,140.32,None
+-31.81,116.8,Western Australia
+-30.07,148.16,New South Wales
+-10.9,152.43,None
+-27.12,129.37,South Australia
+-24.04,131.68,Northern Territory
+-16.58,136.64,Northern Territory
+-29.44,127.25,Western Australia
+-12.45,138.6,None
+-33.23,146.27,New South Wales
+-9.97,136.45,None
+-31.9,127.38,Western Australia
+-21.06,124.01,Western Australia
+-10.2,152.54,None
+-14.32,140.65,None
+-15.43,150.83,None
+-27.26,143.87,Queensland
+-12.97,150.7,None
+-20.38,145.63,Queensland
+-40.44,150.43,None
+-34.21,145.0,New South Wales
+-10.85,122.49,None
+-11.2,152.73,None
+-11.01,136.55,None
+-16.21,133.62,Northern Territory
+-15.24,125.31,Western Australia
+-33.04,150.95,New South Wales
+-41.98,115.8,None
+-22.41,153.51,None
+-20.48,118.73,Western Australia
+-12.55,151.13,None
+-32.46,134.08,South Australia
+-40.9,152.79,None
+-12.23,141.72,Queensland
+-17.05,133.35,Northern Territory
+-33.13,120.88,Western Australia
+-22.26,127.62,Western Australia
+-18.26,147.9,None
+-37.13,143.87,Victoria
+-35.65,116.07,None
+-25.74,127.2,Western Australia
+-13.05,143.85,None
+-27.14,118.24,Western Australia
+-42.54,139.4,None
+-21.34,132.16,Northern Territory
+-42.2,118.42,None
+-26.86,153.55,None
+-19.13,151.5,None
+-26.46,138.14,South Australia
+-39.87,119.16,None
+-19.22,123.92,Western Australia
+-40.47,149.99,None
+-14.9,126.81,Western Australia
+-21.53,132.01,Northern Territory
+-11.09,148.44,None
+-40.35,135.59,None
+-33.72,119.96,Western Australia
+-30.15,146.44,Western Australia
+-22.42,140.42,Western Australia
+-13.44,152.4,Western Australia
+-16.68,141.31,Western Australia
+-16.38,125.44,Western Australia
+-30.39,121.81,Western Australia
+-38.45,127.83,Western Australia
+-13.5,127.17,Western Australia
+-21.95,135.64,Western Australia
+-28.37,133.34,Western Australia
+-12.45,146.3,Western Australia
+-37.51,126.74,Western Australia
+-18.56,118.64,Western Australia
+-32.6,149.99,Western Australia
+-12.42,148.15,Western Australia
+-23.12,133.2,Western Australia
+-26.04,150.95,Western Australia
+-9.85,130.33,Western Australia
+-27.68,140.27,Western Australia
+-13.55,125.99,Western Australia
+-16.27,120.09,Western Australia
+-9.33,114.92,Western Australia
+-24.65,137.86,Western Australia
+-39.19,134.91,Western Australia
+-12.36,131.48,Western Australia
+-22.87,148.35,Western Australia
+-31.51,118.78,Western Australia
+-30.48,114.39,Western Australia
+-33.06,142.66,Western Australia
+-31.82,153.13,Western Australia
+-39.16,137.11,Western Australia
+-27.28,145.23,Western Australia
+-34.36,148.37,New South Wales
+-37.21,152.78,None
+-18.04,125.4,Western Australia
+-35.66,130.84,None
+-40.61,140.5,None
+-14.03,142.0,Queensland
+-13.41,144.9,None
+-31.09,120.97,Western Australia
+-38.69,140.1,None
+-16.0,149.14,None
+-9.19,121.37,None
+-22.12,149.77,None
+-14.08,151.5,None
+-16.3,152.35,None
+-23.46,140.8,Queensland
+-17.82,115.15,None
+-24.83,151.67,Queensland
+-22.24,140.6,Queensland
+-42.48,131.33,None
+-14.0,141.92,Queensland
+-26.98,125.55,Western Australia
+-39.74,116.88,None
+-18.58,129.61,Northern Territory
+-21.26,141.97,Queensland
+-13.2,137.28,None
+-21.89,128.0,Western Australia
+-13.13,116.38,None
+-22.31,128.9,Western Australia
+-41.2,116.75,None
+-9.74,123.56,None
+-36.42,136.92,None
+-40.9,123.48,None
+-39.44,120.96,None
+-21.3,141.41,Queensland
+-17.65,124.78,Western Australia
+-30.38,147.99,New South Wales
+-9.03,129.16,None
+-29.03,150.64,New South Wales
+-11.29,122.71,None
+-39.3,122.84,None
+-41.37,114.67,None
+-40.7,137.27,None
+-27.64,116.79,Western Australia
+-32.6,136.04,South Australia
+-27.96,122.7,Western Australia
+-15.92,140.38,None
+-15.36,129.92,Northern Territory
+-41.95,151.48,None
+-33.11,122.71,Western Australia
+-13.14,143.44,Queensland
+-12.79,152.12,None
+-16.37,141.64,Queensland
+-31.17,141.2,New South Wales
+-30.02,133.32,New South Wales
+-30.1,138.52,New South Wales
+-42.29,130.91,New South Wales
+-41.26,136.75,New South Wales
+-25.07,140.71,New South Wales
+-30.28,125.23,New South Wales
+-31.45,141.65,New South Wales
+-20.1,140.99,New South Wales
+-40.33,148.01,New South Wales
+-16.93,124.68,New South Wales
+-33.84,148.0,New South Wales
+-30.34,122.73,Western Australia
+-28.19,121.33,Western Australia
+-14.97,113.85,None
+-40.09,129.27,None
+-16.38,131.51,None
+-26.09,133.12,None
+-23.79,141.52,None
+-42.51,127.57,None
+-35.0,144.81,None
+-11.86,118.08,None
+-9.48,149.46,None
+-10.21,152.73,None
+-13.64,116.17,None
+-24.43,118.58,None
+-23.97,152.13,None
+-38.68,152.68,None
+-38.98,138.34,None
+-24.26,115.77,None
+-38.87,144.71,None
+-30.53,152.6,None
+-10.54,141.46,None
+-24.55,124.68,None
+-29.0,131.77,None
+-24.89,115.4,None
+-33.22,142.08,None
+-14.57,153.41,None
+-9.94,151.31,None
+-9.47,117.86,None
+-40.68,119.79,None
+-26.67,132.98,None
+-41.35,135.16,None
+-31.72,118.01,None
+-40.52,121.44,None
+-39.95,128.55,None
+-26.16,142.29,None
+-25.89,136.53,None
+-19.85,151.02,None
+-18.85,141.28,None
+-21.57,114.39,None
+-22.6,125.51,None
+-22.36,144.32,None
+-34.81,150.38,None
+-11.17,135.61,None
+-13.15,138.73,None
+-28.61,151.55,Queensland
+-23.09,144.07,Queensland
+-21.6,128.17,Western Australia
+-27.62,121.81,Western Australia
+-31.48,137.74,South Australia
+-26.1,132.65,South Australia
+-23.59,144.99,Queensland
+-24.53,127.99,Western Australia
+-22.36,142.04,Queensland
+-11.51,149.65,None
+-40.9,119.14,None
+-36.0,150.27,New South Wales
+-41.6,122.74,None
+-30.4,128.65,Western Australia
+-35.29,117.11,None
+-29.74,122.65,Western Australia
+-10.72,113.48,None
+-24.11,125.86,Western Australia
+-19.11,116.2,None
+-37.25,133.15,None
+-21.41,144.46,Queensland
+-11.02,122.83,None
+-17.56,133.99,Northern Territory
+-25.98,145.58,Queensland
+-42.13,146.06,Tasmania
+-40.52,138.84,None
+-22.2,115.04,Western Australia
+-29.89,125.91,Western Australia
+-19.77,122.17,Western Australia
+-12.54,121.7,None
+-41.75,121.64,None
+-18.78,123.06,Western Australia
+-30.99,143.48,New South Wales
+-15.1,136.85,None
+-14.7,115.94,None
+-17.29,150.71,None
+-28.01,147.94,None
+-11.43,130.51,Northern Territory
+-39.39,152.28,None
+-21.47,115.26,None
+-34.04,117.31,Western Australia
+-19.74,140.79,Queensland
+-40.11,130.95,None
+-21.89,141.26,Queensland
+-18.78,120.23,None
+-40.95,145.19,Tasmania
+-26.14,143.72,Queensland
+-37.73,120.81,None
+-25.3,125.45,Western Australia
+-24.63,132.09,Northern Territory
+-11.02,126.1,None
+-24.28,116.88,Western Australia
+-34.78,150.47,Western Australia
+-30.36,114.01,Western Australia
+-12.6,132.12,Western Australia
+-38.38,120.74,Western Australia
+-34.07,129.46,Western Australia
+-30.54,147.3,Western Australia
+-21.94,150.37,Western Australia
+-25.82,144.18,Western Australia
+-23.78,113.64,Western Australia
+-40.37,125.17,Western Australia
+-15.12,145.58,Western Australia
+-30.8,147.88,Western Australia
+-32.0,134.18,Western Australia
+-29.03,152.0,Western Australia
+-25.94,124.05,Western Australia
+-32.53,143.34,Western Australia
+-27.15,117.19,Western Australia
+-23.86,148.79,Western Australia
+-22.23,150.59,Western Australia
+-12.96,140.06,Western Australia
+-41.1,124.57,Western Australia
+-23.5,135.11,Western Australia
+-19.95,135.24,Western Australia
+-13.36,127.43,Western Australia
+-20.98,146.0,Western Australia
+-9.01,124.35,Western Australia
+-10.56,139.2,Western Australia
+-9.68,126.27,Western Australia
+-39.42,124.04,Western Australia
+-34.57,116.27,Western Australia
+-19.18,137.37,Western Australia
+-25.75,114.52,Western Australia
+-32.04,141.67,Western Australia
+-21.89,120.55,Western Australia
+-29.04,139.77,Western Australia
+-24.06,149.07,Western Australia
+-9.15,140.68,Western Australia
+-36.55,141.44,Western Australia
+-31.5,128.4,Western Australia
+-12.73,121.26,Western Australia
+-11.46,144.76,Western Australia
+-32.58,151.48,Western Australia
+-9.11,147.09,Western Australia
+-18.03,148.93,Western Australia
+-33.78,115.36,Western Australia
+-37.96,140.29,Western Australia
+-36.87,115.42,Western Australia
+-22.38,148.14,Western Australia
+-25.26,151.89,Western Australia
+-27.3,118.05,Western Australia
+-16.54,119.33,Western Australia
+-32.63,124.41,Western Australia
+-35.93,113.33,Western Australia
+-36.82,125.47,Western Australia
+-13.44,135.98,Western Australia
+-32.43,120.64,Western Australia
+-17.78,124.3,Western Australia
+-31.58,144.45,Western Australia
+-36.22,136.07,Western Australia
+-10.52,126.41,Western Australia
+-9.36,136.45,Western Australia
+-25.57,129.49,Western Australia
+-27.34,118.88,Western Australia
+-24.93,149.93,Western Australia
+-11.51,151.95,Western Australia
+-14.27,121.81,Western Australia
+-24.43,121.83,Western Australia
+-26.59,153.82,Western Australia
+-16.99,141.94,Western Australia
+-9.18,122.6,Western Australia
+-13.48,125.67,Western Australia
+-13.98,137.36,None
+-31.2,143.55,New South Wales
+-39.56,120.07,None
+-19.38,131.35,Northern Territory
+-32.74,122.11,Western Australia
+-42.33,129.62,None
+-9.05,123.81,None
+-16.79,130.46,Northern Territory
+-41.92,133.07,None
+-22.58,149.31,Queensland
+-35.84,151.57,Queensland
+-21.21,123.24,Queensland
+-33.57,125.14,Queensland
+-29.9,133.58,Queensland
+-32.81,152.34,Queensland
+-16.83,119.18,Queensland
+-22.85,150.72,Queensland
+-25.03,144.69,Queensland
+-26.89,130.62,Queensland
+-9.36,126.73,Queensland
+-15.16,150.4,Queensland
+-15.08,152.04,Queensland
+-35.51,118.51,Queensland
+-36.55,124.22,Queensland
+-25.52,123.52,Queensland
+-27.29,119.27,Queensland
+-32.67,150.95,Queensland
+-37.94,127.08,Queensland
+-10.07,144.97,Queensland
+-38.81,149.49,Queensland
+-32.73,141.11,Queensland
+-32.73,122.01,Queensland
+-23.19,152.55,Queensland
+-10.6,114.53,Queensland
+-36.45,134.52,Queensland
+-35.04,132.08,Queensland
+-29.73,152.52,Queensland
+-11.44,121.91,Queensland
+-18.71,149.7,Queensland
+-39.68,144.1,Queensland
+-17.86,139.88,Queensland
+-29.44,122.45,Queensland
+-38.08,131.7,Queensland
+-15.35,128.09,Queensland
+-9.63,125.57,Queensland
+-9.12,118.85,Queensland
+-21.05,149.4,Queensland
+-30.39,114.12,None
+-30.63,124.26,Western Australia
+-12.28,117.17,None
+-19.3,148.98,None
+-41.04,118.44,None
+-18.82,139.26,None
+-27.07,137.55,South Australia
+-39.0,140.3,None
+-30.95,143.47,New South Wales
+-29.71,122.92,Western Australia
+-24.49,152.99,None
+-27.63,116.16,Western Australia
+-19.72,146.38,Queensland
+-20.48,146.93,Queensland
+-42.93,131.69,None
+-18.0,142.49,Queensland
+-10.17,126.99,None
+-17.94,133.05,Northern Territory
+-42.47,127.74,None
+-37.44,137.76,None
+-33.43,153.03,None
+-25.04,150.26,Queensland
+-36.51,123.01,None
+-28.81,142.84,Queensland
+-28.69,152.04,Queensland
+-28.5,143.75,Queensland
+-24.91,152.81,None
+-29.11,126.61,Western Australia
+-42.04,124.75,None
+-12.78,145.57,None
+-36.04,132.78,None
+-31.79,132.33,South Australia
+-18.31,137.39,Northern Territory
+-26.83,145.73,Queensland
+-35.04,124.15,None
+-12.13,116.75,None
+-22.24,125.52,None
+-15.1,121.86,None
+-26.73,152.47,None
+-18.89,131.15,None
+-38.44,116.76,None
+-14.89,127.51,None
+-9.91,144.51,None
+-12.4,148.3,None
+-25.3,114.45,None
+-26.33,130.67,None
+-28.92,122.12,None
+-34.76,126.69,None
+-16.06,129.95,None
+-11.95,132.76,None
+-42.51,148.55,None
+-10.05,137.23,None
+-12.58,143.26,None
+-41.32,120.91,None
+-27.04,123.81,Western Australia
+-28.57,144.17,Queensland
+-32.2,146.05,New South Wales
+-29.27,117.13,Western Australia
+-33.18,114.11,None
+-14.12,143.53,None
+-27.1,114.8,Western Australia
+-34.01,131.74,None
+-31.0,152.18,New South Wales
+-41.28,132.83,None
+-32.85,133.85,None
+-19.64,143.83,Queensland
+-33.81,140.87,South Australia
+-21.9,133.59,Northern Territory
+-28.16,149.61,Queensland
+-37.29,152.84,None
+-31.64,148.21,New South Wales
+-41.08,125.27,None
+-19.44,152.49,None
+-22.08,148.69,Queensland
+-13.42,125.89,None
+-17.83,121.36,None
+-35.18,120.11,None
+-23.59,124.28,Western Australia
+-15.58,137.75,None
+-29.92,139.91,South Australia
+-39.79,118.05,None
+-23.6,142.66,Queensland
+-25.6,119.34,Western Australia
+-25.23,139.26,Queensland
+-21.58,148.8,Queensland
+-34.54,152.38,None
+-12.88,133.51,Northern Territory
+-30.61,124.46,Western Australia
+-34.96,146.21,New South Wales
+-36.91,133.41,None
+-22.99,145.97,Queensland
+-36.34,113.9,None
+-35.41,114.1,None
+-13.54,132.86,Northern Territory
+-33.19,121.2,Western Australia
+-36.4,128.7,None
+-27.97,126.98,Western Australia
+-39.28,125.59,None
+-22.33,140.57,Queensland
+-21.34,130.21,Northern Territory
+-29.75,137.3,South Australia
+-14.14,113.7,None
+-40.92,140.14,None
+-17.4,148.2,None
+-13.8,145.65,None
+-19.48,117.86,None
+-41.99,134.02,None
+-9.94,140.77,None
+-40.0,121.28,None
+-27.86,116.96,Western Australia
+-36.62,135.26,None
+-31.93,144.28,New South Wales
+-30.19,113.04,None
+-30.2,125.37,Western Australia
+-34.57,129.83,None
+-34.2,124.99,None
+-9.54,141.54,None
+-37.42,148.32,None
+-41.99,143.88,None
+-30.0,114.93,None
+-20.4,137.04,None
+-16.27,122.36,None
+-29.49,137.6,None
+-35.79,143.69,None
+-25.31,134.61,None
+-18.68,142.8,None
+-37.11,123.72,None
+-16.59,120.85,None
+-32.94,142.16,None
+-26.1,127.46,None
+-40.62,121.65,None
+-29.6,116.46,None
+-18.79,139.81,None
+-24.18,140.49,None
+-32.33,136.57,None
+-33.68,128.41,None
+-28.31,139.88,None
+-12.95,126.6,None
+-16.04,140.97,None
+-13.83,133.86,None
+-30.44,128.7,None
+-20.76,123.77,None
+-38.83,113.02,None
+-24.98,144.79,None
+-27.61,149.58,None
+-31.34,151.31,None
+-39.97,125.43,None
+-13.02,130.94,None
+-36.22,128.87,None
+-36.65,130.21,None
+-14.81,148.88,None
+-12.73,114.98,None
+-16.76,118.15,None
+-36.52,149.8,New South Wales
+-16.33,114.15,None
+-18.75,150.24,None
+-10.6,124.75,None
+-30.6,124.95,None
+-33.44,150.24,None
+-26.92,121.59,None
+-12.13,125.24,None
+-20.27,153.34,None
+-17.41,119.41,None
+-20.08,153.18,None
+-40.16,144.52,None
+-19.59,113.35,None
+-38.16,119.65,None
+-14.52,132.2,None
+-36.45,153.56,None
+-42.32,127.5,None
+-16.62,144.52,None
+-22.63,152.54,None
+-33.4,140.79,None
+-17.64,147.39,None
+-16.51,120.59,None
+-34.37,138.96,South Australia
+-38.89,132.44,None
+-26.93,134.54,South Australia
+-19.91,127.99,Western Australia
+-29.78,128.1,Western Australia
+-35.38,122.87,Western Australia
+-36.17,125.81,Western Australia
+-10.85,141.22,Western Australia
+-37.34,123.53,None
+-14.22,115.08,None
+-10.53,141.92,None
+-21.51,123.04,Western Australia
+-35.33,115.75,None
+-25.14,133.65,Northern Territory
+-28.78,117.66,Western Australia
+-18.85,146.26,Queensland
+-14.44,152.72,None
+-14.93,151.3,None
+-19.79,113.64,None
+-10.16,126.85,None
+-9.37,145.72,None
+-37.38,139.0,None
+-11.92,128.94,None
+-28.81,127.15,Western Australia
+-33.63,136.74,South Australia
+-24.55,124.17,Western Australia
+-19.32,114.95,None
+-17.15,119.43,None
+-24.59,137.82,Northern Territory
+-11.55,152.13,None
+-19.23,153.81,None
+-18.49,115.23,None
+-29.62,152.06,New South Wales
+-34.11,116.6,Western Australia
+-12.21,153.4,None
+-14.22,141.75,Queensland
+-35.78,119.34,None
+-34.77,129.47,None
+-20.42,135.86,Northern Territory
+-20.08,137.11,Northern Territory
+-18.02,113.24,None
+-29.46,152.58,New South Wales
+-41.62,114.17,None
+-12.43,150.65,None
+-22.87,147.06,Queensland
+-18.61,130.88,Northern Territory
+-35.55,153.09,None
+-37.57,148.89,Victoria
+-26.96,145.93,Queensland
+-33.73,143.2,New South Wales
+-12.93,149.16,None
+-41.5,123.63,None
+-11.65,115.79,None
+-10.76,137.54,None
+-36.57,149.41,New South Wales
+-42.64,123.5,None
+-24.88,151.06,Queensland
+-36.0,128.47,None
+-28.05,129.92,South Australia
+-21.8,144.01,Queensland
+-14.71,126.02,Western Australia
+-11.86,132.91,Northern Territory
+-9.31,120.14,None
+-10.81,149.99,None
+-12.95,145.57,None
+-22.45,139.62,None
+-31.41,120.34,None
+-27.21,145.66,None
+-38.25,128.77,None
+-33.47,116.5,None
+-14.18,118.84,None
+-32.99,138.44,None
+-27.23,128.9,None
+-22.22,142.59,None
+-33.13,132.14,None
+-9.91,142.13,None
+-41.0,139.47,None
+-27.65,115.26,None
+-40.97,139.98,None
+-12.47,122.55,None
+-42.3,133.46,None
+-13.02,135.31,None
+-35.34,123.17,None
+-33.8,141.0,None
+-28.35,138.62,None
+-23.87,144.8,Queensland
+-26.47,141.99,Queensland
+-27.84,113.26,None
+-16.27,116.46,None
+-24.8,114.14,None
+-20.72,125.26,None
+-41.44,123.32,None
+-38.51,113.68,None
+-13.92,138.5,None
+-28.97,132.92,None
+-25.58,125.83,None
+-39.03,135.21,None
+-39.3,115.66,None
+-34.51,114.53,None
+-35.22,134.4,None
+-25.67,139.69,None
+-21.54,124.98,None
+-39.7,149.55,None
+-16.23,141.52,None
+-28.93,119.02,None
+-12.27,129.2,None
+-23.4,119.74,None
+-21.16,139.37,None
+-37.56,114.88,None
+-27.22,122.78,None
+-37.32,138.35,None
+-16.52,125.2,None
+-33.41,127.06,None
+-38.2,122.41,None
+-15.54,150.63,None
+-17.19,153.17,None
+-21.77,128.97,None
+-41.95,121.92,None
+-41.78,148.65,None
+-15.67,133.57,None
+-40.93,120.84,None
+-42.89,145.3,None
+-15.47,122.33,None
+-17.63,152.35,None
+-25.6,125.97,None
+-26.05,123.07,None
+-20.27,143.75,None
+-29.48,140.23,None
+-16.83,148.77,None
+-17.0,131.71,None
+-36.85,132.78,None
+-41.01,114.9,None
+-42.64,137.29,None
+-38.78,144.19,None
+-37.01,127.61,None
+-22.46,148.6,None
+-21.31,127.91,None
+-27.19,149.03,None
+-19.33,116.25,None
+-33.06,125.74,None
+-14.08,138.91,None
+-38.57,149.21,None
+-11.88,131.27,None
+-35.76,120.9,None
+-20.4,129.2,None
+-34.62,142.26,None
+-21.33,125.08,None
+-28.09,152.61,None
+-16.74,128.35,None
+-33.71,124.93,None
+-34.09,126.0,None
+-11.81,135.25,None
+-23.23,124.56,None
+-24.84,132.97,None
+-30.84,137.68,None
+-26.35,145.4,None
+-26.81,129.06,None
+-42.78,145.95,None
+-26.5,134.16,None
+-31.9,116.31,None
+-23.93,127.8,None
+-16.08,146.28,None
+-40.07,122.49,None
+-37.4,125.0,None
+-18.91,140.88,None
+-26.37,117.73,None
+-22.45,127.95,None
+-33.91,132.79,None
+-9.91,126.87,None
+-14.72,146.19,None
+-29.13,116.36,None
+-14.34,123.97,None
+-19.24,132.13,None
+-12.78,113.04,None
+-39.54,115.95,None
+-29.64,140.52,None
+-33.9,123.97,None
+-20.6,136.07,None
+-15.35,114.75,None
+-27.99,128.56,None
+-9.3,139.79,None
+-36.59,138.51,None
+-37.01,122.13,None
+-24.76,131.84,None
+-19.25,136.58,None
+-11.27,128.53,None
+-40.93,147.77,None
+-23.29,145.54,None
+-21.85,132.04,None
+-36.64,136.2,None
+-33.69,123.67,None
+-11.13,128.07,None
+-25.36,133.33,None
+-33.98,141.87,None
+-33.62,130.58,None
+-21.8,141.68,None
+-26.45,136.83,None
+-26.85,121.9,None
+-18.23,135.6,None
+-29.33,118.91,None
+-12.97,142.56,None
+-10.6,138.73,None
+-23.74,149.03,None
+-37.71,148.56,None
+-13.53,135.17,None
+-10.21,139.22,None
+-25.86,120.25,None
+-33.14,141.15,None
+-39.33,121.06,None
+-30.47,120.88,None
+-38.51,130.44,None
+-35.95,149.82,None
+-19.31,125.33,None
+-42.36,123.44,None
+-15.38,150.97,None
+-38.82,140.69,None
+-29.89,118.03,None
+-19.62,115.79,None
+-36.48,130.92,None
+-40.7,150.58,None
+-13.92,138.39,None
+-42.09,132.99,None
+-32.07,150.45,None
+-15.25,153.37,None
+-15.83,131.26,None
+-27.82,150.35,None
+-21.39,146.56,None
+-29.57,153.62,None
+-10.6,124.67,None
+-16.65,147.67,None
+-17.92,137.37,None
+-30.9,118.53,None
+-9.83,131.93,None
+-21.97,131.1,None
+-19.01,143.8,None
+-19.07,152.81,None
+-14.64,139.44,None
+-18.67,113.34,None
+-29.61,149.93,None
+-14.06,127.09,None
+-15.96,146.75,None
+-15.27,141.98,None
+-31.01,138.01,None
+-12.34,121.45,None
+-22.03,126.1,None
+-26.61,127.9,None
+-31.89,129.18,None
+-29.15,122.94,None
+-21.07,125.69,None
+-23.74,115.29,None
+-33.31,152.46,None
+-13.86,144.12,None
+-18.87,122.21,None
+-40.57,151.87,None
+-25.44,145.49,None
+-19.63,134.5,None
+-24.23,117.64,None
+-40.24,125.02,None
+-39.96,119.06,None
+-19.01,126.71,None
+-18.79,129.21,None
+-16.7,149.16,None
+-28.68,132.9,None
+-30.45,117.68,None
+-16.42,152.67,None
+-10.04,145.56,None
+-23.68,121.66,None
+-32.99,122.35,None
+-40.7,134.58,None
+-21.08,134.29,None
+-28.94,127.66,None
+-27.18,118.62,None
+-12.33,133.22,None
+-23.03,129.81,None
+-16.8,121.75,None
+-22.99,114.98,None
+-41.55,113.29,None
+-41.06,114.93,None
+-30.28,151.02,None
+-36.43,148.13,None
+-26.84,117.23,None
+-27.68,152.93,None
+-32.44,150.06,None
+-40.21,118.58,None
+-42.52,149.08,None
+-25.57,121.16,None
+-9.76,140.3,None
+-31.23,124.81,None
+-26.43,150.24,None
+-11.48,134.09,None
+-22.92,114.45,None
+-12.52,135.05,None
+-35.07,138.82,None
+-26.99,152.67,None
+-19.35,122.5,None
+-35.25,123.79,None
+-38.51,128.5,None
+-13.08,120.97,None
+-30.85,138.39,None
+-39.58,139.74,None
+-14.65,138.02,None
+-33.63,148.49,None
+-39.21,151.56,None
+-16.82,121.03,None
+-31.11,130.97,None
+-25.3,147.03,None
+-37.0,136.53,None
+-38.82,123.87,None
+-29.97,123.51,None
+-18.51,136.06,None
+-20.35,149.18,None
+-28.63,140.72,None
+-9.59,132.72,None
+-28.66,126.59,None
+-21.97,140.78,Queensland
+-27.15,114.66,Western Australia
+-28.0,126.13,Western Australia
+-15.49,132.43,Northern Territory
+-40.1,140.48,None
+-24.79,142.27,Queensland
+-34.2,126.32,None
+-38.58,114.97,None
+-27.94,124.05,Western Australia
+-22.02,134.85,Northern Territory
+-17.51,136.02,Northern Territory
+-24.52,138.11,Queensland
+-39.98,117.47,None
+-31.62,137.15,South Australia
+-39.62,136.75,None
+-17.38,153.65,None
+-19.11,119.05,None
+-31.2,131.94,None
+-35.38,127.74,None
+-20.26,113.56,None
+-15.85,141.31,None
+-34.14,114.68,None
+-37.19,142.34,None
+-38.97,128.37,None
+-11.95,123.5,None
+-19.4,124.91,None
+-21.22,139.17,None
+-37.17,115.09,None
+-34.48,126.57,None
+-42.23,148.68,None
+-41.97,113.5,None
+-33.96,119.77,None
+-38.69,115.13,None
+-40.33,123.57,None
+-33.07,151.03,None
+-18.85,127.3,None
+-36.64,135.57,None
+-29.9,153.32,None
+-22.26,140.22,None
+-18.35,127.87,None
+-19.07,124.08,None
+-18.48,153.73,None
+-33.57,153.64,None
+-11.47,121.35,None
+-26.56,153.9,None
+-21.01,146.0,None
+-22.23,124.69,None
+-41.72,146.71,None
+-33.94,151.01,None
+-19.32,120.56,None
+-10.85,121.98,None
+-42.6,113.46,None
+-23.68,152.48,None
+-26.2,126.65,None
+-29.25,135.61,None
+-36.86,116.6,None
+-16.23,139.82,None
+-14.86,140.84,None
+-10.04,116.94,None
+-39.78,144.52,None
+-25.78,144.91,None
+-22.77,153.63,None
+-38.17,115.3,None
+-32.67,114.93,None
+-40.48,120.98,None
+-21.44,148.88,None
+-32.0,139.0,None
+-21.17,149.92,None
+-38.83,115.3,None
+-10.2,133.96,None
+-34.67,151.36,None
+-40.98,149.12,None
+-36.63,142.44,None
+-28.13,115.54,None
+-27.29,134.7,None
+-20.68,135.52,None
+-32.97,153.0,None
+-14.92,152.32,None
+-16.32,153.31,None
+-34.08,137.12,None
+-11.68,123.75,None
+-9.74,141.76,None
+-18.57,135.29,None
+-19.76,145.17,None
+-42.48,143.26,None
+-25.8,125.97,None
+-34.75,123.65,None
+-34.63,153.59,None
+-19.61,120.61,None
+-42.02,121.2,None
+-18.66,130.31,None
+-35.76,146.55,None
+-16.56,117.84,None
+-24.02,141.31,None
+-15.16,145.63,None
+-14.24,130.71,None
+-9.12,151.21,None
+-32.61,135.99,None
+-32.24,152.37,None
+-38.59,151.47,None
+-34.72,144.69,None
+-40.49,153.64,None
+-29.81,143.15,None
+-38.32,153.83,None
+-36.39,134.27,None
+-19.32,115.03,None
+-17.46,138.51,None
+-21.29,125.04,None
+-19.17,115.6,None
+-25.8,145.28,None
+-14.73,118.82,None
+-26.7,118.36,None
+-10.3,150.72,None
+-28.38,152.26,Queensland
+-24.18,121.42,Western Australia
+-25.29,152.62,Queensland
+-40.03,148.25,Tasmania
+-35.74,150.83,None
+-28.41,130.43,South Australia
+-37.69,131.84,None
+-26.46,136.61,South Australia
+-18.33,113.65,None
+-18.42,145.98,Queensland
+-13.57,149.22,None
+-17.41,144.62,Queensland
+-26.89,131.58,South Australia
+-37.4,147.88,Victoria
+-13.25,151.36,None
+-14.35,136.07,None
+-32.46,129.22,None
+-26.14,126.94,Western Australia
+-33.42,127.37,None
+-20.29,118.94,Western Australia
+-14.58,139.85,None
+-24.8,129.74,Northern Territory
+-13.6,147.6,None
+-33.98,142.98,New South Wales
+-34.2,145.62,New South Wales
+-25.69,132.0,Northern Territory
+-15.26,123.59,None
+-34.38,143.86,New South Wales
+-16.04,140.43,None
+-38.25,152.11,None
+-24.51,147.99,Queensland
+-11.35,131.3,Northern Territory
+-42.23,144.1,None
+-27.8,145.51,Queensland
+-33.01,125.21,None
+-26.67,147.44,Queensland
+-31.89,150.76,New South Wales
+-28.08,130.02,South Australia
+-13.89,151.31,None
+-34.1,130.08,None
+-18.53,140.44,Queensland
+-36.31,143.05,Victoria
+-37.02,115.69,None
+-28.53,135.79,South Australia
+-28.05,122.59,Western Australia
+-20.53,125.69,Western Australia
+-11.02,131.09,None
+-32.26,139.07,South Australia
+-14.65,117.5,South Australia
+-16.67,142.65,South Australia
+-13.99,124.4,South Australia
+-11.82,117.41,South Australia
+-10.07,147.29,South Australia
+-32.27,138.47,South Australia
+-23.24,135.07,South Australia
+-19.96,129.17,South Australia
+-42.4,115.45,South Australia
+-35.59,138.55,South Australia
+-30.13,137.42,South Australia
+-19.87,149.02,South Australia
+-17.57,122.16,South Australia
+-40.43,146.61,South Australia
+-10.59,123.28,South Australia
+-33.28,114.85,South Australia
+-14.71,123.8,South Australia
+-36.88,147.82,South Australia
+-21.06,142.24,South Australia
+-36.94,129.68,South Australia
+-40.77,118.74,South Australia
+-38.0,144.11,South Australia
+-22.06,122.55,South Australia
+-23.99,153.16,South Australia
+-10.0,141.4,South Australia
+-15.81,151.35,South Australia
+-11.03,135.51,South Australia
+-39.12,115.06,South Australia
+-40.2,135.85,South Australia
+-20.66,128.88,South Australia
+-39.65,127.92,South Australia
+-28.54,137.99,South Australia
+-26.22,138.38,None
+-40.0,137.85,None
+-11.81,153.95,None
+-11.56,144.93,None
+-14.39,149.2,None
+-18.91,129.13,None
+-12.85,142.54,Queensland
+-17.44,123.45,Western Australia
+-14.61,126.03,Western Australia
+-9.0,151.51,None
+-23.54,142.87,Queensland
+-14.15,121.82,None
+-19.2,135.24,Northern Territory
+-15.38,141.98,Queensland
+-18.33,135.64,Northern Territory
+-35.06,136.43,None
+-10.09,127.01,None
+-33.61,152.21,None
+-32.14,151.09,New South Wales
+-18.73,113.6,None
+-11.4,147.36,None
+-41.36,121.55,None
+-37.27,128.35,None
+-37.53,116.01,None
+-21.3,147.44,Queensland
+-22.77,119.15,Western Australia
+-36.56,128.17,None
+-36.27,146.37,Victoria
+-18.25,132.32,Northern Territory
+-12.39,127.0,None
+-21.9,126.18,Western Australia
+-19.52,121.43,Western Australia
+-20.94,134.0,Northern Territory
+-11.13,142.82,Queensland
+-29.93,125.91,Western Australia
+-37.03,130.71,None
+-10.8,123.99,None
+-19.23,139.48,Queensland
+-10.24,139.13,None
+-41.38,138.44,None
+-18.38,134.47,Northern Territory
+-25.35,137.44,Northern Territory
+-14.41,149.05,None
+-20.39,130.24,Northern Territory
+-39.79,123.53,None
+-27.77,121.13,Western Australia
+-16.34,152.32,Western Australia
+-36.92,144.31,Western Australia
+-18.11,127.93,Western Australia
+-10.68,153.77,Western Australia
+-11.51,137.12,Western Australia
+-24.28,152.71,Western Australia
+-20.25,119.18,Western Australia
+-37.97,133.39,Western Australia
+-17.29,117.76,Western Australia
+-35.53,115.54,Western Australia
+-14.05,143.25,Western Australia
+-21.49,123.91,Western Australia
+-25.31,119.66,Western Australia
+-40.11,153.26,Western Australia
+-20.04,153.85,Western Australia
+-30.0,125.99,Western Australia
+-21.22,145.89,Western Australia
+-31.8,129.01,Western Australia
+-16.12,153.95,Western Australia
+-9.7,136.89,None
+-18.68,138.81,Queensland
+-11.25,117.17,None
+-12.56,150.96,None
+-35.48,125.79,None
+-12.16,117.59,None
+-26.1,117.56,Western Australia
+-12.72,127.23,None
+-29.92,150.44,New South Wales
+-39.0,145.53,None
+-20.74,121.14,Western Australia
+-38.23,151.49,None
+-21.96,114.19,Western Australia
+-33.21,145.52,New South Wales
+-24.43,151.75,Queensland
+-23.92,115.65,Western Australia
+-35.3,147.89,New South Wales
+-33.74,130.29,None
+-41.02,139.66,None
+-20.51,143.15,Queensland
+-27.67,113.04,None
+-10.61,150.7,None
+-37.42,144.42,Victoria
+-12.49,147.73,None
+-38.81,146.05,Victoria
+-31.84,116.82,Western Australia
+-28.02,149.76,Queensland
+-18.05,144.99,Queensland
+-11.07,118.87,None
+-35.45,122.3,None
+-24.68,136.32,Northern Territory
+-13.73,141.4,None
+-28.02,138.89,South Australia
+-27.02,153.77,None
+-14.55,129.85,Northern Territory
+-13.12,120.66,None
+-29.97,124.25,Western Australia
+-20.9,135.06,Northern Territory
+-42.39,143.31,None
+-42.65,114.38,None
+-33.43,139.8,South Australia
+-42.03,153.86,None
+-21.86,115.17,Western Australia
+-42.04,126.61,None
+-36.17,139.95,South Australia
+-33.88,120.16,Western Australia
+-22.09,127.1,Western Australia
+-13.07,146.64,None
+-24.38,128.4,Western Australia
+-21.51,151.19,Western Australia
+-14.54,126.26,Western Australia
+-41.54,129.93,Western Australia
+-11.59,121.27,Western Australia
+-37.69,113.17,Western Australia
+-9.53,131.66,Western Australia
+-12.0,119.22,Western Australia
+-11.34,149.08,Western Australia
+-23.0,147.9,Western Australia
+-12.28,127.41,Western Australia
+-40.45,153.72,Western Australia
+-17.79,152.0,Western Australia
+-38.4,123.44,Western Australia
+-26.56,127.07,Western Australia
+-26.59,118.5,Western Australia
+-30.71,145.46,Western Australia
+-17.32,148.47,Western Australia
+-36.54,122.13,Western Australia
+-22.26,120.33,Western Australia
+-16.67,131.82,Western Australia
+-40.75,124.98,Western Australia
+-41.11,128.72,Western Australia
+-32.24,137.31,Western Australia
+-41.43,144.08,Western Australia
+-39.68,130.58,Western Australia
+-33.27,150.4,Western Australia
+-27.58,119.36,None
+-38.94,134.56,None
+-21.77,133.58,Northern Territory
+-14.73,145.89,None
+-24.47,134.79,Northern Territory
+-29.1,118.51,Western Australia
+-21.14,147.46,Queensland
+-16.28,152.55,None
+-9.01,140.21,None
+-35.24,142.22,Victoria
+-39.76,113.97,None
+-19.77,132.18,Northern Territory
+-35.09,126.5,None
+-18.42,129.65,Northern Territory
+-37.44,144.65,Victoria
+-25.08,147.54,Queensland
+-41.13,143.91,None
+-33.17,123.0,Western Australia
+-24.67,130.98,Northern Territory
+-14.48,146.99,None
+-22.86,153.41,None
+-34.52,141.85,Victoria
+-41.2,122.57,None
+-29.94,148.78,New South Wales
+-28.31,113.5,None
+-19.42,138.91,Queensland
+-9.86,124.77,None
+-30.72,147.12,New South Wales
+-41.24,128.76,None
+-43.0,124.43,None
+-14.76,133.23,Northern Territory
+-12.56,135.06,Northern Territory
+-24.93,153.5,None
+-28.75,145.54,Queensland
+-34.31,141.76,Victoria
+-41.7,129.21,None
+-28.63,118.29,Western Australia
+-21.67,152.51,None
+-37.73,113.39,None
+-37.7,126.23,None
+-28.32,123.77,Western Australia
+-11.85,153.0,None
+-29.68,131.74,South Australia
+-31.83,120.78,Western Australia
+-32.53,134.66,South Australia
+-36.98,127.78,None
+-9.24,125.94,None
+-13.48,118.39,None
+-12.36,130.96,Northern Territory
+-27.39,135.52,South Australia
+-25.63,137.62,Northern Territory
+-41.23,149.0,None
+-41.15,131.03,None
+-39.49,113.14,None
+-35.67,153.87,None
+-16.0,126.3,Western Australia
+-22.15,132.93,Northern Territory
+-17.28,133.11,Northern Territory
+-38.8,119.53,None
+-35.52,149.99,New South Wales
+-25.64,142.99,Queensland
+-11.26,131.79,None
+-40.08,115.96,None
+-21.42,118.25,Western Australia
+-29.57,145.44,New South Wales
+-9.2,121.02,None
+-29.61,114.12,None
+-25.38,122.86,Western Australia
+-39.03,130.53,None
+-37.91,118.68,None
+-32.14,140.55,South Australia
+-13.19,134.71,Northern Territory
+-20.11,141.19,Queensland
+-18.8,118.56,None
+-35.08,129.11,None
+-23.81,115.28,Western Australia
+-41.57,116.13,None
+-37.04,141.0,Victoria
+-11.73,152.39,None
+-21.24,143.27,Queensland
+-26.81,140.7,South Australia
+-42.51,133.98,None
+-36.38,139.37,None
+-31.56,136.69,South Australia
+-41.31,116.94,None
+-26.72,139.48,South Australia
+-27.24,123.0,Western Australia
+-23.22,133.06,Northern Territory
+-15.89,145.99,None
+-31.35,145.58,New South Wales
+-25.71,140.56,Queensland
+-37.95,148.67,None
+-14.97,114.1,None
+-38.71,121.98,None
+-19.19,129.21,Northern Territory
+-16.62,113.53,None
+-18.91,117.11,None
+-24.96,123.2,Western Australia
+-15.78,123.78,None
+-10.59,113.97,None
+-37.92,141.17,Victoria
+-16.81,132.07,Northern Territory
+-41.64,114.51,None
+-26.04,153.8,None
+-35.5,151.16,None
+-19.55,149.87,None
+-34.89,152.78,None
+-22.58,113.68,Western Australia
+-32.08,116.77,Western Australia
+-29.34,120.02,Western Australia
+-18.02,129.81,Northern Territory
+-10.37,117.38,None
+-10.89,125.61,None
+-13.37,122.1,None
+-34.31,152.06,None
+-40.31,136.81,None
+-38.31,150.17,None
+-32.19,120.37,Western Australia
+-19.42,152.84,None
+-33.04,127.81,None
+-37.61,153.08,None
+-26.05,140.23,None
+-35.9,121.8,None
+-28.89,126.01,Western Australia
+-28.1,146.39,Queensland
+-12.86,146.36,None
+-20.98,144.21,Queensland
+-30.76,133.6,South Australia
+-21.54,151.65,None
+-33.7,151.28,New South Wales
+-26.0,116.1,Western Australia
+-33.23,128.83,None
+-26.81,131.18,South Australia
+-17.63,128.43,Western Australia
+-39.79,144.19,Tasmania
+-37.95,118.37,None
+-33.05,144.63,New South Wales
+-42.08,119.46,None
+-42.94,139.78,None
+-42.29,116.1,None
+-12.01,116.56,None
+-27.93,131.32,South Australia
+-19.75,153.96,None
+-26.0,125.5,None
+-25.05,138.65,None
+-10.93,146.42,None
+-12.51,125.85,None
+-34.91,118.31,None
+-11.2,139.89,None
+-38.9,149.59,None
+-32.82,141.9,None
+-19.69,149.09,None
+-13.71,143.7,None
+-20.12,139.33,None
+-30.96,129.29,None
+-28.88,131.41,None
+-15.67,135.1,None
+-24.76,115.98,None
+-9.51,117.89,None
+-14.48,122.23,None
+-20.73,123.09,None
+-27.36,113.37,None
+-33.85,137.94,None
+-41.74,153.45,None
+-30.89,149.52,None
+-22.33,120.14,None
+-31.64,124.8,None
+-34.93,119.63,None
+-33.75,145.61,None
+-36.56,139.16,None
+-39.82,116.74,None
+-34.76,132.52,None
+-24.28,124.49,None
+-32.4,130.02,None
+-19.83,149.13,None
+-35.6,143.58,Victoria
+-35.88,153.41,None
+-35.89,152.27,None
+-33.97,124.74,None
+-27.47,122.68,Western Australia
+-33.15,138.22,South Australia
+-18.06,125.3,Western Australia
+-39.16,127.5,None
+-15.42,141.17,None
+-24.61,147.72,Queensland
+-25.08,116.51,Western Australia
+-22.2,140.16,Queensland
+-21.02,146.56,Queensland
+-38.66,138.55,None
+-19.42,114.05,None
+-30.02,127.21,Western Australia
+-41.31,150.43,None
+-21.97,115.22,Western Australia
+-35.12,139.46,South Australia
+-9.16,116.9,None
+-24.81,134.36,Northern Territory
+-28.34,126.12,Western Australia
+-19.52,121.76,Western Australia
+-39.04,141.0,None
+-15.2,119.42,None
+-42.22,144.02,None
+-25.26,136.56,Northern Territory
+-14.32,131.51,Northern Territory
+-26.67,145.28,Queensland
+-30.43,137.18,South Australia
+-35.18,125.57,None
+-21.47,145.38,Queensland
+-24.26,137.31,Northern Territory
+-26.06,136.23,South Australia
+-34.91,134.7,None
+-38.77,151.2,None
+-33.87,141.18,New South Wales
+-42.59,130.97,None
+-23.57,138.35,Queensland
+-28.86,116.48,Western Australia
+-42.2,145.84,Tasmania
+-21.04,136.22,Northern Territory
+-30.65,114.61,None
+-29.78,152.6,New South Wales
+-10.12,124.59,None
+-32.07,134.01,South Australia
+-27.0,147.33,Queensland
+-22.64,121.87,Western Australia
+-10.54,152.89,None
+-14.81,130.34,Northern Territory
+-27.96,125.16,Western Australia
+-10.33,152.04,None
+-21.15,116.99,Western Australia
+-12.95,133.75,Northern Territory
+-27.73,124.85,Western Australia
+-30.86,132.56,South Australia
+-11.45,121.5,None
+-18.7,140.36,Queensland
+-19.78,145.0,Queensland
+-9.94,127.54,None
+-29.2,124.14,Western Australia
+-34.76,120.49,None
+-20.72,134.96,Northern Territory
+-39.14,150.2,None
+-13.69,121.43,None
+-41.68,138.68,None
+-25.03,130.14,Northern Territory
+-17.36,144.17,Queensland
+-40.75,153.85,None
+-9.3,143.96,None
+-42.57,119.15,None
+-29.48,132.63,None
+-31.5,119.21,None
+-26.91,152.89,None
+-12.51,114.84,None
+-26.89,121.06,None
+-37.95,143.19,None
+-17.71,118.41,None
+-38.35,150.65,None
+-40.97,143.49,None
+-15.32,150.66,None
+-38.83,113.98,None
+-38.21,128.09,None
+-19.19,120.85,None
+-22.7,140.61,None
+-12.62,149.4,None
+-27.8,139.96,None
+-22.42,129.24,None
+-24.13,124.93,Western Australia
+-24.15,113.36,Western Australia
+-17.3,125.07,Western Australia
+-38.88,149.83,None
+-28.13,130.67,South Australia
+-13.54,124.6,None
+-32.35,150.38,New South Wales
+-16.11,124.97,Western Australia
