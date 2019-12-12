@@ -1,0 +1,201 @@
+gps_lat,gps_long,lat,long,city,state,area,country,state_flag
+31.78,-94.33,31.90378,-94.3952,Timpson,Texas,Shelby County,US,Texas
+38.77,-88.01,38.73088,-88.08532,Olney,Illinois,Richland County,US,Illinois
+28.85,-81.03,28.73972,-81.11506,Geneva,Florida,Seminole County,US,Florida
+25.86,-96.76,26.10369,-97.16469,South Padre Island,Texas,Cameron County,US,Texas
+37.23,-97.89,37.28669,-98.02589,Harper,Kansas,Harper County,US,Kansas
+24.22,-81.67,24.56709,-81.73842,Stock Island,Florida,Monroe County,US,Florida
+33.35,-121.73,34.63915,-120.45794,Lompoc,California,Santa Barbara County,US,California
+41.33,-107.77,41.79107,-107.23866,Rawlins,Wyoming,Carbon County,US,Wyoming
+42.2,-94.52,42.26748,-94.73387,Lake City,Iowa,Calhoun County,US,Iowa
+33.48,-98.6,33.59566,-98.62561,Archer City,Texas,Archer County,US,Texas
+25.07,-122.27,27.14231,-114.29582,Bahia Asuncion,Baja California Sur,Mulege,MX,None
+37.49,-105.01,37.62418,-104.78026,Walsenburg,Colorado,Huerfano County,US,Colorado
+34.41,-114.48,34.4839,-114.32245,Lake Havasu City,Arizona,Mohave County,US,Arizona
+35.17,-120.24,35.04275,-120.476,Nipomo,California,San Luis Obispo County,US,California
+46.82,-94.53,47.10135,-94.58722,Walker,Minnesota,Cass County,US,Minnesota
+48.19,-97.63,48.3986,-97.7412,Park River,North Dakota,Walsh County,US,North Dakota
+32.71,-79.34,33.03767,-79.61313,Awendaw,South Carolina,Charleston County,US,South Carolina
+35.51,-93.72,35.43731,-93.67297,Coal Hill,Arkansas,Johnson County,US,Arkansas
+45.93,-71.68,46.21856,-71.76201,Plessisville,Quebec,Mauricie,CA,None
+46.65,-77.12,46.10012,-77.49949,Deep River,Ontario,,CA,None
+36.51,-116.56,36.90856,-116.75923,Beatty,Nevada,Nye County,US,Nevada
+25.04,-115.03,27.14231,-114.29582,Bahia Asuncion,Baja California Sur,Mulege,MX,None
+45.39,-73.09,45.43338,-73.04914,Rougemont,Quebec,Monteregie,CA,None
+35.3,-122.5,36.55524,-121.92329,Carmel-by-the-Sea,California,Monterey County,US,California
+49.56,-75.3,49.78344,-74.84919,Chapais,Quebec,Nord-du-Quebec,CA,None
+28.63,-112.1,28.82278,-111.94083,Bahia de Kino,Sonora,Hermosillo,MX,None
+45.98,-87.98,45.80635,-87.98846,Quinnesec,Michigan,Dickinson County,US,Michigan
+48.28,-111.51,48.50526,-111.85697,Shelby,Montana,Toole County,US,Montana
+37.69,-94.88,37.51116,-94.83802,Girard,Kansas,Crawford County,US,Kansas
+28.24,-81.15,28.2489,-81.28118,Saint Cloud,Florida,Osceola County,US,Florida
+39.72,-98.32,39.78723,-98.21005,Mankato,Kansas,Jewell County,US,Kansas
+26.49,-111.44,26.01217,-111.34888,Loreto,Baja California Sur,Loreto,MX,None
+41.01,-103.96,41.18193,-104.06912,Pine Bluffs,Wyoming,Laramie County,US,Wyoming
+28.89,-73.36,26.54124,-77.0636,Marsh Harbour,Central Abaco,,BS,None
+41.67,-69.15,41.68206,-69.95974,Chatham,Massachusetts,Barnstable County,US,Massachusetts
+42.54,-68.88,41.99344,-70.04975,Truro,Massachusetts,Barnstable County,US,Massachusetts
+35.82,-66.38,32.38167,-64.67806,Saint George,Saint George,,BM,None
+38.73,-121.52,38.71379,-121.46273,Elverta,California,Sacramento County,US,California
+24.52,-118.81,27.14231,-114.29582,Bahia Asuncion,Baja California Sur,Mulege,MX,None
+24.03,-123.91,27.14231,-114.29582,Bahia Asuncion,Baja California Sur,Mulege,MX,None
+45.73,-85.57,45.31806,-85.2584,Charlevoix,Michigan,Charlevoix County,US,Michigan
+48.36,-100.86,48.05612,-100.92932,Velva,North Dakota,McHenry County,US,North Dakota
+29.54,-105.66,28.60972,-105.94028,Ninguno [CERESO],Chihuahua,Aquiles Serdan,MX,None
+37.03,-92.95,37.00116,-93.08157,Sparta,Missouri,Christian County,US,Missouri
+30.5,-69.77,32.2949,-64.78303,Hamilton,Hamilton city,,BM,None
+49.87,-68.05,49.21679,-68.14894,Baie-Comeau,Quebec,Cote-Nord,CA,None
+25.13,-112.25,25.26318,-111.77547,Ciudad Insurgentes,Baja California Sur,,MX,None
+44.92,-80.82,44.56717,-80.94349,Owen Sound,Ontario,,CA,None
+42.38,-98.65,42.45778,-98.64759,O'Neill,Nebraska,Holt County,US,Nebraska
+24.82,-109.31,25.60084,-109.0523,Topolobampo,Sinaloa,,MX,None
+36.41,-116.02,36.20829,-115.98391,Pahrump,Nevada,Nye County,US,Nevada
+30.52,-71.71,35.26768,-75.54237,Buxton,North Carolina,Dare County,US,North Carolina
+41.82,-118.35,40.97296,-117.73568,Winnemucca,Nevada,Humboldt County,US,Nevada
+24.16,-78.75,24.7,-77.76667,Andros Town,North Andros,,BS,None
+33.71,-99.16,33.59426,-99.26035,Seymour,Texas,Baylor County,US,Texas
+35.9,-66.24,32.38167,-64.67806,Saint George,Saint George,,BM,None
+48.05,-115.74,48.38829,-115.556,Libby,Montana,Lincoln County,US,Montana
+49.37,-82.43,49.41694,-82.43308,Kapuskasing,Ontario,,CA,None
+47.94,-88.27,47.41381,-88.29566,Eagle River,Michigan,Keweenaw County,US,Michigan
+30.82,-81.16,30.66968,-81.46259,Fernandina Beach,Florida,Nassau County,US,Florida
+36.03,-104.85,36.36114,-104.59527,Springer,New Mexico,Colfax County,US,New Mexico
+32.21,-103.49,32.11318,-103.19351,Jal,New Mexico,Lea County,US,New Mexico
+36.3,-91.71,36.22923,-91.76431,Horseshoe Bend,Arkansas,Izard County,US,Arkansas
+24.08,-77.61,24.7,-77.76667,Andros Town,North Andros,,BS,None
+24.57,-116.16,27.14231,-114.29582,Bahia Asuncion,Baja California Sur,Mulege,MX,None
+28.36,-118.99,30.40722,-115.88722,Luis Rodriguez (El Vergel),Baja California,Ensenada,MX,None
+35.11,-81.41,35.12124,-81.51592,Blacksburg,South Carolina,Cherokee County,US,South Carolina
+43.2,-97.9,42.99333,-97.86285,Tyndall,South Dakota,Bon Homme County,US,South Dakota
+25.54,-101.13,25.42321,-101.0053,Saltillo,Coahuila,,MX,None
+44.89,-93.26,44.8833,-93.283,Richfield,Minnesota,Hennepin County,US,Minnesota
+50.82,-114.94,51.08335,-115.35206,Canmore,Alberta,,CA,None
+26.25,-116.26,27.14231,-114.29582,Bahia Asuncion,Baja California Sur,Mulege,MX,None
+36.16,-113.05,35.52916,-113.42549,Peach Springs,Arizona,Mohave County,US,Arizona
+47.39,-86.46,46.4112,-86.64926,Munising,Michigan,Alger County,US,Michigan
+33.67,-106.52,34.0584,-106.89142,Socorro,New Mexico,Socorro County,US,New Mexico
+35.47,-84.58,35.44285,-84.59299,Athens,Tennessee,McMinn County,US,Tennessee
+35.16,-89.29,35.2437,-89.35007,Somerville,Tennessee,Fayette County,US,Tennessee
+36.43,-72.56,35.95739,-75.62406,Nags Head,North Carolina,Dare County,US,North Carolina
+47.63,-115.8,47.47409,-115.92794,Wallace,Idaho,Shoshone County,US,Idaho
+32.08,-104.34,32.28623,-104.09577,Loving,New Mexico,Eddy County,US,New Mexico
+45.99,-120.31,46.34207,-120.18727,Granger,Washington,Yakima County,US,Washington
+42.33,-81.5,42.77361,-81.18038,St. Thomas,Ontario,,CA,None
+33.08,-100.17,33.13343,-100.22733,Aspermont,Texas,Stonewall County,US,Texas
+38.64,-115.07,39.24744,-114.88863,Ely,Nevada,White Pine County,US,Nevada
+47.22,-112.29,46.95494,-112.68171,Lincoln,Montana,Lewis and Clark County,US,Montana
+34.25,-112.76,34.16253,-112.85074,Congress,Arizona,Yavapai County,US,Arizona
+48.83,-107.75,48.35972,-107.87428,Malta,Montana,Phillips County,US,Montana
+42.29,-75.42,42.3148,-75.39157,Sidney,New York,Delaware County,US,New York
+30.85,-119.64,33.34281,-118.32785,Avalon,California,Los Angeles County,US,California
+44.41,-72.77,44.33783,-72.75623,Waterbury,Vermont,Washington County,US,Vermont
+41.55,-99.21,41.78167,-99.13315,Burwell,Nebraska,Garfield County,US,Nebraska
+49.88,-113.5,50.03332,-113.58524,Claresholm,Alberta,,CA,None
+44.23,-119.12,44.3896,-118.95023,Canyon City,Oregon,Grant County,US,Oregon
+44.06,-108.48,43.64607,-108.21204,Thermopolis,Wyoming,Hot Springs County,US,Wyoming
+37.06,-94.6,37.0759,-94.63967,Galena,Kansas,Cherokee County,US,Kansas
+28.01,-110.59,28.05028,-110.70111,La Palma,Sonora,Empalme,MX,None
+39.92,-76.89,39.87454,-76.86581,Spring Grove,Pennsylvania,York County,US,Pennsylvania
+45.31,-80.31,45.34732,-80.03527,Parry Sound,Ontario,Parry Sound District,CA,None
+25.01,-97.93,25.01556,-97.71694,El Barrancon del Tio Blas (El Barrancon),Tamaulipas,San Fernando,MX,None
+43.86,-108.91,44.52634,-109.05653,Cody,Wyoming,Park County,US,Wyoming
+43.85,-76.95,44.00012,-77.13275,Picton,Ontario,,CA,None
+38.33,-122.55,38.3488,-122.51081,Eldridge,California,Sonoma County,US,California
+48.71,-100.9,48.82723,-100.4457,Bottineau,North Dakota,Bottineau County,US,North Dakota
+49.2,-69.26,48.73808,-69.08478,Forestville,Quebec,Cote-Nord,CA,None
+48.98,-74.5,49.78344,-74.84919,Chapais,Quebec,Nord-du-Quebec,CA,None
+25.68,-89.59,29.23662,-89.98729,Grand Isle,Louisiana,Jefferson Parish,US,Louisiana
+46.07,-82.21,45.97927,-81.9248,Little Current,Ontario,,CA,None
+26.57,-112.23,26.89141,-111.9826,Mulege,Baja California Sur,,MX,None
+46.32,-80.91,46.49,-80.99001,Greater Sudbury,Ontario,,CA,None
+41.87,-72.35,41.87149,-72.36869,Tolland,Connecticut,Tolland County,US,Connecticut
+33.29,-66.08,32.2949,-64.78303,Hamilton,Hamilton city,,BM,None
+28.34,-72.52,24.05179,-74.53138,Cockburn Town,San Salvador,,BS,None
+34.57,-107.24,34.42089,-107.51088,Alamo,New Mexico,Socorro County,US,New Mexico
+36.0,-70.77,35.26768,-75.54237,Buxton,North Carolina,Dare County,US,North Carolina
+44.44,-111.74,44.07158,-111.44829,Ashton,Idaho,Fremont County,US,Idaho
+35.6,-108.66,35.53391,-108.5998,Church Rock,New Mexico,McKinley County,US,New Mexico
+29.74,-107.32,29.8432,-107.46067,Buenaventura,Chihuahua,,MX,None
+49.58,-114.54,49.73332,-114.88532,Sparwood,British Columbia,,CA,None
+37.93,-104.38,38.25445,-104.60914,Pueblo,Colorado,Pueblo County,US,Colorado
+41.52,-120.58,41.48711,-120.54246,Alturas,California,Modoc County,US,California
+42.7,-107.31,41.79107,-107.23866,Rawlins,Wyoming,Carbon County,US,Wyoming
+38.08,-123.4,38.33325,-123.04806,Bodega Bay,California,Sonoma County,US,California
+29.03,-94.52,29.30135,-94.7977,Galveston,Texas,Galveston County,US,Texas
+36.09,-82.39,36.13066,-82.42458,Banner Hill,Tennessee,Unicoi County,US,Tennessee
+37.13,-122.51,37.46355,-122.42859,Half Moon Bay,California,San Mateo County,US,California
+37.59,-70.85,41.03594,-71.95451,Montauk,New York,Suffolk County,US,New York
+48.0,-88.25,47.41381,-88.29566,Eagle River,Michigan,Keweenaw County,US,Michigan
+30.03,-122.49,34.63915,-120.45794,Lompoc,California,Santa Barbara County,US,California
+31.94,-79.73,32.65518,-79.94037,Folly Beach,South Carolina,Charleston County,US,South Carolina
+41.76,-107.54,41.79107,-107.23866,Rawlins,Wyoming,Carbon County,US,Wyoming
+24.91,-108.08,25.08164,-108.05673,La Reforma,Sinaloa,,MX,None
+36.98,-114.99,37.36496,-115.16446,Alamo,Nevada,Lincoln County,US,Nevada
+48.96,-101.12,49.26811,-100.99669,Melita,Manitoba,,CA,None
+32.63,-106.02,32.80703,-105.9861,Boles Acres,New Mexico,Otero County,US,New Mexico
+32.18,-87.49,32.44958,-87.51417,Uniontown,Alabama,Perry County,US,Alabama
+39.7,-114.12,39.40494,-114.77863,McGill,Nevada,White Pine County,US,Nevada
+33.65,-117.16,33.70919,-117.19726,Sun City,California,Riverside County,US,California
+27.22,-112.12,27.34045,-112.26761,Santa Rosalia,Baja California Sur,,MX,None
+34.36,-73.67,35.26768,-75.54237,Buxton,North Carolina,Dare County,US,North Carolina
+41.29,-91.5,41.28003,-91.36071,Columbus Junction,Iowa,Louisa County,US,Iowa
+33.46,-84.32,33.46567,-84.33659,Bonanza,Georgia,Clayton County,US,Georgia
+32.28,-107.42,32.2687,-107.75864,Deming,New Mexico,Luna County,US,New Mexico
+29.06,-84.93,29.72577,-84.98324,Apalachicola,Florida,Franklin County,US,Florida
+25.97,-73.19,24.05179,-74.53138,Cockburn Town,San Salvador,,BS,None
+32.88,-80.25,32.76323,-80.2501,Ravenel,South Carolina,Charleston County,US,South Carolina
+26.56,-102.3,27.04944,-101.79389,Lamadrid,Coahuila,Lamadrid,MX,None
+38.71,-123.76,38.71519,-123.45445,Sea Ranch,California,Sonoma County,US,California
+40.6,-98.45,40.58612,-98.38839,Hastings,Nebraska,Adams County,US,Nebraska
+28.13,-96.51,28.44834,-96.40581,Port O'Connor,Texas,Calhoun County,US,Texas
+48.4,-113.02,48.54608,-113.01425,South Browning,Montana,Glacier County,US,Montana
+39.6,-74.02,39.66206,-74.16514,Surf City,New Jersey,Ocean County,US,New Jersey
+28.69,-96.54,28.615,-96.62609,Port Lavaca,Texas,Calhoun County,US,Texas
+43.73,-103.07,44.06249,-103.14629,Rapid Valley,South Dakota,Pennington County,US,South Dakota
+39.35,-86.38,39.42783,-86.42833,Martinsville,Indiana,Morgan County,US,Indiana
+30.44,-102.17,30.14241,-102.39403,Sanderson,Texas,Terrell County,US,Texas
+49.91,-119.79,49.76647,-119.73568,Peachland,British Columbia,,CA,None
+44.43,-70.24,44.38396,-70.24922,Livermore,Maine,Androscoggin County,US,Maine
+42.23,-109.22,41.64358,-109.26568,North Rock Springs,Wyoming,Sweetwater County,US,Wyoming
+36.85,-78.65,36.79931,-78.45833,Chase City,Virginia,Mecklenburg County,US,Virginia
+46.26,-80.34,46.49,-80.99001,Greater Sudbury,Ontario,,CA,None
+37.8,-85.03,37.82508,-84.87079,Jackson,Kentucky,Mercer County,US,Kentucky
+26.67,-88.79,29.23662,-89.98729,Grand Isle,Louisiana,Jefferson Parish,US,Louisiana
+38.71,-79.66,38.92594,-79.84673,Elkins,West Virginia,Randolph County,US,West Virginia
+46.06,-109.46,46.29718,-109.25879,Ryegate,Montana,Golden Valley County,US,Montana
+40.9,-92.0,41.00863,-91.96267,Fairfield,Iowa,Jefferson County,US,Iowa
+48.08,-77.89,48.10018,-77.7828,Val-d'Or,Quebec,Abitibi-Temiscamingue,CA,None
+42.77,-92.62,42.7847,-92.66769,Clarksville,Iowa,Butler County,US,Iowa
+28.52,-68.59,32.2949,-64.78303,Hamilton,Hamilton city,,BM,None
+40.46,-79.06,40.5434,-79.16226,Homer City,Pennsylvania,Indiana County,US,Pennsylvania
+26.41,-99.44,26.56219,-99.22863,Nueva Ciudad Guerrero,Tamaulipas,,MX,None
+35.05,-88.54,34.93425,-88.52227,Corinth,Mississippi,Alcorn County,US,Mississippi
+41.38,-83.63,41.37477,-83.65132,Bowling Green,Ohio,Wood County,US,Ohio
+36.68,-80.45,36.64097,-80.26561,Stuart,Virginia,Patrick County,US,Virginia
+35.15,-114.72,35.16778,-114.57302,Laughlin,Nevada,Clark County,US,Nevada
+47.15,-86.97,46.54354,-87.39542,Marquette,Michigan,Marquette County,US,Michigan
+39.01,-68.14,41.28346,-70.09946,Nantucket,Massachusetts,Nantucket County,US,Massachusetts
+37.36,-118.8,37.64855,-118.97208,Mammoth Lakes,California,Mono County,US,California
+50.69,-83.54,49.68351,-83.66654,Hearst,Ontario,,CA,None
+35.73,-80.91,35.70069,-80.88813,Troutman,North Carolina,Iredell County,US,North Carolina
+35.17,-118.47,35.14247,-118.49036,Golden Hills,California,Kern County,US,California
+37.81,-76.61,37.76986,-76.46634,Lancaster,Virginia,Lancaster County,US,Virginia
+34.01,-94.19,34.03789,-94.34132,De Queen,Arkansas,Sevier County,US,Arkansas
+39.19,-71.14,41.03594,-71.95451,Montauk,New York,Suffolk County,US,New York
+40.39,-71.76,41.03594,-71.95451,Montauk,New York,Suffolk County,US,New York
+50.14,-78.75,49.75018,-77.63277,Matagami,Quebec,Nord-du-Quebec,CA,None
+40.04,-74.22,40.04262,-74.18486,Leisure Village,New Jersey,Ocean County,US,New Jersey
+39.25,-76.33,39.33539,-76.39024,Bowleys Quarters,Maryland,Baltimore County,US,Maryland
+40.53,-118.68,40.17935,-118.47348,Lovelock,Nevada,Pershing County,US,Nevada
+42.03,-111.7,41.92271,-111.81356,Richmond,Utah,Cache County,US,Utah
+38.65,-119.26,38.78421,-119.34425,Smith Valley,Nevada,Lyon County,US,Nevada
+28.03,-120.16,30.40722,-115.88722,Luis Rodriguez (El Vergel),Baja California,Ensenada,MX,None
+33.84,-85.48,33.92455,-85.61135,Piedmont,Alabama,Calhoun County,US,Alabama
+28.14,-92.94,29.79772,-93.32515,Cameron,Louisiana,Cameron Parish,US,Louisiana
+49.52,-87.98,49.73343,-87.16668,Greenstone,Ontario,,CA,None
+36.25,-77.93,36.03849,-77.90637,Red Oak,North Carolina,Nash County,US,North Carolina
+38.13,-96.72,38.37224,-96.54278,Cottonwood Falls,Kansas,Chase County,US,Kansas
+37.03,-120.57,36.98606,-120.62657,Dos Palos,California,Merced County,US,California
+34.68,-74.98,35.26768,-75.54237,Buxton,North Carolina,Dare County,US,North Carolina
+39.67,-80.77,39.64452,-80.8576,New Martinsville,West Virginia,Wetzel County,US,West Virginia
+25.17,-66.04,21.46122,-71.14188,Cockburn Town,,,TC,None
